@@ -88,3 +88,5 @@ SQL Business Analysis
  ┌─────────────────┬─────────────────┐
  ↓                 ↓                 ↓
 Excel Reports   Power BI Dashboard   Review Data
+                   ↓
+          Final Business Insights
