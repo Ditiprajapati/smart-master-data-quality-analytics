@@ -1,0 +1,2031 @@
+material_id,material_name,category_id,supplier_id,unit,price,country
+MAT0001,Sodium Carbonate B Material 0001,CAT007,SUP232,L,2098.38,Netherlands
+MAT0002,Xylene Premium Material 0002,CAT002,SUP161,BOX,1596.99,Japan
+MAT0003,Toluene B Material 0003,CAT008,SUP035,KG,4167.27,Germany
+MAT0004,Ethylene Glycol A Material 0004,CAT006,SUP416,Liter,2804.04,Belgium
+MAT0005,Sodium Carbonate Industrial Material 0005,CAT002,SUP211,TON,4374.36,France
+MAT0006,Ethanol Industrial Material 0006,,SUP160,TON,562.82,Switzerland
+MAT0007,Sulfuric Acid B Material 0007,CAT008,SUP115,KG,1783.06,Switzerland
+MAT0008,Toluene A Material 0008,CAT005,SUP294,L,4045.75,Switzerland
+MAT0009,Formaldehyde A Material 0009,CAT010,SUP476,TON,193.32,Japan
+MAT0010,Calcium Carbonate Industrial Material 0010,CAT006,SUP004,L,4355.82,Belgium
+MAT0011,Xylene A Material 0011,CAT003,SUP380,KG,504.2,Switzerland
+MAT0012,Sulfuric Acid Premium Material 0012,CAT007,SUP233,TON,829.18,Japan
+MAT0013,Isopropyl Alcohol A Material 0013,CAT001,SUP080,L,3784.46,India
+MAT0014,Acetone Industrial Material 0014,CAT008,SUP339,BOX,2454.03,Netherlands
+MAT0015,Ethylene Glycol Industrial Material 0015,CAT004,SUP387,DRUM,613.4,France
+MAT0016,Methanol Industrial Material 0016,CAT010,SUP250,DRUM,3352.31,India
+MAT0017,Hydrochloric Acid Premium Material 0017,CAT010,SUP029,KG,1061.89,Singapore
+MAT0018,Hydrogen Peroxide Industrial Material 0018,CAT005,SUP168,KG,88.26,France
+MAT0019,Citric Acid B Material 0019,CAT007,SUP273,L,2526.3,United Kingdom
+MAT0020,Acetone Premium Material 0020,CAT001,SUP224,KG,2325.78,Germany
+MAT0021,Isopropyl Alcohol Premium Material 0021,CAT010,SUP208,BOX,1483.1,France
+MAT0022,Sodium Hydroxide Industrial Material 0022,CAT003,SUP411,DRUM,2327.48,United Kingdom
+MAT0023,ACETONE PREMIUM MATERIAL 0023,CAT002,SUP125,BOX,2964.91,Switzerland
+MAT0024,Acetone Premium Material 0024,CAT005,SUP382,TON,1146.78,United States
+MAT0025,Acetone A Material 0025,CAT009,SUP262,L,4534.32,United Kingdom
+MAT0026,Toluene B Material 0026,CAT004,SUP053,L,1317.04,United States
+MAT0027,Formaldehyde B Material 0027,CAT002,SUP091,BOX,2346.57,Belgium
+MAT0028,Acetic Acid Premium Material 0028,CAT010,SUP330,DRUM,1649.88,United Kingdom
+MAT0029,Hydrogen Peroxide Premium Material 0029,CAT002,SUP241,BOX,3175.36,Japan
+MAT0030,Acetic Acid A Material 0030,CAT006,SUP260,KG,1586.52,Netherlands
+MAT0031,Ethanol A Material 0031,CAT006,SUP426,TON,429.82,Germany
+MAT0032,Formaldehyde Premium Material 0032,CAT008,SUP298,DRUM,4773.45,India
+MAT0033,Propylene Glycol B Material 0033,CAT006,SUP310,BOX,2531.77,India
+MAT0034,Propylene Glycol A Material 0034,CAT006,SUP366,KG,2547.52,United States
+MAT0035,Ethanol B Material 0035,CAT008,SUP225,DRUM,,United States
+MAT0036,Toluene Industrial Material 0036,CAT005,SUP199,BOX,3883.6,Belgium
+MAT0037,Ethanol Industrial Material 0037,CAT002,SUP169,KG,2811.92,France
+MAT0038,Calcium Carbonate Industrial Material 0038,CAT010,SUP448,L,1700.14,Belgium
+MAT0039,Hydrogen Peroxide Industrial Material 0039,CAT005,SUP496,BOX,688.31,Germany
+MAT0040,Calcium Carbonate Premium Material 0040,CAT006,SUP417,L,3367.08,Switzerland
+MAT0041,Acetone Premium Material 0041,CAT009,SUP186,KG,1844.86,United States
+MAT0042,Sulfuric Acid Industrial Material 0042,CAT008,SUP099,L,4999.88,United States
+MAT0043,Acetone Industrial Material 0043,CAT002,SUP260,DRUM,4183.84,Switzerland
+MAT0044,Ethanol Industrial Material 0044,CAT010,SUP068,DRUM,1914.76,United States
+MAT0045,Citric Acid B Material 0045,CAT008,SUP023,Box,1853.28,Singapore
+MAT0046,Propylene Glycol Industrial Material 0046,CAT008,SUP120,DRUM,1233.88,Netherlands
+MAT0047,Sulfuric Acid Industrial Material 0047,CAT010,SUP226,BOX,3858.72,France
+MAT0048,Ammonium Hydroxide Premium Material 0048,CAT003,SUP419,L,4016.23,United States
+MAT0049,Sodium Chloride A Material 0049,CAT008,SUP448,TON,2794.98,Germany
+MAT0050,Ammonium Hydroxide A Material 0050,CAT005,SUP043,L,1400.32,Switzerland
+MAT0051,Hydrogen Peroxide Premium Material 0051,CAT002,SUP485,L,4092.68,United Kingdom
+MAT0052,Sodium Hydroxide Premium Material 0052,CAT001,SUP203,DRUM,1901.11,France
+MAT0053,Acetone Industrial Material 0053,CAT004,SUP015,TON,4657.59,United Kingdom
+MAT0054,Hydrogen Peroxide B Material 0054,CAT001,SUP147,BOX,3495.56,United States
+MAT0055,Glycerol Premium Material 0055,CAT010,SUP003,KG,144.07,Singapore
+MAT0056,Hydrogen Peroxide Premium Material 0056,CAT002,SUP398,TON,1226.32,Germany
+MAT0057,Ethanol B Material 0057,CAT007,SUP328,DRUM,2312.71,Germany
+MAT0058,Glycerol A Material 0058,CAT009,SUP295,L,3606.79,Japan
+MAT0059,Ethylene Glycol A Material 0059,CAT010,SUP181,L,2874.79,United States
+MAT0060,Acetone Industrial Material 0060,CAT002,SUP489,DRUM,2743.21,Switzerland
+MAT0061,Sodium Carbonate A Material 0061,CAT007,SUP448,BOX,265.5,France
+MAT0062,Toluene Industrial Material 0062,CAT001,SUP183,KG,1756.77,Germany
+MAT0063,Acetic Acid Industrial Material 0063,CAT003,SUP023,TON,2752.77,United States
+MAT0064,Propylene Glycol Premium Material 0064,CAT003,SUP416,L,362.35,Netherlands
+MAT0065,Ethanol Industrial Material 0065,CAT004,SUP023,L,4434.66,United Kingdom
+MAT0066,Calcium Carbonate Premium Material 0066,CAT009,SUP243,TON,-856.0,Singapore
+MAT0067,Calcium Carbonate Industrial Material 0067,CAT001,SUP444,TON,1402.42,United Kingdom
+MAT0068,Ethylene Glycol Premium Material 0068,CAT008,SUP459,BOX,1728.23,United States
+MAT0069,Glycerol Premium Material 0069,CAT006,SUP474,DRUM,1370.27,Germany
+MAT0070,Ethylene Glycol A Material 0070,CAT007,SUP309,L,2750.1,United Kingdom
+MAT0071,Methanol A Material 0071,CAT006,SUP339,TON,1567.15,Belgium
+MAT0072,Ethylene Glycol B Material 0072,CAT008,SUP180,BOX,259.66,United Kingdom
+MAT0073,Formaldehyde Premium Material 0073,CAT005,SUP328,KG,421.45,France
+MAT0074,Toluene B Material 0074,CAT001,SUP074,DRUM,3406.54,Netherlands
+MAT0075,Ethanol B Material 0075,CAT002,SUP121,TON,1842.65,Belgium
+MAT0076,Ethanol B Material 0076,CAT008,SUP486,TON,1891.47,Germany
+MAT0077,Acetic Acid B Material 0077,CAT009,SUP188,BOX,1606.21,Japan
+MAT0078,Hydrochloric Acid A Material 0078,CAT001,SUP377,L,2520.27,France
+MAT0079,Sodium Carbonate A Material 0079,CAT005,SUP397,Tonne,3534.99,Singapore
+MAT0080,Formaldehyde Industrial Material 0080,CAT008,SUP103,KG,721.86,Germany
+MAT0081,Propylene Glycol B Material 0081,CAT008,SUP045,TON,3355.81,Germany
+MAT0082,Sodium Carbonate Industrial Material 0082,CAT005,SUP436,L,3573.46,United States
+MAT0083,Toluene B Material 0083,CAT002,SUP103,L,1221.84,Netherlands
+MAT0084,Sodium Hydroxide Industrial Material 0084,CAT009,SUP294,Tonne,2363.66,Switzerland
+MAT0085,Hydrogen Peroxide A Material 0085,CAT002,SUP159,BOX,4998.0,Netherlands
+MAT0086,Ammonium Hydroxide Premium Material 0086,,SUP422,DRUM,415.07,United Kingdom
+MAT0087,Acetone Premium Material 0087,CAT008,SUP349,DRUM,1755.35,Switzerland
+MAT0088,Acetic Acid B Material 0088,CAT003,SUP222,DRUM,4558.03,India
+MAT0089,Methanol B Material 0089,CAT005,SUP085,Liter,1647.17,Singapore
+MAT0090,Toluene Industrial Material 0090,CAT002,SUP129,L,3193.53,Switzerland
+MAT0091,Sodium Chloride B Material 0091,CAT005,SUP315,DRUM,512.47,United States
+MAT0092,Acetic Acid B Material 0092,CAT003,SUP338,DRUM,3617.13,Belgium
+MAT0093,Isopropyl Alcohol A Material 0093,CAT001,SUP042,KG,4745.31,Belgium
+MAT0094,Sodium Chloride B Material 0094,CAT010,SUP214,DRUM,3213.01,Netherlands
+MAT0095,Sodium Carbonate Industrial Material 0095,CAT005,SUP248,L,4033.21,France
+MAT0096,Calcium Carbonate Premium Material 0096,CAT002,SUP353,KG,832.5,France
+MAT0097,Glycerol Premium Material 0097,CAT004,SUP175,DRUM,761.16,United Kingdom
+MAT0098,Toluene Premium Material 0098,CAT003,SUP390,Tonne,2599.15,Germany
+MAT0099,Isopropyl Alcohol B Material 0099,CAT008,SUP063,TON,2275.5,United States
+MAT0100,Methanol A Material 0100,CAT005,SUP485,BOX,4327.61,France
+MAT0101,Hydrochloric Acid B Material 0101,CAT006,SUP479,DRUM,3619.59,Singapore
+MAT0102,Citric Acid Premium Material 0102,CAT009,SUP240,box,4401.42,Netherlands
+MAT0103,Sodium Hydroxide A Material 0103,CAT007,SUP259,BOX,4835.1,Singapore
+MAT0104,Acetic Acid Industrial Material 0104,CAT001,SUP026,Tonne,2499.73,Netherlands
+MAT0105,Calcium Carbonate A Material 0105,CAT002,SUP221,L,4418.16,United Kingdom
+MAT0106,Xylene Industrial Material 0106,CAT001,SUP206,KG,2872.89,Singapore
+MAT0107,Toluene Industrial Material 0107,CAT002,SUP198,DRUM,2279.25,Switzerland
+MAT0108,Sodium Chloride A Material 0108,CAT003,SUP500,KG,1999.82,United Kingdom
+MAT0109,Sodium Carbonate Industrial Material 0109,CAT003,SUP102,DRUM,2570.16,Switzerland
+MAT0110,Ethanol A Material 0110,CAT001,SUP071,TON,4029.63,Switzerland
+MAT0111,Propylene Glycol B Material 0111,CAT010,SUP458,DRUM,741.92,Belgium
+MAT0112,Isopropyl Alcohol B Material 0112,CAT007,SUP316,TON,2988.94,Switzerland
+MAT0113,Ammonium Hydroxide Premium Material 0113,CAT010,SUP154,BOX,4087.96,United Kingdom
+MAT0114,Isopropyl Alcohol A Material 0114,CAT007,SUP299,TON,3993.94,India
+MAT0115,Formaldehyde Premium Material 0115,CAT005,SUP496,DRUM,,India
+MAT0116,Acetic Acid Premium Material 0116,CAT003,SUP269,DRUM,3884.3,France
+MAT0117,Hydrogen Peroxide B Material 0117,CAT001,SUP294,KG,994.38,Netherlands
+MAT0118,Isopropyl Alcohol Premium Material 0118,CAT003,SUP212,L,2081.37,Belgium
+MAT0119,Glycerol A Material 0119,CAT003,SUP266,L,2826.39,Netherlands
+MAT0120,Ammonium Hydroxide Premium Material 0120,CAT006,SUP490,L,2325.33,Switzerland
+MAT0121,Isopropyl Alcohol Industrial Material 0121,CAT005,SUP313,BOX,1001.71,Singapore
+MAT0122,Sodium Chloride Industrial Material 0122,CAT004,SUP483,TON,3867.31,Singapore
+MAT0123,Glycerol Industrial Material 0123,CAT008,SUP179,DRUM,4671.82,Japan
+MAT0124,Calcium Carbonate A Material 0124,CAT010,SUP347,DRUM,1929.49,France
+MAT0125,Toluene B Material 0125,CAT005,SUP022,TON,4778.8,Germany
+MAT0126,Toluene Premium Material 0126,CAT005,SUP383,BOX,1109.23,Switzerland
+MAT0127,Sodium Chloride Industrial Material 0127,CAT003,SUP056,DRUM,3717.41,Singapore
+MAT0128,Hydrochloric Acid A Material 0128,CAT009,SUP116,L,309.83,France
+MAT0129,Isopropyl Alcohol Premium Material 0129,CAT002,SUP349,L,75.65,Switzerland
+MAT0130,Citric Acid Premium Material 0130,CAT008,SUP245,L,3791.76,Japan
+MAT0131,Isopropyl Alcohol Industrial Material 0131,CAT001,SUP465,KG,3278.88,Singapore
+MAT0132,Sodium Carbonate A Material 0132,CAT003,SUP214,L,4672.92,India
+MAT0133,Xylene Premium Material 0133,CAT003,SUP480,TON,4389.88,India
+MAT0134,Calcium Carbonate A Material 0134,CAT006,SUP146,BOX,4946.04,Switzerland
+MAT0135,Ammonium Hydroxide Premium Material 0135,CAT003,SUP436,DRUM,2366.7,Singapore
+MAT0136,Methanol Industrial Material 0136,CAT003,SUP375,BOX,3259.01,United States
+MAT0137,Sodium Hydroxide Industrial Material 0137,CAT005,SUP291,L,918.7,France
+MAT0138,Ethylene Glycol Industrial Material 0138,CAT002,SUP206,KG,964.67,United States
+MAT0139,Glycerol Industrial Material 0139,CAT004,SUP004,TON,1948.69,Netherlands
+MAT0140,Sodium Chloride Industrial Material 0140,CAT005,SUP299,DRUM,106.61,United Kingdom
+MAT0141,Hydrochloric Acid A Material 0141,CAT002,SUP239,TON,840.6,Switzerland
+MAT0142,Calcium Carbonate A Material 0142,CAT005,SUP189,DRUM,1143.2,United States
+MAT0143,Glycerol B Material 0143,CAT008,SUP383,DRUM,1899.44,Switzerland
+MAT0144,Glycerol B Material 0144,CAT004,SUP349,DRUM,4372.02,Germany
+MAT0145,Ammonium Hydroxide Premium Material 0145,CAT009,SUP361,TON,436.61,Belgium
+MAT0146,Methanol A Material 0146,,SUP463,DRUM,1050.68,Switzerland
+MAT0147,Hydrogen Peroxide B Material 0147,CAT006,SUP438,DRUM,2237.11,Singapore
+MAT0148,Acetic Acid Premium Material 0148,CAT002,SUP461,DRUM,2255.14,India
+MAT0149,Propylene Glycol B Material 0149,CAT009,SUP213,BOX,2841.36,Switzerland
+MAT0150,Propylene Glycol Industrial Material 0150,CAT001,SUP203,TON,4091.44,Singapore
+MAT0151,Acetic Acid A Material 0151,CAT001,SUP217,TON,3516.91,Switzerland
+MAT0152,Ethanol A Material 0152,CAT008,SUP017,TON,2073.89,United States
+MAT0153,Ethylene Glycol Industrial Material 0153,CAT007,SUP230,BOX,1909.45,Switzerland
+MAT0154,Hydrogen Peroxide Industrial Material 0154,CAT002,SUP092,DRUM,1995.64,United States
+MAT0155,Hydrochloric Acid A Material 0155,CAT001,SUP153,BOX,3383.82,Switzerland
+MAT0156,Ethylene Glycol Premium Material 0156,,SUP127,BOX,1763.49,Japan
+MAT0157,Sulfuric Acid A Material 0157,CAT001,SUP415,BOX,3093.87,India
+MAT0158,Hydrochloric Acid B Material 0158,CAT002,SUP052,DRUM,216.2,Belgium
+MAT0159,Ethanol B Material 0159,CAT001,SUP206,Box,1209.98,Singapore
+MAT0160,Ethanol B Material 0160,CAT009,SUP149,L,4088.14,Belgium
+MAT0161,Isopropyl Alcohol Industrial Material 0161,CAT004,SUP155,L,4929.19,Switzerland
+MAT0162,Hydrochloric Acid Premium Material 0162,CAT005,SUP141,KG,2805.75,Belgium
+MAT0163,Citric Acid Premium Material 0163,CAT009,SUP254,KG,4862.84,France
+MAT0164,Ammonium Hydroxide Industrial Material 0164,CAT007,SUP210,L,1534.45,United States
+MAT0165,Sodium Carbonate Premium Material 0165,CAT004,SUP435,L,1538.65,United States
+MAT0166,Propylene Glycol A Material 0166,CAT009,SUP212,BOX,2808.57,United States
+MAT0167,Xylene B Material 0167,CAT005,SUP105,tonne,3251.19,Netherlands
+MAT0168,Toluene A Material 0168,CAT009,SUP371,L,,France
+MAT0169,Formaldehyde A Material 0169,CAT002,SUP097,DRUM,3635.31,Switzerland
+MAT0170,Sulfuric Acid Premium Material 0170,CAT004,SUP446,Tonne,1550.78,India
+MAT0171,Sulfuric Acid B Material 0171,,SUP383,BOX,4576.48,Belgium
+MAT0172,Sulfuric Acid Premium Material 0172,CAT004,SUP283,TON,3888.79,France
+MAT0173,Propylene Glycol Industrial Material 0173,CAT005,SUP134,TON,2588.44,Netherlands
+MAT0174,Propylene Glycol A Material 0174,CAT008,SUP390,TON,4575.94,United Kingdom
+MAT0175,Isopropyl Alcohol Premium Material 0175,CAT001,SUP289,L,3719.2,India
+MAT0176,Sodium Chloride Premium Material 0176,CAT005,SUP079,L,1682.83,France
+MAT0177,Acetic Acid B Material 0177,CAT008,SUP282,TON,1323.77,Netherlands
+MAT0178,Glycerol Premium Material 0178,CAT003,SUP376,TON,887.87,Switzerland
+MAT0179,Glycerol B Material 0179,CAT009,SUP329,KG,2643.52,Germany
+MAT0180,Ethanol A Material 0180,CAT007,SUP071,Liter,386.44,United States
+MAT0181,Sodium Hydroxide B Material 0181 ,CAT009,SUP234,TON,349.23,Belgium
+MAT0182,Glycerol Premium Material 0182,CAT001,SUP004,DRUM,2780.64,India
+MAT0183,Sodium Hydroxide Industrial Material 0183,CAT009,SUP147,KG,2535.97,France
+MAT0184,Citric Acid A Material 0184,CAT002,SUP269,L,1242.8,Belgium
+MAT0185,Ammonium Hydroxide Industrial Material 0185,CAT006,SUP137,BOX,441.15,France
+MAT0186,Propylene Glycol B Material 0186,CAT004,SUP154,KG,3285.99,India
+MAT0187,Acetone Premium Material 0187,CAT007,SUP194,DRUM,2406.23,India
+MAT0188,Citric Acid A Material 0188,,SUP433,BOX,3242.29,United Kingdom
+MAT0189,Acetic Acid A Material 0189,CAT009,SUP471,KG,1187.34,Belgium
+MAT0190,Glycerol Industrial Material 0190,CAT001,SUP474,Kg,3437.92,Japan
+MAT0191,Sodium Carbonate A Material 0191,CAT003,SUP476,TON,127.51,Singapore
+MAT0192,Acetic Acid B Material 0192,CAT007,SUP476,KG,1531.42,Belgium
+MAT0193,Hydrochloric Acid Premium Material 0193,CAT009,SUP170,BOX,3790.27,United States
+MAT0194,Acetone Industrial Material 0194,CAT001,SUP051,BOX,1199.11,Germany
+MAT0195,Isopropyl Alcohol Premium Material 0195,CAT006,SUP016,TON,3928.56,Netherlands
+MAT0196,Glycerol B Material 0196,CAT006,SUP284,BOX,2187.65,Belgium
+MAT0197,Xylene A Material 0197,CAT010,SUP152,l,3579.89,Germany
+MAT0198,Sodium Chloride B Material 0198,CAT007,SUP365,L,3711.29,United Kingdom
+MAT0199,Toluene A Material 0199,CAT002,SUP003,TON,2251.44,Japan
+MAT0200,Methanol B Material 0200,CAT002,SUP096,BOX,2271.78,Switzerland
+MAT0201,Ammonium Hydroxide Premium Material 0201,CAT002,SUP014,KG,1801.88,Germany
+MAT0202,Formaldehyde Industrial Material 0202,CAT007,SUP007,TON,2098.36,Germany
+MAT0203,Sodium Carbonate B Material 0203,CAT010,SUP267,L,3442.31,United States
+MAT0204,Hydrogen Peroxide Industrial Material 0204,CAT005,SUP138,BOX,772.38,United States
+MAT0205,Ethylene Glycol Industrial Material 0205,CAT007,SUP154,Box,3924.2,United Kingdom
+MAT0206,Sodium Chloride B Material 0206,CAT008,SUP305,DRUM,1017.96,Germany
+MAT0207,Hydrogen Peroxide Industrial Material 0207,CAT001,SUP486,BOX,1694.48,Belgium
+MAT0208,Xylene Industrial Material 0208,CAT008,SUP172,box,4086.6,Belgium
+MAT0209,Hydrogen Peroxide Industrial Material 0209,CAT006,SUP309,L,2421.1,United States
+MAT0210,Xylene Industrial Material 0210,CAT005,SUP377,BOX,4840.43,Singapore
+MAT0211,Isopropyl Alcohol Premium Material 0211,CAT005,SUP419,BOX,1856.83,Belgium
+MAT0212,Sulfuric Acid B Material 0212,CAT009,SUP014,BOX,4717.73,Singapore
+MAT0213,Propylene Glycol Industrial Material 0213,CAT002,SUP420,BOX,3381.24,United States
+MAT0214,Calcium Carbonate B Material 0214,CAT005,SUP338,L,3590.42,France
+MAT0215,Acetone Premium Material 0215,CAT010,SUP246,DRUM,2033.99,Switzerland
+MAT0216,Ethylene Glycol A Material 0216,CAT006,SUP360,DRUM,2989.41,Germany
+MAT0217,Methanol B Material 0217,CAT006,SUP086,DRUM,269.27,France
+MAT0218,Isopropyl Alcohol Premium Material 0218,CAT002,SUP006,KG,1330.75,Switzerland
+MAT0219,Ammonium Hydroxide B Material 0219,CAT008,SUP192,BOX,2342.16,Belgium
+MAT0220,Ammonium Hydroxide B Material 0220,CAT006,SUP013,BOX,567.52,France
+MAT0221,Acetone A Material 0221,CAT003,SUP179,TON,1748.18,Singapore
+MAT0222,Ammonium Hydroxide Premium Material 0222,CAT006,SUP244,KG,,Netherlands
+MAT0223,Isopropyl Alcohol A Material 0223,CAT005,SUP023,KG,161.8,United Kingdom
+MAT0224,Methanol B Material 0224,CAT004,SUP265,L,2781.96,United Kingdom
+MAT0225,Sodium Carbonate Premium Material 0225,CAT008,SUP119,BOX,3167.31,United States
+MAT0226,Ethylene Glycol Premium Material 0226,CAT001,SUP378,DRUM,4421.33,Netherlands
+MAT0227,Acetic Acid Premium Material 0227,CAT007,SUP003,L,1068.63,Germany
+MAT0228,Acetic Acid A Material 0228,CAT009,SUP096,TON,1663.63,Netherlands
+MAT0229,Methanol Industrial Material 0229,CAT008,SUP271,TON,3005.01,Belgium
+MAT0230,Xylene A Material 0230,CAT006,SUP181,BOX,3105.95,Japan
+MAT0231,Formaldehyde A Material 0231,CAT003,SUP161,KG,1230.93,Germany
+MAT0232,Citric Acid Industrial Material 0232,CAT003,SUP262,BOX,2120.28,United States
+MAT0233,Acetic Acid Premium Material 0233,CAT007,SUP096,BOX,3195.73,United States
+MAT0234,Sodium Carbonate B Material 0234,CAT008,SUP148,L,976.14,Netherlands
+MAT0235,Formaldehyde A Material 0235,CAT006,SUP488,KG,2448.81,Singapore
+MAT0236,Xylene Premium Material 0236,CAT007,SUP351,BOX,2107.37,Netherlands
+MAT0237,Glycerol B Material 0237,CAT002,SUP290,KG,3989.61,Singapore
+MAT0238,Calcium Carbonate A Material 0238,CAT005,SUP116,DRUM,1478.92,Netherlands
+MAT0239,Acetic Acid Premium Material 0239,CAT009,SUP262,KG,2884.93,Japan
+MAT0240,Sodium Carbonate Industrial Material 0240,CAT009,SUP422,KG,3812.02,Netherlands
+MAT0241,Sodium Carbonate B Material 0241,CAT007,SUP053,L,1523.66,India
+MAT0242,Propylene Glycol Industrial Material 0242,CAT006,SUP442,KG,2223.4,Germany
+MAT0243,Hydrochloric Acid B Material 0243,CAT010,SUP353,TON,4312.19,Belgium
+MAT0244,Ethylene Glycol B Material 0244,CAT010,SUP072,L,4076.97,India
+MAT0245,Acetic Acid Industrial Material 0245,CAT009,SUP144,DRUM,2716.9,United Kingdom
+MAT0246,Calcium Carbonate Industrial Material 0246,CAT010,SUP137,DRUM,4928.17,Germany
+MAT0247,Hydrogen Peroxide Premium Material 0247,CAT001,SUP142,L,3522.06,United States
+MAT0248,Hydrochloric Acid B Material 0248,CAT006,SUP425,L,3819.29,France
+MAT0249,Glycerol B Material 0249,CAT010,SUP324,TON,3157.67,France
+MAT0250,Propylene Glycol A Material 0250,CAT002,SUP207,DRUM,3761.52,United Kingdom
+MAT0251,Propylene Glycol Premium Material 0251,CAT006,SUP298,KG,4351.09,Germany
+MAT0252,Propylene Glycol Industrial Material 0252,CAT002,SUP408,DRUM,2018.69,France
+MAT0253,Sulfuric Acid Premium Material 0253,CAT005,SUP166,TON,1721.89,Belgium
+MAT0254,Hydrogen Peroxide Premium Material 0254,CAT006,SUP458,KG,277.42,Netherlands
+MAT0255,Sodium Hydroxide A Material 0255,CAT003,SUP226,BOX,53.35,France
+MAT0256,Sulfuric Acid B Material 0256,CAT005,SUP082,TON,512.03,United Kingdom
+MAT0257,Sodium Chloride A Material 0257,CAT006,SUP341,L,306.35,Japan
+MAT0258,Hydrochloric Acid Premium Material 0258,CAT002,SUP361,KG,55.38,Netherlands
+MAT0259,Acetone B Material 0259,CAT010,SUP116,DRUM,3415.91,India
+MAT0260,Sodium Hydroxide Industrial Material 0260,CAT002,SUP441,box,3485.45,Netherlands
+MAT0261,Acetone B Material 0261,CAT007,SUP046,KG,560.85,United Kingdom
+MAT0262,Calcium Carbonate B Material 0262,CAT007,SUP397,L,3225.8,United States
+MAT0263,Acetone A Material 0263,CAT010,SUP333,L,2228.49,Singapore
+MAT0264,Hydrogen Peroxide Premium Material 0264,CAT010,SUP352,box,4306.81,Germany
+MAT0265,Methanol B Material 0265,CAT002,SUP302,BOX,1790.1,France
+MAT0266,Isopropyl Alcohol B Material 0266,CAT004,SUP142,KG,1278.43,Belgium
+MAT0267,Formaldehyde Industrial Material 0267,CAT001,SUP435,TON,1066.96,Belgium
+MAT0268,Ammonium Hydroxide B Material 0268,CAT007,SUP152,KG,3929.82,Singapore
+MAT0269,Glycerol Premium Material 0269,CAT002,SUP124,BOX,3208.51,Germany
+MAT0270,Ammonium Hydroxide A Material 0270,CAT006,SUP479,TON,703.32,Belgium
+MAT0271,Ethylene Glycol Industrial Material 0271,CAT009,SUP350,L,3825.49,Germany
+MAT0272,Sodium Hydroxide A Material 0272,CAT001,SUP135,L,247.14,India
+MAT0273,Xylene Industrial Material 0273,CAT009,SUP393,BOX,2146.7,France
+MAT0274,Acetone B Material 0274,CAT005,SUP043,TON,441.16,Singapore
+MAT0275,Hydrogen Peroxide Industrial Material 0275,CAT007,SUP301,KG,1585.34,France
+MAT0276,Hydrochloric Acid A Material 0276,CAT004,SUP045,BOX,624.13,Belgium
+MAT0277,Formaldehyde A Material 0277,CAT005,SUP342,L,641.24,United States
+MAT0278,Sodium Hydroxide B Material 0278,CAT008,SUP488,TON,2638.88,Japan
+MAT0279,Citric Acid Industrial Material 0279,CAT003,SUP384,TON,3678.03,Germany
+MAT0280,Sodium Hydroxide Industrial Material 0280,CAT007,SUP140,DRUM,366.17,Belgium
+MAT0281,Acetone Premium Material 0281,CAT008,SUP262,TON,324.42,Belgium
+MAT0282,Citric Acid Industrial Material 0282,CAT003,SUP131,kg,4476.63,Germany
+MAT0283,Hydrochloric Acid A Material 0283,CAT001,SUP440,KG,1260.53,Netherlands
+MAT0284,Toluene Premium Material 0284,CAT003,SUP092,KG,2786.68,France
+MAT0285,Hydrochloric Acid Industrial Material 0285,CAT004,SUP214,TON,1392.73,Germany
+MAT0286,Acetic Acid Industrial Material 0286,CAT002,SUP258,KG,937.75,Switzerland
+MAT0287,Ethanol Premium Material 0287,CAT002,SUP450,BOX,4336.86,Japan
+MAT0288,Isopropyl Alcohol A Material 0288,CAT009,SUP234,KG,1876.15,Japan
+MAT0289,Acetic Acid Industrial Material 0289,CAT010,SUP125,BOX,1872.95,Netherlands
+MAT0290,Sulfuric Acid B Material 0290,CAT003,SUP004,BOX,168.36,Switzerland
+MAT0291,Toluene A Material 0291,CAT006,SUP001,BOX,4252.58,Japan
+MAT0292,Methanol B Material 0292,CAT009,SUP122,BOX,2485.54,India
+MAT0293,Hydrogen Peroxide Industrial Material 0293,CAT002,SUP023,L,4491.57,Switzerland
+MAT0294,Ethylene Glycol Industrial Material 0294,CAT008,SUP499,KG,2924.81,Switzerland
+MAT0295,Hydrogen Peroxide Premium Material 0295,CAT002,SUP304,DRUM,358.3,United States
+MAT0296,hydrochloric acid industrial material 0296,CAT005,SUP436,TON,4633.91,France
+MAT0297,Isopropyl Alcohol Industrial Material 0297,CAT008,SUP140,L,419.7,Singapore
+MAT0298,Hydrogen Peroxide A Material 0298,CAT003,SUP055,L,,United Kingdom
+MAT0299,Ethylene Glycol A Material 0299,CAT009,SUP184,L,2286.99,Netherlands
+MAT0300,Sodium Chloride A Material 0300,CAT002,SUP081,TON,4140.61,Belgium
+MAT0301,Ethanol B Material 0301,CAT006,SUP076,KG,3570.23,United Kingdom
+MAT0302,Xylene A Material 0302,CAT005,SUP134,L,203.86,France
+MAT0303,Propylene Glycol B Material 0303,CAT002,SUP237,KG,-213.0,United States
+MAT0304,Methanol A Material 0304,CAT001,SUP426,L,697.04,France
+MAT0305,Toluene A Material 0305,CAT010,SUP301,TON,4591.27,Germany
+MAT0306,Sodium Hydroxide A Material 0306,CAT004,SUP463,BOX,4056.03,Germany
+MAT0307,Isopropyl Alcohol A Material 0307,CAT001,SUP483,BOX,300.66,Belgium
+MAT0308,Ethylene Glycol Premium Material 0308,CAT008,SUP016,BOX,3431.9,United States
+MAT0309,Toluene B Material 0309,CAT003,SUP141,TON,2257.76,United States
+MAT0310,Ethanol B Material 0310,CAT005,SUP256,box,4419.75,Netherlands
+MAT0311,Ethanol A Material 0311,CAT005,SUP197,L,2125.21,Switzerland
+MAT0312,Hydrochloric Acid A Material 0312,CAT007,SUP401,TON,2424.44,Netherlands
+MAT0313,Toluene Industrial Material 0313 ,CAT007,SUP139,L,179.01,Belgium
+MAT0314,Hydrochloric Acid A Material 0314,CAT005,SUP030,BOX,2670.69,Belgium
+MAT0315,Hydrochloric Acid B Material 0315,CAT002,SUP127,L,1369.31,India
+MAT0316,Hydrochloric Acid Premium Material 0316,CAT006,SUP479,L,921.7,Belgium
+MAT0317,Isopropyl Alcohol Industrial Material 0317,CAT010,SUP015,TON,4740.42,Belgium
+MAT0318,Hydrogen Peroxide B Material 0318,CAT008,SUP278,TON,919.01,India
+MAT0319,Acetone A Material 0319,CAT004,SUP309,L,148.64,Netherlands
+MAT0320,Sodium Hydroxide Industrial Material 0320,CAT010,SUP104,L,1736.76,United States
+MAT0321,Isopropyl Alcohol A Material 0321,CAT001,SUP076,DRUM,3538.25,United States
+MAT0322,Methanol Industrial Material 0322,CAT002,SUP192,BOX,2950.78,United Kingdom
+MAT0323,Calcium Carbonate Industrial Material 0323,CAT003,SUP500,L,3675.14,France
+MAT0324,Glycerol Industrial Material 0324,CAT003,SUP363,DRUM,3483.12,Belgium
+MAT0325,Toluene B Material 0325,CAT010,SUP418,L,1923.0,Japan
+MAT0326,Hydrogen Peroxide B Material 0326,CAT001,SUP486,DRUM,1988.43,Belgium
+MAT0327,Ethanol B Material 0327,CAT010,SUP163,DRUM,1143.43,Belgium
+MAT0328,Methanol Premium Material 0328,CAT003,SUP170,KG,1228.08,United Kingdom
+MAT0329,Citric Acid A Material 0329,CAT006,SUP229,KG,1362.8,Singapore
+MAT0330,Acetone Industrial Material 0330,CAT005,SUP403,KG,3616.05,India
+MAT0331,Xylene Premium Material 0331,CAT007,SUP497,L,4428.53,Netherlands
+MAT0332,Xylene Industrial Material 0332,CAT009,SUP193,KG,4152.59,Belgium
+MAT0333,Hydrochloric Acid B Material 0333,CAT008,SUP038,KG,1509.8,United Kingdom
+MAT0334,Sodium Chloride A Material 0334,CAT002,SUP176,L,4445.26,United States
+MAT0335,Acetone A Material 0335,CAT006,SUP305,DRUM,4471.47,India
+MAT0336,Ethylene Glycol B Material 0336,CAT010,SUP456,BOX,827.66,Germany
+MAT0337,Isopropyl Alcohol B Material 0337,CAT004,SUP210,DRUM,3624.09,Switzerland
+MAT0338,Sodium Chloride Industrial Material 0338,CAT005,SUP122,KG,295.7,Belgium
+MAT0339,Sodium Carbonate Premium Material 0339,CAT003,SUP028,TON,68.89,Germany
+MAT0340,Calcium Carbonate Premium Material 0340,CAT004,SUP050,KG,1074.42,Japan
+MAT0341,ACETONE PREMIUM MATERIAL 0341,CAT002,SUP158,BOX,2381.18,Japan
+MAT0342,Acetone Premium Material 0342,CAT003,SUP190,BOX,1878.54,Netherlands
+MAT0343,Ethanol Industrial Material 0343,CAT008,SUP239,TON,1169.9,Japan
+MAT0344,Acetic Acid A Material 0344,CAT003,SUP386,KG,474.25,United Kingdom
+MAT0345,Sodium Carbonate Premium Material 0345,CAT010,SUP117,DRUM,351.87,France
+MAT0346,Ammonium Hydroxide Premium Material 0346 ,CAT009,SUP352,BOX,2884.94,Singapore
+MAT0347,Glycerol Industrial Material 0347,CAT002,SUP203,KG,2535.4,Switzerland
+MAT0348,Acetic Acid B Material 0348,CAT002,SUP487,BOX,905.75,United States
+MAT0349,Sulfuric Acid B Material 0349,CAT003,SUP022,BOX,437.92,France
+MAT0350,Sulfuric Acid B Material 0350,CAT010,SUP133,TON,4558.48,Germany
+MAT0351,Acetone Premium Material 0351,CAT009,SUP204,DRUM,1664.33,Japan
+MAT0352,Ammonium Hydroxide Premium Material 0352,CAT001,SUP403,DRUM,2958.5,France
+MAT0353,Methanol Premium Material 0353,CAT003,SUP076,DRUM,2960.27,Germany
+MAT0354,Methanol A Material 0354,CAT005,SUP445,DRUM,4406.67,France
+MAT0355,Sodium Chloride Premium Material 0355,CAT008,SUP293,DRUM,2391.58,United States
+MAT0356,Sodium Chloride Premium Material 0356,CAT003,SUP317,DRUM,3420.02,France
+MAT0357,Ethanol Premium Material 0357,CAT006,SUP354,L,293.99,Netherlands
+MAT0358,Sodium Chloride Industrial Material 0358,CAT001,SUP173,TON,1589.2,Netherlands
+MAT0359,Methanol B Material 0359,CAT003,SUP154,BOX,3881.45,United Kingdom
+MAT0360,Sodium Chloride Premium Material 0360,CAT010,SUP331,KG,980.28,Singapore
+MAT0361,Ethylene Glycol Premium Material 0361,CAT009,SUP445,TON,4114.04,Switzerland
+MAT0362,Citric Acid A Material 0362,CAT005,SUP364,DRUM,-125.0,Switzerland
+MAT0363,Acetic Acid A Material 0363,CAT003,SUP099,L,4193.03,Singapore
+MAT0364,Ethanol Premium Material 0364,CAT001,SUP471,TON,3537.94,Japan
+MAT0365,Toluene Premium Material 0365,,SUP204,KG,3421.81,Singapore
+MAT0366,Toluene Premium Material 0366,CAT010,SUP229,L,4804.58,Netherlands
+MAT0367,Acetic Acid Industrial Material 0367,CAT006,SUP084,TON,3757.36,Germany
+MAT0368,Calcium Carbonate A Material 0368,CAT007,SUP026,L,4276.42,Singapore
+MAT0369,Hydrochloric Acid B Material 0369,CAT004,SUP138,BOX,2590.74,India
+MAT0370,Glycerol B Material 0370,,SUP308,KG,1157.66,Belgium
+MAT0371,Calcium Carbonate Industrial Material 0371,CAT007,SUP459,BOX,4265.35,Netherlands
+MAT0372,Sodium Chloride B Material 0372,CAT008,SUP155,DRUM,4130.34,France
+MAT0373,Acetic Acid A Material 0373,CAT001,SUP262,TON,2829.21,Belgium
+MAT0374,Formaldehyde Industrial Material 0374,CAT005,SUP351,KG,2434.61,United Kingdom
+MAT0375,Sodium Chloride Industrial Material 0375,CAT005,SUP134,TON,982.38,Switzerland
+MAT0376,Hydrochloric Acid A Material 0376,CAT010,SUP207,TON,3419.74,India
+MAT0377,Glycerol Industrial Material 0377,CAT005,SUP465,BOX,2052.76,India
+MAT0378,Acetic Acid B Material 0378,CAT006,SUP372,L,3447.27,Netherlands
+MAT0379,Toluene Industrial Material 0379,CAT003,SUP431,DRUM,946.62,Germany
+MAT0380,Glycerol B Material 0380,CAT005,SUP372,DRUM,3826.45,United States
+MAT0381,Isopropyl Alcohol A Material 0381,CAT004,SUP182,Liter,3733.84,Japan
+MAT0382,Ethylene Glycol Industrial Material 0382,CAT006,SUP134,Drum,1505.55,Germany
+MAT0383,Glycerol A Material 0383,CAT010,SUP298,DRUM,402.52,Singapore
+MAT0384,Ammonium Hydroxide A Material 0384,CAT007,SUP272,TON,2094.88,United States
+MAT0385,Hydrogen Peroxide B Material 0385,,SUP210,Drum,4469.58,Netherlands
+MAT0386,Hydrogen Peroxide Industrial Material 0386,CAT003,SUP399,KG,,United States
+MAT0387,Isopropyl Alcohol A Material 0387,CAT001,SUP232,TON,1086.44,United States
+MAT0388,Acetic Acid B Material 0388,CAT008,SUP403,KG,690.56,France
+MAT0389,Ethylene Glycol Premium Material 0389,CAT007,SUP495,BOX,1947.42,India
+MAT0390,Sodium Carbonate B Material 0390,CAT006,SUP487,KG,4465.43,Switzerland
+MAT0391,Sulfuric Acid A Material 0391,CAT001,SUP321,L,1170.02,United Kingdom
+MAT0392,Calcium Carbonate B Material 0392,CAT002,SUP197,DRUM,2963.92,United States
+MAT0393,Acetone A Material 0393,CAT005,SUP486,TON,2306.84,Switzerland
+MAT0394,Formaldehyde Industrial Material 0394,CAT007,SUP455,L,1746.53,Netherlands
+MAT0395,Toluene B Material 0395,CAT003,SUP486,BOX,144.67,Singapore
+MAT0396,Hydrogen Peroxide B Material 0396,CAT001,SUP302,DRUM,886.47,United Kingdom
+MAT0397,Ethanol Premium Material 0397,CAT005,SUP395,DRUM,3134.52,Belgium
+MAT0398,Ethanol A Material 0398,CAT001,SUP025,KG,2113.04,France
+MAT0399,Methanol Industrial Material 0399,CAT008,SUP360,L,1067.2,India
+MAT0400,Calcium Carbonate Premium Material 0400,CAT002,SUP340,DRUM,1386.39,Belgium
+MAT0401,Hydrogen Peroxide Premium Material 0401,CAT002,SUP262,DRUM,632.79,Germany
+MAT0402,Methanol Premium Material 0402,CAT004,SUP312,L,3900.9,Switzerland
+MAT0403,Sulfuric Acid Industrial Material 0403,CAT007,SUP152,L,245.06,Netherlands
+MAT0404,Sulfuric Acid Premium Material 0404,CAT006,SUP121,KG,113.11,Germany
+MAT0405,Methanol Premium Material 0405,CAT003,SUP487,KG,3908.65,Germany
+MAT0406,Methanol Industrial Material 0406,CAT004,SUP234,TON,1357.42,India
+MAT0407,Methanol B Material 0407,CAT001,SUP437,TON,1833.06,United Kingdom
+MAT0408,Ethylene Glycol A Material 0408,CAT002,SUP436,KG,97.88,United States
+MAT0409,Citric Acid Industrial Material 0409,CAT006,SUP458,BOX,4777.69,Japan
+MAT0410,Acetone Industrial Material 0410,CAT006,SUP094,KG,2033.85,Netherlands
+MAT0411,Sodium Chloride Premium Material 0411,CAT008,SUP410,BOX,3261.79,United States
+MAT0412,Methanol B Material 0412,CAT001,SUP483,L,563.38,Belgium
+MAT0413,Glycerol Premium Material 0413,CAT003,SUP313,BOX,3906.86,Belgium
+MAT0414,Sodium Hydroxide B Material 0414,CAT008,SUP472,BOX,609.04,France
+MAT0415,Propylene Glycol A Material 0415,,SUP134,TON,111.18,Switzerland
+MAT0416,Acetic Acid B Material 0416,CAT006,SUP266,DRUM,3456.8,Belgium
+MAT0417,Methanol Premium Material 0417,CAT004,SUP247,TON,3335.37,France
+MAT0418,Hydrogen Peroxide A Material 0418,CAT001,SUP330,L,2552.56,Netherlands
+MAT0419,Glycerol B Material 0419,CAT002,SUP385,box,1637.14,United Kingdom
+MAT0420,Sodium Chloride A Material 0420,CAT009,SUP115,Drum,3234.42,France
+MAT0421,Hydrochloric Acid A Material 0421,CAT008,SUP228,DRUM,2268.09,Netherlands
+MAT0422,Propylene Glycol Industrial Material 0422,CAT002,SUP255,KG,558.08,France
+MAT0423,Ethanol A Material 0423,CAT002,SUP406,DRUM,4817.7,Japan
+MAT0424,Ammonium Hydroxide B Material 0424,CAT008,SUP487,TON,1848.55,India
+MAT0425,Hydrochloric Acid Premium Material 0425,CAT006,SUP287,drum,3019.76,United Kingdom
+MAT0426,Propylene Glycol A Material 0426,CAT002,SUP389,L,60.87,United Kingdom
+MAT0427,Calcium Carbonate Industrial Material 0427,CAT002,SUP024,L,2487.49,France
+MAT0428,Methanol Industrial Material 0428,CAT010,SUP101,L,647.69,France
+MAT0429,Sulfuric Acid Premium Material 0429,CAT004,SUP367,TON,583.44,France
+MAT0430,Ethanol A Material 0430,CAT008,SUP235,DRUM,4783.14,United States
+MAT0431,Glycerol A Material 0431,CAT009,SUP377,KG,2788.47,France
+MAT0432,Acetic Acid Premium Material 0432,CAT009,SUP400,L,3474.5,United States
+MAT0433,Hydrogen Peroxide A Material 0433,CAT007,SUP337,DRUM,3050.5,United Kingdom
+MAT0434,Ammonium Hydroxide Premium Material 0434,CAT007,SUP312,L,1404.3,United Kingdom
+MAT0435,Calcium Carbonate Premium Material 0435,CAT003,SUP071,BOX,3032.5,Switzerland
+MAT0436,Calcium Carbonate Industrial Material 0436,CAT009,SUP324,L,1044.4,Belgium
+MAT0437,Calcium Carbonate Industrial Material 0437,CAT003,SUP364,L,2544.27,United Kingdom
+MAT0438,Methanol Industrial Material 0438,CAT009,SUP246,DRUM,2874.66,France
+MAT0439,Sodium Carbonate Industrial Material 0439,CAT007,SUP414,KG,2637.51,India
+MAT0440,Xylene B Material 0440,CAT001,SUP344,KG,1039.52,United States
+MAT0441,Calcium Carbonate Industrial Material 0441,CAT003,SUP430,KG,3468.44,Japan
+MAT0442,Sulfuric Acid A Material 0442,CAT006,SUP417,BOX,557.28,Switzerland
+MAT0443,Hydrochloric Acid Premium Material 0443,CAT004,SUP262,TON,3480.03,India
+MAT0444,Xylene Premium Material 0444,CAT007,SUP490,TON,4830.87,India
+MAT0445,Sodium Hydroxide Industrial Material 0445,CAT004,SUP318,BOX,4158.42,United Kingdom
+MAT0446,Acetic Acid B Material 0446,CAT004,SUP151,BOX,928.26,Germany
+MAT0447,Citric Acid B Material 0447,CAT009,SUP062,BOX,251.14,Japan
+MAT0448,Sodium Carbonate Industrial Material 0448,CAT003,SUP083,DRUM,4237.77,India
+MAT0449,Isopropyl Alcohol Premium Material 0449,CAT003,SUP021,L,4646.71,Belgium
+MAT0450,Ethanol Industrial Material 0450,CAT008,SUP405,DRUM,2773.29,Germany
+MAT0451,Isopropyl Alcohol B Material 0451,CAT003,SUP267,KG,3941.98,United States
+MAT0452,Ethylene Glycol Premium Material 0452,CAT002,SUP179,L,4422.81,United Kingdom
+MAT0453,Isopropyl Alcohol Industrial Material 0453,CAT005,SUP112,DRUM,2675.97,Switzerland
+MAT0454,Sodium Hydroxide A Material 0454,CAT006,SUP229,L,4527.26,Belgium
+MAT0455,Formaldehyde B Material 0455,CAT001,SUP350,TON,1937.79,Germany
+MAT0456,Xylene Industrial Material 0456,CAT009,SUP371,TON,172.29,Switzerland
+MAT0457,Toluene Premium Material 0457,CAT008,SUP023,TON,4496.49,Singapore
+MAT0458,Isopropyl Alcohol A Material 0458,CAT002,SUP086,DRUM,2689.37,Germany
+MAT0459,Sulfuric Acid B Material 0459,CAT007,SUP428,kg,1067.62,France
+MAT0460,Acetone B Material 0460,CAT001,SUP236,TON,237.54,Germany
+MAT0461,Ethanol B Material 0461,CAT005,SUP286,KG,2896.06,Singapore
+MAT0462,Sodium Chloride Premium Material 0462,CAT007,SUP231,BOX,2193.47,India
+MAT0463,Xylene A Material 0463,CAT009,SUP004,DRUM,363.03,Belgium
+MAT0464,Ethanol A Material 0464,CAT006,SUP476,DRUM,575.37,Japan
+MAT0465,Formaldehyde A Material 0465,CAT005,SUP392,BOX,1938.0,India
+MAT0466,Glycerol B Material 0466,CAT009,SUP113,L,-438.0,Switzerland
+MAT0467,Calcium Carbonate B Material 0467,CAT005,SUP347,TON,4789.09,India
+MAT0468,Sodium Carbonate B Material 0468,CAT002,SUP022,KG,2884.96,France
+MAT0469,Sodium Carbonate A Material 0469,CAT005,SUP108,TON,1098.1,Switzerland
+MAT0470,Hydrogen Peroxide B Material 0470,CAT003,SUP114,DRUM,4182.0,Singapore
+MAT0471,Methanol B Material 0471,,SUP437,KG,4264.37,Switzerland
+MAT0472,Propylene Glycol A Material 0472,CAT005,SUP344,KG,1290.9,Singapore
+MAT0473,Acetic Acid Premium Material 0473,CAT006,SUP183,L,3372.91,Singapore
+MAT0474,Methanol Industrial Material 0474,CAT010,SUP036,L,,Netherlands
+MAT0475,Isopropyl Alcohol Industrial Material 0475,CAT010,SUP079,DRUM,2855.97,United Kingdom
+MAT0476,Ethylene Glycol B Material 0476,CAT001,SUP161,L,3939.02,France
+MAT0477,Sodium Chloride Industrial Material 0477,CAT003,SUP348,TON,4395.53,Netherlands
+MAT0478,Propylene Glycol Industrial Material 0478,CAT005,SUP250,DRUM,588.72,Belgium
+MAT0479,Acetone Industrial Material 0479,CAT003,SUP457,DRUM,1022.34,Germany
+MAT0480,Acetone A Material 0480,CAT009,SUP324,KG,4072.58,Belgium
+MAT0481,Xylene B Material 0481,CAT001,SUP283,TON,2740.17,Switzerland
+MAT0482,Glycerol B Material 0482,CAT006,SUP201,L,4462.62,Belgium
+MAT0483,Calcium Carbonate B Material 0483,CAT008,SUP257,drum,498.24,United Kingdom
+MAT0484,Ammonium Hydroxide A Material 0484,CAT004,SUP435,DRUM,3436.6,Switzerland
+MAT0485,Hydrogen Peroxide Premium Material 0485,CAT003,SUP092,DRUM,4746.12,United States
+MAT0486,Glycerol Industrial Material 0486,CAT001,SUP113,BOX,1197.16,Japan
+MAT0487,Toluene B Material 0487,CAT001,SUP343,L,2613.53,United Kingdom
+MAT0488,Xylene Premium Material 0488,CAT008,SUP452,KG,247.53,United Kingdom
+MAT0489,Methanol Industrial Material 0489,CAT005,SUP297,DRUM,2872.29,France
+MAT0490,Xylene Industrial Material 0490,CAT010,SUP335,KG,2607.48,France
+MAT0491,Hydrochloric Acid Premium Material 0491 ,CAT006,SUP419,TON,2459.96,Netherlands
+MAT0492,Formaldehyde A Material 0492,CAT009,SUP452,L,2227.5,Singapore
+MAT0493,Acetone Industrial Material 0493,CAT004,SUP077,L,828.92,Belgium
+MAT0494,Methanol B Material 0494,,SUP416,TON,3615.27,Netherlands
+MAT0495,Glycerol Premium Material 0495,CAT004,SUP303,L,3253.93,France
+MAT0496,Sodium Hydroxide B Material 0496,CAT001,SUP066,DRUM,2982.12,United States
+MAT0497,Ammonium Hydroxide A Material 0497,CAT010,SUP076,KG,873.39,United States
+MAT0498,Ammonium Hydroxide Premium Material 0498,CAT010,SUP497,DRUM,3206.23,Japan
+MAT0499,Acetone B Material 0499,CAT008,SUP311,BOX,4343.15,United States
+MAT0500,Hydrochloric Acid Premium Material 0500,CAT010,SUP074,DRUM,4111.24,United States
+MAT0501,Formaldehyde Industrial Material 0501,CAT003,SUP371,TON,4615.64,Belgium
+MAT0502,Acetic Acid A Material 0502,CAT004,SUP194,BOX,704.46,India
+MAT0503,Sulfuric Acid Premium Material 0503,CAT003,SUP311,KG,928.24,Belgium
+MAT0504,Formaldehyde A Material 0504,CAT009,SUP258,KG,511.29,United States
+MAT0505,Formaldehyde A Material 0505,CAT007,SUP268,BOX,1883.37,India
+MAT0506,Ammonium Hydroxide Premium Material 0506,CAT004,SUP481,BOX,3958.3,France
+MAT0507,Toluene A Material 0507,CAT007,SUP069,TON,2411.85,Singapore
+MAT0508,Acetone Industrial Material 0508,CAT010,SUP449,DRUM,2072.8,Singapore
+MAT0509,Sodium Hydroxide A Material 0509,CAT010,SUP268,KG,2622.82,France
+MAT0510,Sulfuric Acid Industrial Material 0510,CAT007,SUP186,KG,816.15,Belgium
+MAT0511,sodium chloride industrial material 0511,CAT009,SUP217,DRUM,1859.94,Japan
+MAT0512,Xylene B Material 0512,CAT007,SUP283,drum,2438.22,United Kingdom
+MAT0513,Sodium Carbonate Premium Material 0513,CAT005,SUP158,DRUM,1754.56,France
+MAT0514,Hydrogen Peroxide A Material 0514,CAT004,SUP229,L,546.38,Switzerland
+MAT0515,Xylene Industrial Material 0515,CAT009,SUP315,KG,845.65,India
+MAT0516,Acetone B Material 0516,CAT008,SUP475,DRUM,2205.12,Germany
+MAT0517,Sodium Chloride B Material 0517,CAT006,SUP041,DRUM,236.89,France
+MAT0518,Xylene Industrial Material 0518,CAT010,SUP030,L,3219.44,Netherlands
+MAT0519,Sodium Hydroxide B Material 0519,CAT009,SUP147,L,216.37,Belgium
+MAT0520,Ammonium Hydroxide B Material 0520,CAT010,SUP087,KG,1830.71,India
+MAT0521,Citric Acid A Material 0521,CAT005,SUP400,BOX,1797.98,France
+MAT0522,Xylene B Material 0522,CAT009,SUP008,KG,4599.93,Switzerland
+MAT0523,Calcium Carbonate Industrial Material 0523,CAT006,SUP494,TON,1170.16,Singapore
+MAT0524,Propylene Glycol Premium Material 0524,CAT010,SUP003,TON,916.42,Switzerland
+MAT0525,Methanol A Material 0525,CAT009,SUP151,TON,4737.73,Switzerland
+MAT0526,Sodium Chloride Industrial Material 0526,CAT008,SUP495,BOX,2837.68,Singapore
+MAT0527,Isopropyl Alcohol Premium Material 0527,CAT008,SUP460,DRUM,4317.02,Netherlands
+MAT0528,Methanol Industrial Material 0528,CAT002,SUP196,L,3400.72,Singapore
+MAT0529,Isopropyl Alcohol Premium Material 0529,CAT006,SUP265,DRUM,98.13,Japan
+MAT0530,Hydrochloric Acid Industrial Material 0530,CAT002,SUP205,TON,426.34,United States
+MAT0531,Glycerol Industrial Material 0531,CAT006,SUP112,DRUM,1381.93,Singapore
+MAT0532,Glycerol B Material 0532,CAT004,SUP377,L,4370.08,Singapore
+MAT0533,Hydrochloric Acid B Material 0533,CAT004,SUP429,DRUM,1812.34,Germany
+MAT0534,Methanol A Material 0534,CAT008,SUP315,KG,3833.01,Switzerland
+MAT0535,Ethanol Premium Material 0535,CAT006,SUP318,TON,2487.08,Belgium
+MAT0536,Sodium Chloride Premium Material 0536,CAT003,SUP392,DRUM,1437.32,Singapore
+MAT0537,Acetic Acid B Material 0537,CAT001,SUP270,BOX,2417.68,Switzerland
+MAT0538,Ethanol Industrial Material 0538,CAT007,SUP441,L,2313.12,Germany
+MAT0539,Ammonium Hydroxide Premium Material 0539,CAT006,SUP353,Kg,108.51,Singapore
+MAT0540,Xylene A Material 0540,CAT006,SUP186,DRUM,4316.12,United States
+MAT0541,Sodium Carbonate Industrial Material 0541,CAT004,SUP138,BOX,4794.71,United Kingdom
+MAT0542,Toluene B Material 0542,CAT008,SUP218,L,2124.51,United Kingdom
+MAT0543,Toluene Premium Material 0543,CAT005,SUP231,L,-135.0,Belgium
+MAT0544,Hydrochloric Acid A Material 0544,CAT005,SUP412,L,2798.93,France
+MAT0545,Sulfuric Acid B Material 0545,CAT003,SUP243,KG,924.21,Netherlands
+MAT0546,Hydrogen Peroxide Industrial Material 0546,CAT008,SUP154,TON,2832.59,Belgium
+MAT0547,Ethanol Premium Material 0547,CAT002,SUP354,L,347.18,Japan
+MAT0548,Glycerol A Material 0548,CAT008,SUP382,tonne,1335.86,United Kingdom
+MAT0549,Sodium Carbonate Industrial Material 0549,CAT006,SUP011,BOX,650.13,Belgium
+MAT0550,Sulfuric Acid B Material 0550 ,CAT005,SUP182,TON,3382.3,Netherlands
+MAT0551,Propylene Glycol A Material 0551,CAT007,SUP315,TON,2345.57,United States
+MAT0552,Citric Acid Industrial Material 0552,CAT007,SUP324,DRUM,2879.61,Germany
+MAT0553,Acetone B Material 0553,CAT006,SUP117,TON,1618.55,Japan
+MAT0554,Sodium Chloride Premium Material 0554,CAT005,SUP455,BOX,3915.82,United Kingdom
+MAT0555,Acetic Acid Premium Material 0555,CAT007,SUP086,L,4278.35,United States
+MAT0556,Hydrochloric Acid Industrial Material 0556,CAT002,SUP108,L,-687.0,Germany
+MAT0557,Acetone Premium Material 0557,CAT009,SUP028,KG,3866.12,Switzerland
+MAT0558,Acetone A Material 0558,CAT005,SUP317,L,467.34,France
+MAT0559,Calcium Carbonate B Material 0559,CAT004,SUP378,TON,,United States
+MAT0560,Hydrogen Peroxide B Material 0560,CAT001,SUP018,TON,4308.83,United Kingdom
+MAT0561,Glycerol Premium Material 0561,CAT009,SUP479,TON,2765.3,United States
+MAT0562,Sodium Carbonate B Material 0562,CAT010,SUP306,BOX,3173.69,Belgium
+MAT0563,Ethylene Glycol Industrial Material 0563,CAT006,SUP247,DRUM,1174.29,Germany
+MAT0564,Propylene Glycol Industrial Material 0564,CAT006,SUP212,TON,820.8,India
+MAT0565,Sodium Hydroxide B Material 0565,CAT006,SUP147,BOX,2698.74,Netherlands
+MAT0566,Glycerol Industrial Material 0566,CAT001,SUP393,BOX,3999.93,Belgium
+MAT0567,Hydrochloric Acid A Material 0567,CAT009,SUP192,L,2088.09,Switzerland
+MAT0568,Ethylene Glycol Premium Material 0568,CAT004,SUP084,BOX,4150.71,Singapore
+MAT0569,Sodium Chloride A Material 0569,CAT007,SUP321,L,2607.22,Belgium
+MAT0570,Sodium Chloride Industrial Material 0570,CAT009,SUP415,TON,2093.87,Germany
+MAT0571,Citric Acid B Material 0571,CAT005,SUP057,BOX,3107.76,Japan
+MAT0572,Formaldehyde Premium Material 0572 ,CAT004,SUP165,kg,803.14,Switzerland
+MAT0573,Sodium Hydroxide B Material 0573,CAT002,SUP145,TON,668.94,Netherlands
+MAT0574,Sodium Hydroxide B Material 0574,CAT002,SUP078,KG,2493.22,United Kingdom
+MAT0575,Ethylene Glycol Industrial Material 0575,CAT008,SUP191,BOX,3499.83,India
+MAT0576,Isopropyl Alcohol A Material 0576,CAT003,SUP029,TON,3889.48,Germany
+MAT0577,Sodium Carbonate Premium Material 0577,CAT003,SUP099,TON,4095.39,India
+MAT0578,Methanol B Material 0578,CAT007,SUP395,BOX,,India
+MAT0579,Sulfuric Acid Premium Material 0579,CAT002,SUP267,L,2390.49,Japan
+MAT0580,Isopropyl Alcohol B Material 0580,CAT001,SUP382,DRUM,2628.58,Japan
+MAT0581,Glycerol Industrial Material 0581,CAT004,SUP185,KG,4325.11,Singapore
+MAT0582,Methanol B Material 0582,CAT007,SUP167,KG,878.43,Japan
+MAT0583,Acetic Acid A Material 0583,CAT007,SUP405,L,94.2,India
+MAT0584,Acetic Acid Premium Material 0584,CAT010,SUP080,TON,3865.45,Singapore
+MAT0585,Citric Acid Premium Material 0585,CAT002,SUP352,DRUM,1725.19,India
+MAT0586,Ethanol Industrial Material 0586,CAT003,SUP360,DRUM,3967.76,United States
+MAT0587,Glycerol B Material 0587,CAT006,SUP286,TON,4037.35,Netherlands
+MAT0588,Sulfuric Acid A Material 0588,CAT007,SUP184,L,1290.95,India
+MAT0589,Glycerol Premium Material 0589,CAT009,SUP151,DRUM,3500.34,Singapore
+MAT0590,Acetic Acid B Material 0590,CAT009,SUP179,TON,3675.39,Japan
+MAT0591,Formaldehyde B Material 0591,CAT002,SUP272,L,2274.45,Japan
+MAT0592,Sodium Carbonate Industrial Material 0592,CAT008,SUP001,DRUM,1926.27,United States
+MAT0593,Sodium Hydroxide Industrial Material 0593,CAT010,SUP123,TON,3618.97,Switzerland
+MAT0594,Xylene B Material 0594,CAT009,SUP350,BOX,3840.38,United States
+MAT0595,Formaldehyde Industrial Material 0595,CAT006,SUP210,TON,596.8,Switzerland
+MAT0596,Acetone A Material 0596,CAT003,SUP092,KG,1050.29,Netherlands
+MAT0597,Sulfuric Acid A Material 0597,CAT001,SUP293,BOX,3306.71,Switzerland
+MAT0598,Formaldehyde Industrial Material 0598,CAT001,SUP188,L,3049.47,Germany
+MAT0599,Sodium Hydroxide B Material 0599,CAT008,SUP476,KG,2366.89,India
+MAT0600,Toluene Premium Material 0600,CAT006,SUP407,KG,4127.03,Japan
+MAT0601,Ammonium Hydroxide A Material 0601,CAT002,SUP428,TON,435.78,Singapore
+MAT0602,Ammonium Hydroxide A Material 0602,CAT002,SUP372,L,2681.72,Singapore
+MAT0603,Sulfuric Acid B Material 0603,CAT010,SUP321,L,2814.2,Switzerland
+MAT0604,Ethylene Glycol A Material 0604,CAT010,SUP184,BOX,3527.62,France
+MAT0605,Methanol B Material 0605,CAT003,SUP282,BOX,2548.23,United States
+MAT0606,Sodium Carbonate Premium Material 0606,CAT006,SUP463,tonne,2772.9,United Kingdom
+MAT0607,Toluene Premium Material 0607,CAT007,SUP423,TON,3061.65,Belgium
+MAT0608,Sodium Carbonate B Material 0608,CAT007,SUP393,DRUM,,Japan
+MAT0609,Toluene Premium Material 0609,CAT008,SUP492,BOX,50.97,India
+MAT0610,Calcium Carbonate A Material 0610,CAT009,SUP070,TON,82.52,Singapore
+MAT0611,Sulfuric Acid Industrial Material 0611,CAT001,SUP396,TON,4599.6,Switzerland
+MAT0612,Sodium Carbonate B Material 0612,CAT002,SUP020,BOX,1810.5,United States
+MAT0613,Sodium Chloride Industrial Material 0613,CAT010,SUP128,L,1318.41,Japan
+MAT0614,Acetone Premium Material 0614,CAT010,SUP470,L,3684.62,United Kingdom
+MAT0615,Glycerol B Material 0615,CAT008,SUP423,DRUM,4106.6,Germany
+MAT0616,Formaldehyde Industrial Material 0616,CAT001,SUP375,DRUM,1938.65,India
+MAT0617,Isopropyl Alcohol Industrial Material 0617,CAT007,SUP214,KG,4355.44,Singapore
+MAT0618,Formaldehyde A Material 0618,CAT007,SUP028,TON,2645.7,United Kingdom
+MAT0619,Sodium Carbonate B Material 0619,CAT006,SUP258,L,808.33,France
+MAT0620,propylene glycol a material 0620,CAT004,SUP222,TON,3942.52,United States
+MAT0621,Hydrogen Peroxide Industrial Material 0621,CAT002,SUP244,DRUM,3739.31,Switzerland
+MAT0622,Xylene Industrial Material 0622,CAT002,SUP205,DRUM,2200.73,United States
+MAT0623,Hydrogen Peroxide Premium Material 0623,CAT009,SUP102,BOX,2006.83,Belgium
+MAT0624,Sulfuric Acid B Material 0624,CAT004,SUP037,TON,3895.02,United Kingdom
+MAT0625,Acetic Acid A Material 0625,CAT002,SUP344,BOX,2146.53,United Kingdom
+MAT0626,Sulfuric Acid Industrial Material 0626,CAT006,SUP305,KG,3859.92,United States
+MAT0627,Toluene Premium Material 0627,CAT010,SUP075,BOX,272.14,Singapore
+MAT0628,Sulfuric Acid Industrial Material 0628,CAT003,SUP388,KG,606.24,India
+MAT0629,Hydrochloric Acid B Material 0629,CAT005,SUP008,TON,3484.29,Germany
+MAT0630,Calcium Carbonate Premium Material 0630,CAT008,SUP012,TON,1084.6,Switzerland
+MAT0631,Sulfuric Acid B Material 0631,CAT009,SUP268,TON,2766.56,Belgium
+MAT0632,Hydrogen Peroxide A Material 0632,CAT007,SUP299,DRUM,265.24,United States
+MAT0633,Ethanol Industrial Material 0633,CAT004,SUP405,DRUM,1392.84,Netherlands
+MAT0634,Sodium Hydroxide A Material 0634,CAT007,SUP339,TON,3331.76,United Kingdom
+MAT0635,Methanol A Material 0635,CAT005,SUP445,BOX,1194.28,France
+MAT0636,Ammonium Hydroxide A Material 0636,CAT006,SUP249,DRUM,2681.23,United States
+MAT0637,Sulfuric Acid Premium Material 0637,CAT009,SUP475,KG,246.77,Switzerland
+MAT0638,Calcium Carbonate Industrial Material 0638,CAT008,SUP202,L,140.94,United Kingdom
+MAT0639,Toluene Industrial Material 0639,CAT004,SUP257,TON,4068.87,Japan
+MAT0640,Xylene A Material 0640,CAT009,SUP486,TON,1166.63,United Kingdom
+MAT0641,Xylene B Material 0641,CAT002,SUP374,BOX,2627.55,Belgium
+MAT0642,Hydrochloric Acid Premium Material 0642,CAT004,SUP294,L,2161.0,Japan
+MAT0643,Formaldehyde Industrial Material 0643,CAT008,SUP278,L,1073.45,United States
+MAT0644,Acetic Acid B Material 0644,CAT003,SUP159,DRUM,4552.34,France
+MAT0645,Hydrogen Peroxide B Material 0645,CAT006,SUP035,DRUM,2688.16,Germany
+MAT0646,Citric Acid Industrial Material 0646,CAT003,SUP373,KG,3838.9,France
+MAT0647,Ethylene Glycol Industrial Material 0647,CAT008,SUP382,TON,802.19,Singapore
+MAT0648,Methanol B Material 0648,CAT003,SUP014,DRUM,3103.89,Belgium
+MAT0649,Acetic Acid B Material 0649,CAT010,SUP119,Liter,3452.52,United Kingdom
+MAT0650,Acetone Premium Material 0650,CAT003,SUP258,DRUM,2370.38,United Kingdom
+MAT0651,Citric Acid Premium Material 0651,CAT008,SUP243,L,860.74,Singapore
+MAT0652,Ethanol Premium Material 0652,CAT001,SUP474,TON,4753.48,Singapore
+MAT0653,Sulfuric Acid B Material 0653,CAT002,SUP091,BOX,4342.29,Netherlands
+MAT0654,Isopropyl Alcohol Premium Material 0654,,SUP219,BOX,3892.26,Belgium
+MAT0655,Xylene Industrial Material 0655,CAT007,SUP314,drum,,Switzerland
+MAT0656,Ethanol A Material 0656,CAT008,SUP234,KG,4395.01,Singapore
+MAT0657,Ammonium Hydroxide Premium Material 0657,CAT001,SUP286,BOX,2604.83,India
+MAT0658,Sulfuric Acid Industrial Material 0658,CAT008,SUP204,TON,3879.7,Japan
+MAT0659,Propylene Glycol B Material 0659,CAT007,SUP151,DRUM,4599.21,Switzerland
+MAT0660,Hydrogen Peroxide Premium Material 0660,CAT008,SUP047,DRUM,610.2,Belgium
+MAT0661,Sodium Carbonate B Material 0661,CAT007,SUP212,TON,2281.88,United States
+MAT0662,Propylene Glycol B Material 0662,CAT008,SUP047,TON,1654.17,United States
+MAT0663,Methanol A Material 0663,CAT002,SUP362,BOX,3188.66,Germany
+MAT0664,Ammonium Hydroxide Premium Material 0664,CAT009,SUP314,L,1924.46,France
+MAT0665,Ethanol B Material 0665,CAT006,SUP290,L,852.51,United States
+MAT0666,Citric Acid A Material 0666,CAT007,SUP158,TON,3664.3,Netherlands
+MAT0667,Calcium Carbonate B Material 0667,CAT002,SUP461,L,4804.15,India
+MAT0668,Formaldehyde Industrial Material 0668,CAT001,SUP235,box,4284.28,Switzerland
+MAT0669,Sodium Hydroxide Premium Material 0669,CAT004,SUP112,DRUM,3314.38,Netherlands
+MAT0670,Ethylene Glycol Premium Material 0670,CAT002,SUP308,DRUM,82.54,Switzerland
+MAT0671,SODIUM CHLORIDE B MATERIAL 0671,CAT001,SUP095,L,322.57,United Kingdom
+MAT0672,Ethanol B Material 0672,CAT001,SUP342,DRUM,4198.17,Japan
+MAT0673,Isopropyl Alcohol A Material 0673,CAT001,SUP056,BOX,4968.99,United States
+MAT0674,Calcium Carbonate B Material 0674,CAT008,SUP384,DRUM,1832.93,India
+MAT0675,Acetone Industrial Material 0675,CAT006,SUP189,BOX,4110.31,France
+MAT0676,Sodium Carbonate A Material 0676,CAT005,SUP242,L,654.01,Japan
+MAT0677,Isopropyl Alcohol Premium Material 0677 ,CAT009,SUP108,L,3079.67,Germany
+MAT0678,Acetic Acid A Material 0678,CAT008,SUP371,DRUM,,Japan
+MAT0679,Ethylene Glycol Industrial Material 0679,CAT005,SUP270,DRUM,4975.37,United Kingdom
+MAT0680,Hydrogen Peroxide Premium Material 0680,CAT009,SUP374,BOX,2487.9,United States
+MAT0681,Formaldehyde B Material 0681,CAT005,SUP100,KG,635.13,Netherlands
+MAT0682,Methanol B Material 0682,CAT010,SUP213,BOX,275.19,United Kingdom
+MAT0683,Sodium Carbonate B Material 0683,CAT001,SUP328,L,3465.58,Japan
+MAT0684,Acetone Industrial Material 0684,CAT005,SUP260,DRUM,1653.42,India
+MAT0685,Methanol Industrial Material 0685,CAT006,SUP203,DRUM,-768.0,India
+MAT0686,CITRIC ACID B MATERIAL 0686,CAT006,SUP427,TON,4615.28,Netherlands
+MAT0687,Glycerol A Material 0687,CAT003,SUP247,L,3154.64,Switzerland
+MAT0688,Isopropyl Alcohol Premium Material 0688,CAT007,SUP476,KG,4183.77,Japan
+MAT0689,Acetic Acid Industrial Material 0689,CAT009,SUP275,KG,1080.9,United Kingdom
+MAT0690,Toluene A Material 0690,CAT003,SUP144,KG,1728.8,France
+MAT0691,Sodium Carbonate B Material 0691,CAT010,SUP311,BOX,977.53,Germany
+MAT0692,Calcium Carbonate Industrial Material 0692,CAT001,SUP140,BOX,479.65,Singapore
+MAT0693,Toluene Premium Material 0693,CAT005,SUP111,DRUM,1546.48,Germany
+MAT0694,Toluene A Material 0694,CAT004,SUP468,KG,2246.68,India
+MAT0695,Glycerol B Material 0695,CAT004,SUP175,BOX,3675.58,Switzerland
+MAT0696,Calcium Carbonate Industrial Material 0696,CAT003,SUP394,KG,4119.59,Switzerland
+MAT0697,Hydrogen Peroxide B Material 0697,CAT001,SUP236,Box,3582.7,Switzerland
+MAT0698,Methanol A Material 0698,CAT005,SUP478,KG,3450.91,Belgium
+MAT0699,Acetone Industrial Material 0699,CAT008,SUP456,KG,560.36,Japan
+MAT0700,Sodium Hydroxide Industrial Material 0700,CAT004,SUP165,L,1003.1,Japan
+MAT0701,Sodium Carbonate Industrial Material 0701,CAT008,SUP344,KG,1399.64,United States
+MAT0702,Sodium Chloride A Material 0702,CAT001,SUP491,DRUM,2820.15,Germany
+MAT0703,Sulfuric Acid Industrial Material 0703,CAT009,SUP164,TON,750.71,Japan
+MAT0704,Acetic Acid B Material 0704,CAT003,SUP037,TON,3085.65,United Kingdom
+MAT0705,Sodium Carbonate Premium Material 0705,CAT001,SUP067,KG,2380.14,India
+MAT0706,Methanol Premium Material 0706,CAT001,SUP045,BOX,1989.99,Belgium
+MAT0707,Acetic Acid Premium Material 0707,CAT010,SUP183,TON,1695.04,Singapore
+MAT0708,Sodium Carbonate A Material 0708,CAT008,SUP291,L,509.94,Netherlands
+MAT0709,Methanol Premium Material 0709,CAT005,SUP351,BOX,2379.2,Singapore
+MAT0710,Hydrogen Peroxide Industrial Material 0710,CAT006,SUP201,L,3513.09,United Kingdom
+MAT0711,Isopropyl Alcohol Premium Material 0711,CAT008,SUP016,KG,2402.91,United Kingdom
+MAT0712,Glycerol Premium Material 0712,CAT003,SUP145,ton,3041.98,United States
+MAT0713,Ammonium Hydroxide A Material 0713,CAT007,SUP419,KG,1663.06,Germany
+MAT0714,Calcium Carbonate Premium Material 0714,CAT007,SUP303,BOX,1230.95,Singapore
+MAT0715,Sodium Carbonate B Material 0715,CAT008,SUP197,KG,1736.54,Belgium
+MAT0716,Ethylene Glycol Premium Material 0716,CAT010,SUP404,ton,2745.41,Singapore
+MAT0717,Citric Acid A Material 0717,CAT010,SUP429,BOX,615.9,Belgium
+MAT0718,Propylene Glycol Industrial Material 0718,CAT009,SUP050,BOX,922.06,France
+MAT0719,Acetone A Material 0719,CAT010,SUP395,BOX,1670.67,India
+MAT0720,Acetone B Material 0720,CAT003,SUP455,DRUM,4521.12,India
+MAT0721,Hydrogen Peroxide B Material 0721,CAT008,SUP273,TON,1980.41,Belgium
+MAT0722,Propylene Glycol B Material 0722,CAT004,SUP349,TON,1533.69,Japan
+MAT0723,Ethylene Glycol Industrial Material 0723,CAT002,SUP299,KG,3076.88,Switzerland
+MAT0724,Xylene B Material 0724,CAT005,SUP032,TON,4510.32,India
+MAT0725,Sodium Hydroxide Industrial Material 0725,CAT002,SUP441,TON,4335.11,Singapore
+MAT0726,Ethylene Glycol Premium Material 0726,CAT006,SUP365,BOX,2059.86,France
+MAT0727,Sodium Carbonate B Material 0727,CAT003,SUP244,L,981.72,France
+MAT0728,Toluene Premium Material 0728,CAT003,SUP148,L,714.67,Germany
+MAT0729,Sodium Hydroxide B Material 0729,CAT008,SUP337,BOX,4876.13,United States
+MAT0730,Acetone B Material 0730,CAT007,SUP441,BOX,4473.23,Belgium
+MAT0731,Ethylene Glycol B Material 0731,CAT008,SUP261,BOX,2782.65,Netherlands
+MAT0732,Xylene Industrial Material 0732,CAT004,SUP096,BOX,3042.64,Belgium
+MAT0733,Glycerol B Material 0733,CAT009,SUP138,BOX,4636.49,Belgium
+MAT0734,Toluene A Material 0734,CAT001,SUP291,BOX,3539.17,Germany
+MAT0735,Acetic Acid Premium Material 0735,CAT002,SUP073,DRUM,4918.72,Japan
+MAT0736,Propylene Glycol A Material 0736,CAT009,SUP456,DRUM,487.81,Netherlands
+MAT0737,Acetone Industrial Material 0737,CAT010,SUP028,TON,2698.41,India
+MAT0738,Glycerol Premium Material 0738,CAT009,SUP464,BOX,2891.13,United Kingdom
+MAT0739,Ethylene Glycol Industrial Material 0739,CAT005,SUP149,L,224.86,Belgium
+MAT0740,Calcium Carbonate Industrial Material 0740,CAT001,SUP323,BOX,2911.8,Belgium
+MAT0741,Ethanol Industrial Material 0741,CAT010,SUP014,TON,2449.56,United States
+MAT0742,Ammonium Hydroxide A Material 0742,CAT005,SUP130,L,3098.2,Japan
+MAT0743,Sodium Chloride A Material 0743,CAT002,SUP310,L,4555.15,United States
+MAT0744,Propylene Glycol Industrial Material 0744,CAT003,SUP134,L,2450.35,Switzerland
+MAT0745,Ethanol Industrial Material 0745,CAT002,SUP496,l,2997.94,United States
+MAT0746,Glycerol Premium Material 0746,CAT007,SUP122,BOX,3643.7,United States
+MAT0747,Sulfuric Acid Industrial Material 0747,CAT001,SUP329,TON,3789.65,Germany
+MAT0748,Ethanol B Material 0748,,SUP205,BOX,1541.77,Switzerland
+MAT0749,Hydrochloric Acid Premium Material 0749,CAT007,SUP243,TON,768.49,France
+MAT0750,Sodium Hydroxide Industrial Material 0750,CAT008,SUP196,TON,4810.73,India
+MAT0751,Methanol Industrial Material 0751,CAT007,SUP313,TON,1708.09,Japan
+MAT0752,Methanol Industrial Material 0752,CAT010,SUP201,BOX,3877.1,Singapore
+MAT0753,Acetic Acid B Material 0753,CAT009,SUP173,L,1600.69,India
+MAT0754,Sodium Hydroxide A Material 0754,CAT001,SUP211,KG,2650.06,Netherlands
+MAT0755,Toluene B Material 0755,CAT005,SUP129,L,218.51,Belgium
+MAT0756,Acetone A Material 0756,CAT010,SUP337,Liter,4754.92,Germany
+MAT0757,Methanol A Material 0757,CAT010,SUP067,BOX,3299.15,Belgium
+MAT0758,Citric Acid A Material 0758,CAT003,SUP130,TON,2361.43,Germany
+MAT0759,Propylene Glycol Industrial Material 0759,CAT007,SUP355,TON,,Germany
+MAT0760,Sodium Chloride A Material 0760,CAT007,SUP199,TON,4979.99,Japan
+MAT0761,Sodium Chloride B Material 0761,CAT008,SUP036,BOX,4898.14,Singapore
+MAT0762,Formaldehyde Premium Material 0762,CAT003,SUP331,BOX,586.73,Switzerland
+MAT0763,Ethylene Glycol B Material 0763,CAT010,SUP330,KG,4567.42,Japan
+MAT0764,Methanol A Material 0764,CAT002,SUP037,DRUM,3651.35,Netherlands
+MAT0765,Sodium Hydroxide Premium Material 0765,CAT003,SUP335,KG,4667.82,France
+MAT0766,Sodium Chloride B Material 0766,CAT006,SUP464,BOX,2894.47,Switzerland
+MAT0767,Glycerol Premium Material 0767,CAT007,SUP207,Kilogram,2723.64,India
+MAT0768,Xylene Premium Material 0768,CAT002,SUP291,DRUM,4678.46,United Kingdom
+MAT0769,Isopropyl Alcohol Industrial Material 0769,CAT007,SUP029,KG,1858.51,United Kingdom
+MAT0770,Acetone Premium Material 0770,CAT005,SUP332,L,924.26,India
+MAT0771,Xylene B Material 0771,CAT005,SUP357,BOX,4487.48,United Kingdom
+MAT0772,Glycerol A Material 0772,CAT008,SUP377,L,742.72,Singapore
+MAT0773,Sodium Hydroxide B Material 0773,CAT008,SUP200,KG,3974.06,Japan
+MAT0774,Glycerol Premium Material 0774,CAT001,SUP019,TON,327.47,India
+MAT0775,Xylene A Material 0775,CAT004,SUP414,DRUM,2318.93,Switzerland
+MAT0776,Hydrogen Peroxide B Material 0776 ,CAT002,SUP019,L,2470.03,India
+MAT0777,Glycerol A Material 0777,CAT004,SUP360,L,121.11,India
+MAT0778,Calcium Carbonate A Material 0778,CAT008,SUP313,L,4184.99,Germany
+MAT0779,Methanol A Material 0779,CAT008,SUP305,DRUM,1141.83,Singapore
+MAT0780,Ethylene Glycol Industrial Material 0780,CAT007,SUP167,KG,4880.47,Belgium
+MAT0781,Sodium Carbonate B Material 0781,CAT006,SUP429,L,3832.93,Belgium
+MAT0782,Citric Acid Industrial Material 0782,CAT002,SUP062,TON,749.12,France
+MAT0783,Citric Acid Industrial Material 0783,CAT009,SUP085,BOX,1256.04,Belgium
+MAT0784,Ethanol B Material 0784,CAT002,SUP406,DRUM,1911.85,United States
+MAT0785,Sodium Hydroxide Premium Material 0785,,SUP004,KG,938.09,Germany
+MAT0786,Acetic Acid Industrial Material 0786,CAT007,SUP356,BOX,3477.17,Singapore
+MAT0787,Hydrogen Peroxide Industrial Material 0787 ,CAT009,SUP231,BOX,1234.31,United States
+MAT0788,Formaldehyde A Material 0788,CAT010,SUP093,BOX,3079.65,Germany
+MAT0789,Calcium Carbonate Industrial Material 0789,CAT007,SUP003,DRUM,1216.41,Germany
+MAT0790,Ammonium Hydroxide A Material 0790,CAT010,SUP186,DRUM,2562.33,Netherlands
+MAT0791,Sulfuric Acid Industrial Material 0791,CAT001,SUP100,KG,3993.23,Netherlands
+MAT0792,Glycerol B Material 0792,CAT003,SUP344,KG,317.44,United Kingdom
+MAT0793,Calcium Carbonate B Material 0793,CAT007,SUP129,TON,3103.26,Netherlands
+MAT0794,Ethanol A Material 0794,CAT001,SUP474,DRUM,920.64,India
+MAT0795,glycerol a material 0795,CAT002,SUP459,L,3620.95,Belgium
+MAT0796,Acetic Acid Industrial Material 0796,CAT007,SUP102,TON,1188.81,Germany
+MAT0797,Isopropyl Alcohol B Material 0797,CAT002,SUP122,BOX,4355.94,France
+MAT0798,Hydrochloric Acid A Material 0798,CAT008,SUP300,BOX,318.98,France
+MAT0799,Hydrogen Peroxide B Material 0799,CAT010,SUP233,L,1967.29,United States
+MAT0800,Propylene Glycol B Material 0800,CAT006,SUP500,TON,1050.94,United States
+MAT0801,Ethanol A Material 0801,CAT005,SUP070,KG,4265.67,Netherlands
+MAT0802,Ethylene Glycol B Material 0802,CAT006,SUP113,TON,3038.0,Belgium
+MAT0803,Citric Acid B Material 0803,CAT002,SUP211,DRUM,2471.61,Singapore
+MAT0804,Acetic Acid Premium Material 0804,CAT008,SUP143,KG,3663.59,Singapore
+MAT0805,Hydrochloric Acid Industrial Material 0805,CAT007,SUP297,L,4464.52,Belgium
+MAT0806,Hydrogen Peroxide A Material 0806,CAT007,SUP023,KG,4956.8,Switzerland
+MAT0807,Ethanol Premium Material 0807,CAT009,SUP202,BOX,4058.1,Germany
+MAT0808,Propylene Glycol Premium Material 0808,CAT004,SUP043,DRUM,3777.74,France
+MAT0809,Sulfuric Acid B Material 0809,CAT006,SUP152,L,3255.82,Germany
+MAT0810,Sodium Hydroxide Premium Material 0810,CAT005,SUP083,BOX,4296.71,Belgium
+MAT0811,Sodium Hydroxide Premium Material 0811,CAT008,SUP396,L,-246.0,France
+MAT0812,Citric Acid Industrial Material 0812,CAT008,SUP361,KG,4308.89,Germany
+MAT0813,Xylene Industrial Material 0813,CAT009,SUP017,TON,2158.22,Japan
+MAT0814,Formaldehyde B Material 0814,CAT002,SUP318,TON,3692.02,India
+MAT0815,Ammonium Hydroxide Industrial Material 0815,CAT001,SUP057,BOX,1859.67,Belgium
+MAT0816,Ethanol Industrial Material 0816,CAT006,SUP090,DRUM,3539.12,Switzerland
+MAT0817,Sulfuric Acid B Material 0817,CAT006,SUP123,DRUM,612.11,Netherlands
+MAT0818,Acetic Acid B Material 0818,CAT004,SUP165,TON,4494.77,Switzerland
+MAT0819,Ethylene Glycol Industrial Material 0819,CAT001,SUP033,TON,1758.87,Netherlands
+MAT0820,Ammonium Hydroxide A Material 0820,CAT008,SUP364,DRUM,3407.63,Switzerland
+MAT0821,Calcium Carbonate Premium Material 0821,CAT010,SUP189,KG,982.35,Netherlands
+MAT0822,Acetone A Material 0822,CAT007,SUP460,L,1477.44,Germany
+MAT0823,Methanol B Material 0823,CAT005,SUP058,L,2506.83,Singapore
+MAT0824,Ammonium Hydroxide A Material 0824,CAT005,SUP214,Drum,4662.02,Netherlands
+MAT0825,Toluene Premium Material 0825,CAT008,SUP378,KG,1493.01,Germany
+MAT0826,Sodium Hydroxide B Material 0826,CAT009,SUP331,TON,2087.87,United Kingdom
+MAT0827,isopropyl alcohol premium material 0827,CAT010,SUP341,DRUM,4217.44,Netherlands
+MAT0828,Propylene Glycol Industrial Material 0828,CAT010,SUP068,TON,900.1,Japan
+MAT0829,Hydrochloric Acid Premium Material 0829,CAT006,SUP498,TON,3860.26,India
+MAT0830,Hydrogen Peroxide Industrial Material 0830,CAT005,SUP234,L,3112.22,United States
+MAT0831,Sodium Carbonate Industrial Material 0831,CAT003,SUP499,L,4204.69,United States
+MAT0832,Citric Acid B Material 0832,CAT002,SUP022,TON,2893.9,Netherlands
+MAT0833,sodium chloride industrial material 0833,CAT003,SUP106,DRUM,3550.32,United Kingdom
+MAT0834,Toluene B Material 0834,CAT006,SUP230,DRUM,4878.56,Switzerland
+MAT0835,Calcium Carbonate A Material 0835,CAT001,SUP208,BOX,3854.16,Netherlands
+MAT0836,Isopropyl Alcohol B Material 0836,CAT001,SUP497,DRUM,4879.23,United Kingdom
+MAT0837,Calcium Carbonate Premium Material 0837,CAT005,SUP497,DRUM,3351.09,Belgium
+MAT0838,Propylene Glycol Industrial Material 0838,CAT002,SUP375,Box,4505.86,United States
+MAT0839,Sodium Carbonate A Material 0839,CAT005,SUP013,BOX,3106.73,Singapore
+MAT0840,Propylene Glycol Industrial Material 0840,CAT002,SUP168,KG,3060.35,Singapore
+MAT0841,Acetic Acid B Material 0841,CAT005,SUP101,KG,463.77,Netherlands
+MAT0842,Acetone Premium Material 0842,CAT004,SUP252,tonne,3035.7,Switzerland
+MAT0843,Ethanol Industrial Material 0843,CAT007,SUP076,BOX,1879.67,United Kingdom
+MAT0844,Sodium Hydroxide Industrial Material 0844,CAT006,SUP180,TON,4888.74,Switzerland
+MAT0845,Acetone B Material 0845,CAT008,SUP380,BOX,-411.0,Japan
+MAT0846,Citric Acid Premium Material 0846,CAT007,SUP072,DRUM,3009.78,United States
+MAT0847,Sulfuric Acid Industrial Material 0847,CAT008,SUP445,DRUM,4933.86,Germany
+MAT0848,Acetic Acid Premium Material 0848,CAT002,SUP004,BOX,3212.09,Japan
+MAT0849,Ethylene Glycol B Material 0849,CAT009,SUP237,DRUM,3788.46,United States
+MAT0850,Sulfuric Acid B Material 0850,CAT007,SUP149,DRUM,2478.4,Japan
+MAT0851,Acetic Acid Industrial Material 0851,CAT008,SUP287,BOX,1161.38,India
+MAT0852,Hydrogen Peroxide Industrial Material 0852,CAT005,SUP490,BOX,664.68,Japan
+MAT0853,Ethylene Glycol B Material 0853,CAT008,SUP465,L,190.79,Japan
+MAT0854,Glycerol A Material 0854,CAT010,SUP382,TON,2926.28,Belgium
+MAT0855,Ethylene Glycol Industrial Material 0855,CAT008,SUP499,KG,1897.35,Belgium
+MAT0856,Sodium Hydroxide Industrial Material 0856,CAT003,SUP298,KG,773.38,Netherlands
+MAT0857,Hydrogen Peroxide Industrial Material 0857,CAT003,SUP028,TON,1837.76,United Kingdom
+MAT0858,Ethanol Industrial Material 0858,CAT005,SUP272,KG,,United States
+MAT0859,Methanol B Material 0859,CAT009,SUP166,TON,4142.77,Japan
+MAT0860,Sodium Chloride Industrial Material 0860,CAT002,SUP274,DRUM,1790.57,United States
+MAT0861,Sodium Hydroxide B Material 0861,CAT009,SUP145,TON,3905.1,France
+MAT0862,Isopropyl Alcohol B Material 0862,CAT002,SUP112,L,2541.75,Singapore
+MAT0863,Sodium Carbonate A Material 0863,CAT007,SUP236,KG,627.0,United States
+MAT0864,Sodium Hydroxide Premium Material 0864,CAT006,SUP160,TON,738.12,Netherlands
+MAT0865,Formaldehyde Industrial Material 0865,CAT003,SUP364,TON,192.36,Germany
+MAT0866,Hydrochloric Acid B Material 0866,CAT003,SUP353,L,1571.77,Singapore
+MAT0867,Hydrogen Peroxide A Material 0867,CAT007,SUP354,kg,434.79,Netherlands
+MAT0868,Ethylene Glycol A Material 0868,CAT004,SUP056,KG,3975.62,Switzerland
+MAT0869,Acetic Acid A Material 0869,CAT008,SUP061,TON,264.24,Japan
+MAT0870,Sodium Hydroxide A Material 0870,CAT002,SUP472,DRUM,1066.74,Singapore
+MAT0871,Citric Acid Industrial Material 0871,CAT001,SUP047,L,4237.01,Japan
+MAT0872,Acetic Acid Industrial Material 0872,CAT006,SUP083,DRUM,3914.97,Belgium
+MAT0873,Hydrochloric Acid A Material 0873,,SUP420,DRUM,3828.06,Switzerland
+MAT0874,Sulfuric Acid B Material 0874,CAT005,SUP088,DRUM,71.43,Germany
+MAT0875,Sulfuric Acid Premium Material 0875,CAT006,SUP358,DRUM,966.37,Germany
+MAT0876,Citric Acid Industrial Material 0876,CAT007,SUP218,L,2595.54,France
+MAT0877,Methanol Industrial Material 0877,CAT002,SUP239,KG,2622.65,Netherlands
+MAT0878,Toluene Industrial Material 0878,CAT009,SUP370,KG,457.13,Netherlands
+MAT0879,Methanol Premium Material 0879,CAT005,SUP234,DRUM,3694.06,Netherlands
+MAT0880,Hydrochloric Acid Premium Material 0880,CAT005,SUP438,BOX,984.49,Germany
+MAT0881,Glycerol Industrial Material 0881,CAT003,SUP007,BOX,3376.87,France
+MAT0882,Propylene Glycol A Material 0882,CAT002,SUP074,BOX,2033.09,Belgium
+MAT0883,Methanol B Material 0883,CAT002,SUP187,L,1726.23,Belgium
+MAT0884,Xylene A Material 0884,CAT004,SUP430,BOX,3639.74,Japan
+MAT0885,Acetic Acid Industrial Material 0885,CAT007,SUP183,BOX,3350.05,France
+MAT0886,Glycerol Industrial Material 0886,CAT003,SUP394,BOX,584.78,Japan
+MAT0887,Glycerol Premium Material 0887,CAT004,SUP322,L,197.13,India
+MAT0888,Acetone Premium Material 0888,CAT001,SUP498,L,1944.03,United Kingdom
+MAT0889,Hydrogen Peroxide Industrial Material 0889,CAT010,SUP320,KG,3812.85,Switzerland
+MAT0890,glycerol premium material 0890,CAT004,SUP151,BOX,2476.74,Japan
+MAT0891,Sodium Carbonate Industrial Material 0891,CAT009,SUP280,KG,4765.27,India
+MAT0892,Ethylene Glycol A Material 0892,CAT007,SUP231,TON,4271.73,Netherlands
+MAT0893,Propylene Glycol A Material 0893,CAT001,SUP091,DRUM,3314.08,Japan
+MAT0894,Citric Acid Premium Material 0894,CAT007,SUP069,TON,3592.83,Netherlands
+MAT0895,Methanol Premium Material 0895,,SUP351,DRUM,2882.44,Netherlands
+MAT0896,Sodium Carbonate B Material 0896 ,CAT009,SUP029,BOX,1353.79,Belgium
+MAT0897,Xylene Industrial Material 0897,CAT005,SUP165,KG,189.33,India
+MAT0898,Hydrogen Peroxide Industrial Material 0898,CAT006,SUP415,DRUM,183.15,United Kingdom
+MAT0899,Xylene A Material 0899,CAT007,SUP177,TON,2089.05,India
+MAT0900,Hydrochloric Acid B Material 0900,CAT004,SUP332,TON,2983.03,Germany
+MAT0901,Calcium Carbonate A Material 0901,CAT006,SUP087,KG,2715.16,India
+MAT0902,Propylene Glycol Premium Material 0902,CAT010,SUP264,BOX,1369.76,Netherlands
+MAT0903,Acetic Acid A Material 0903,CAT006,SUP194,DRUM,1981.99,Belgium
+MAT0904,Methanol Premium Material 0904,CAT002,SUP354,L,1713.04,Switzerland
+MAT0905,Isopropyl Alcohol B Material 0905,CAT010,SUP154,TON,4848.67,Singapore
+MAT0906,Glycerol A Material 0906,CAT009,SUP110,TON,,Japan
+MAT0907,Acetic Acid Premium Material 0907,CAT004,SUP320,KG,3602.65,Belgium
+MAT0908,Methanol Industrial Material 0908,CAT005,SUP035,DRUM,4015.87,Netherlands
+MAT0909,ETHYLENE GLYCOL B MATERIAL 0909,CAT006,SUP408,KG,3275.11,Japan
+MAT0910,Ammonium Hydroxide Industrial Material 0910,CAT007,SUP340,DRUM,1601.1,France
+MAT0911,Xylene Industrial Material 0911,CAT010,SUP264,BOX,3374.22,Switzerland
+MAT0912,Citric Acid A Material 0912,CAT009,SUP442,L,2905.37,Singapore
+MAT0913,Propylene Glycol Industrial Material 0913,CAT009,SUP415,DRUM,4271.23,France
+MAT0914,Acetic Acid A Material 0914 ,CAT009,SUP103,TON,2339.31,Singapore
+MAT0915,Hydrogen Peroxide Industrial Material 0915,CAT007,SUP211,TON,4307.92,Germany
+MAT0916,Sulfuric Acid Premium Material 0916,CAT005,SUP422,TON,3247.91,Japan
+MAT0917,Formaldehyde B Material 0917,CAT007,SUP123,KG,792.31,India
+MAT0918,Hydrochloric Acid Industrial Material 0918,CAT008,SUP249,DRUM,4956.9,France
+MAT0919,Ethanol B Material 0919,CAT003,SUP140,L,194.25,Japan
+MAT0920,Sodium Carbonate B Material 0920,CAT001,SUP494,BOX,3922.06,India
+MAT0921,Acetone Industrial Material 0921,CAT010,SUP153,KG,4507.85,France
+MAT0922,Toluene A Material 0922,CAT007,SUP483,L,1218.4,Belgium
+MAT0923,Ammonium Hydroxide A Material 0923,CAT009,SUP341,DRUM,4750.89,Switzerland
+MAT0924,Sodium Chloride Premium Material 0924,CAT002,SUP122,DRUM,655.27,United Kingdom
+MAT0925,Isopropyl Alcohol Premium Material 0925,CAT004,SUP479,BOX,1129.14,Germany
+MAT0926,Citric Acid B Material 0926,CAT005,SUP226,BOX,1308.81,Belgium
+MAT0927,Ethanol Premium Material 0927,CAT009,SUP192,KG,1616.63,France
+MAT0928,Glycerol B Material 0928,CAT005,SUP451,L,1846.84,United Kingdom
+MAT0929,Calcium Carbonate A Material 0929,CAT010,SUP018,KG,3468.88,Singapore
+MAT0930,Sodium Chloride Premium Material 0930,,SUP328,TON,4520.63,Germany
+MAT0931,Sodium Carbonate B Material 0931,CAT008,SUP199,KG,4553.46,France
+MAT0932,Sodium Chloride Industrial Material 0932,CAT002,SUP480,L,1522.24,United States
+MAT0933,Propylene Glycol Industrial Material 0933,CAT007,SUP405,KG,1406.48,Germany
+MAT0934,Glycerol Premium Material 0934,CAT007,SUP475,TON,3601.06,Germany
+MAT0935,Citric Acid Industrial Material 0935,CAT009,SUP034,TON,2133.31,Switzerland
+MAT0936,Isopropyl Alcohol Premium Material 0936,CAT001,SUP391,KG,3224.8,United States
+MAT0937,Propylene Glycol B Material 0937,CAT001,SUP206,L,3160.07,United Kingdom
+MAT0938,Acetic Acid A Material 0938,CAT002,SUP081,L,2606.01,United States
+MAT0939,Formaldehyde Premium Material 0939,CAT006,SUP232,BOX,4373.85,United States
+MAT0940,Sodium Chloride B Material 0940,CAT010,SUP424,TON,4007.67,Singapore
+MAT0941,Acetone Premium Material 0941,CAT006,SUP094,box,4388.13,Belgium
+MAT0942,Hydrochloric Acid A Material 0942,CAT001,SUP473,DRUM,3253.18,Singapore
+MAT0943,Acetone Premium Material 0943,CAT004,SUP135,L,296.43,Belgium
+MAT0944,Ethylene Glycol Industrial Material 0944,CAT003,SUP046,TON,892.11,Belgium
+MAT0945,Methanol A Material 0945,CAT009,SUP223,BOX,4144.92,Netherlands
+MAT0946,Methanol B Material 0946,CAT004,SUP098,TON,1475.41,Netherlands
+MAT0947,Xylene B Material 0947,,SUP439,L,3020.41,Japan
+MAT0948,Sulfuric Acid Premium Material 0948,CAT003,SUP210,L,192.43,Japan
+MAT0949,Hydrochloric Acid Premium Material 0949,CAT004,SUP190,DRUM,3437.12,Netherlands
+MAT0950,Acetone A Material 0950,CAT008,SUP069,TON,4873.28,France
+MAT0951,Sulfuric Acid Premium Material 0951,CAT007,SUP377,DRUM,1318.32,Germany
+MAT0952,Sodium Carbonate A Material 0952,CAT001,SUP171,L,2381.12,United Kingdom
+MAT0953,Formaldehyde A Material 0953,CAT001,SUP130,DRUM,3117.31,Japan
+MAT0954,Xylene Industrial Material 0954,CAT003,SUP496,DRUM,253.57,United States
+MAT0955,Sodium Chloride B Material 0955,CAT009,SUP253,TON,4395.59,United States
+MAT0956,Acetone Industrial Material 0956,CAT009,SUP222,L,1339.01,United Kingdom
+MAT0957,Ethanol B Material 0957,CAT008,SUP447,TON,3751.73,France
+MAT0958,Calcium Carbonate Industrial Material 0958,CAT010,SUP425,TON,2609.01,France
+MAT0959,Citric Acid Industrial Material 0959,CAT008,SUP392,L,2800.59,Netherlands
+MAT0960,Ethanol B Material 0960,CAT003,SUP028,L,956.55,Netherlands
+MAT0961,Sodium Chloride B Material 0961,CAT008,SUP224,KG,4976.25,Netherlands
+MAT0962,Ethanol Premium Material 0962,CAT006,SUP364,DRUM,2451.74,Netherlands
+MAT0963,Methanol B Material 0963,CAT002,SUP179,KG,1058.48,Japan
+MAT0964,Citric Acid B Material 0964,CAT009,SUP422,TON,2838.07,Belgium
+MAT0965,Sulfuric Acid A Material 0965,CAT009,SUP393,DRUM,943.82,Germany
+MAT0966,Hydrochloric Acid Premium Material 0966,CAT002,SUP455,TON,178.51,Germany
+MAT0967,Xylene Industrial Material 0967,CAT010,SUP476,KG,4193.04,United States
+MAT0968,Sodium Hydroxide A Material 0968,CAT008,SUP426,BOX,2297.57,Japan
+MAT0969,Formaldehyde A Material 0969,CAT006,SUP497,KG,,Netherlands
+MAT0970,Isopropyl Alcohol B Material 0970,CAT004,SUP442,KG,4017.71,Japan
+MAT0971,Isopropyl Alcohol A Material 0971,CAT002,SUP281,DRUM,1937.89,France
+MAT0972,Sodium Chloride B Material 0972 ,CAT004,SUP495,BOX,491.48,Singapore
+MAT0973,Citric Acid Premium Material 0973,CAT007,SUP146,L,646.98,Netherlands
+MAT0974,Ethylene Glycol Industrial Material 0974,CAT010,SUP068,TON,3344.33,United Kingdom
+MAT0975,Ammonium Hydroxide B Material 0975,CAT008,SUP229,Box,2408.38,Belgium
+MAT0976,Formaldehyde Premium Material 0976,CAT002,SUP388,BOX,4064.42,Belgium
+MAT0977,Citric Acid Premium Material 0977,CAT007,SUP048,KG,2591.04,Netherlands
+MAT0978,Hydrochloric Acid B Material 0978,CAT008,SUP270,DRUM,465.65,Netherlands
+MAT0979,Ethylene Glycol A Material 0979,CAT008,SUP154,L,4921.72,Japan
+MAT0980,Hydrochloric Acid Premium Material 0980,CAT005,SUP292,KG,2777.42,India
+MAT0981,Ammonium Hydroxide A Material 0981,CAT009,SUP218,BOX,517.7,Belgium
+MAT0982,Sodium Chloride Industrial Material 0982,CAT005,SUP300,KG,3854.8,India
+MAT0983,Methanol Premium Material 0983,CAT003,SUP403,L,4222.4,India
+MAT0984,Acetone Premium Material 0984,CAT005,SUP161,DRUM,3634.27,Netherlands
+MAT0985,Formaldehyde Industrial Material 0985,CAT006,SUP495,L,1094.79,Germany
+MAT0986,Formaldehyde Industrial Material 0986,CAT002,SUP223,DRUM,138.68,France
+MAT0987,Methanol A Material 0987,CAT003,SUP336,BOX,2327.81,France
+MAT0988,Formaldehyde Premium Material 0988,CAT005,SUP317,DRUM,1835.61,France
+MAT0989,Calcium Carbonate A Material 0989,CAT003,SUP070,KG,994.47,India
+MAT0990,Sulfuric Acid A Material 0990,CAT004,SUP247,L,3266.21,France
+MAT0991,Sodium Carbonate B Material 0991,CAT002,SUP155,BOX,783.42,France
+MAT0992,Sodium Hydroxide A Material 0992,CAT003,SUP463,L,3706.97,Netherlands
+MAT0993,Glycerol Premium Material 0993,CAT001,SUP441,BOX,2946.87,Singapore
+MAT0994,Calcium Carbonate Premium Material 0994,CAT001,SUP171,KG,558.18,France
+MAT0995,Ethylene Glycol Premium Material 0995,CAT010,SUP306,DRUM,4995.18,India
+MAT0996,Glycerol Premium Material 0996,CAT008,SUP263,DRUM,3636.84,Netherlands
+MAT0997,Hydrochloric Acid A Material 0997,CAT009,SUP010,BOX,2903.2,Switzerland
+MAT0998,Acetone Industrial Material 0998,CAT007,SUP456,BOX,628.86,Belgium
+MAT0999,Toluene Premium Material 0999,,SUP011,L,1475.65,Singapore
+MAT1000,Glycerol Industrial Material 1000,CAT008,SUP119,DRUM,1137.53,United Kingdom
+MAT1001,Formaldehyde Premium Material 1001,CAT003,SUP453,TON,3628.83,France
+MAT1002,Ethylene Glycol Industrial Material 1002,CAT008,SUP410,L,3128.12,Japan
+MAT1003,Acetone Premium Material 1003,CAT003,SUP089,L,823.75,Netherlands
+MAT1004,Methanol Premium Material 1004,CAT008,SUP156,l,1086.69,India
+MAT1005,Sodium Hydroxide Industrial Material 1005,CAT005,SUP183,L,914.84,Switzerland
+MAT1006,Ethanol A Material 1006,CAT006,SUP221,kg,3106.94,Germany
+MAT1007,Sodium Carbonate B Material 1007,CAT008,SUP133,TON,3935.18,India
+MAT1008,Sodium Carbonate Industrial Material 1008,CAT003,SUP437,DRUM,3041.23,Germany
+MAT1009,Ethanol Premium Material 1009,CAT008,SUP493,KG,4874.57,Belgium
+MAT1010,Formaldehyde A Material 1010,CAT009,SUP022,DRUM,571.78,Germany
+MAT1011,Sulfuric Acid Industrial Material 1011,CAT003,SUP373,TON,3555.41,Switzerland
+MAT1012,Glycerol A Material 1012,CAT003,SUP332,TON,1706.31,United States
+MAT1013,Methanol B Material 1013,CAT008,SUP497,BOX,3857.64,India
+MAT1014,hydrochloric acid premium material 1014,CAT006,SUP147,DRUM,897.75,Japan
+MAT1015,Toluene Premium Material 1015,CAT006,SUP323,L,800.48,Switzerland
+MAT1016,Ethylene Glycol B Material 1016,CAT003,SUP411,BOX,2096.38,France
+MAT1017,Propylene Glycol Industrial Material 1017,CAT001,SUP227,L,3862.25,Switzerland
+MAT1018,Acetone A Material 1018,CAT006,SUP162,BOX,4910.63,United States
+MAT1019,Ethylene Glycol A Material 1019,CAT007,SUP389,KG,3317.87,United States
+MAT1020,Acetic Acid A Material 1020,CAT009,SUP499,TON,2125.56,Switzerland
+MAT1021,Calcium Carbonate Industrial Material 1021,CAT006,SUP005,TON,4506.03,Belgium
+MAT1022,Hydrogen Peroxide Premium Material 1022,CAT008,SUP330,L,4443.52,Belgium
+MAT1023,Formaldehyde Premium Material 1023,CAT006,SUP455,BOX,3888.23,Japan
+MAT1024,Acetone A Material 1024,CAT009,SUP172,BOX,3639.24,United States
+MAT1025,Ammonium Hydroxide Industrial Material 1025,CAT004,SUP048,DRUM,2781.34,Switzerland
+MAT1026,Isopropyl Alcohol B Material 1026,CAT001,SUP015,drum,2982.89,Singapore
+MAT1027,Calcium Carbonate Premium Material 1027,CAT009,SUP057,KG,4215.84,Japan
+MAT1028,Ammonium Hydroxide Industrial Material 1028,CAT002,SUP025,KG,2271.25,Belgium
+MAT1029,Sodium Hydroxide Premium Material 1029,CAT006,SUP121,DRUM,2849.71,Switzerland
+MAT1030,Formaldehyde B Material 1030,CAT006,SUP154,TON,3351.27,Belgium
+MAT1031,Hydrogen Peroxide Premium Material 1031,CAT009,SUP378,L,570.87,Switzerland
+MAT1032,Acetic Acid B Material 1032,CAT006,SUP233,KG,775.44,France
+MAT1033,Ethylene Glycol A Material 1033,CAT002,SUP032,BOX,4448.12,Netherlands
+MAT1034,Sulfuric Acid Premium Material 1034,CAT002,SUP190,DRUM,2043.63,Switzerland
+MAT1035,Ammonium Hydroxide Premium Material 1035,CAT005,SUP300,BOX,3200.48,Netherlands
+MAT1036,Glycerol Premium Material 1036,CAT003,SUP074,drum,679.26,Netherlands
+MAT1037,Hydrogen Peroxide A Material 1037,CAT004,SUP234,BOX,211.41,United States
+MAT1038,Sodium Carbonate Industrial Material 1038,CAT002,SUP309,BOX,596.16,United Kingdom
+MAT1039,Acetic Acid Industrial Material 1039,CAT001,SUP268,L,632.82,Japan
+MAT1040,Toluene Industrial Material 1040,CAT005,SUP249,KG,3966.46,United States
+MAT1041,Acetic Acid Premium Material 1041,CAT001,SUP480,TON,4450.83,Singapore
+MAT1042,Citric Acid Premium Material 1042,CAT001,SUP063,DRUM,1775.81,India
+MAT1043,Ethylene Glycol Premium Material 1043,CAT010,SUP159,DRUM,2289.25,United Kingdom
+MAT1044,Xylene Premium Material 1044,CAT010,SUP068,L,2548.58,Netherlands
+MAT1045,Propylene Glycol Premium Material 1045,CAT003,SUP444,TON,492.11,Belgium
+MAT1046,Formaldehyde Premium Material 1046,CAT007,SUP120,BOX,1728.04,India
+MAT1047,Propylene Glycol Industrial Material 1047,CAT002,SUP444,L,3550.68,Belgium
+MAT1048,Calcium Carbonate A Material 1048,CAT009,SUP044,L,4778.08,Switzerland
+MAT1049,Acetic Acid A Material 1049,CAT010,SUP268,L,3765.26,Switzerland
+MAT1050,Sodium Hydroxide A Material 1050,CAT009,SUP093,KG,1411.06,Singapore
+MAT1051,Hydrochloric Acid Premium Material 1051,CAT002,SUP414,DRUM,3053.93,France
+MAT1052,Acetic Acid A Material 1052,CAT008,SUP442,KG,1732.78,United States
+MAT1053,Ethylene Glycol A Material 1053,CAT009,SUP163,BOX,1323.03,Germany
+MAT1054,Methanol B Material 1054,CAT005,SUP074,L,1314.99,Germany
+MAT1055,Hydrogen Peroxide Industrial Material 1055,CAT007,SUP348,L,341.62,United Kingdom
+MAT1056,Citric Acid A Material 1056,CAT001,SUP153,BOX,538.78,United States
+MAT1057,Ethylene Glycol Industrial Material 1057,CAT005,SUP193,KG,306.8,Singapore
+MAT1058,Formaldehyde B Material 1058,CAT008,SUP261,DRUM,1955.99,Germany
+MAT1059,Sodium Chloride A Material 1059,CAT006,SUP238,DRUM,2065.03,Netherlands
+MAT1060,Sodium Hydroxide Premium Material 1060,CAT004,SUP468,KG,1382.34,Belgium
+MAT1061,Methanol B Material 1061,CAT009,SUP334,L,1557.83,France
+MAT1062,propylene glycol a material 1062,CAT009,SUP105,L,1897.86,United States
+MAT1063,Hydrochloric Acid Premium Material 1063,CAT009,SUP232,KG,54.96,Netherlands
+MAT1064,Formaldehyde Industrial Material 1064,CAT003,SUP001,KG,4670.86,Netherlands
+MAT1065,Sodium Chloride Industrial Material 1065,CAT007,SUP180,L,2946.54,Switzerland
+MAT1066,Calcium Carbonate A Material 1066,CAT003,SUP379,DRUM,2837.25,Japan
+MAT1067,Acetone Premium Material 1067,CAT002,SUP426,L,3639.12,Japan
+MAT1068,Ethylene Glycol B Material 1068,CAT010,SUP259,TON,4425.46,United Kingdom
+MAT1069,Sodium Chloride Premium Material 1069,CAT005,SUP126,TON,1741.07,Netherlands
+MAT1070,Formaldehyde Industrial Material 1070,CAT001,SUP468,L,3249.89,India
+MAT1071,Formaldehyde Premium Material 1071,,SUP462,KG,3379.9,France
+MAT1072,Sodium Carbonate Premium Material 1072,CAT007,SUP276,KG,3947.16,Germany
+MAT1073,Sodium Carbonate A Material 1073,CAT008,SUP345,KG,1797.32,France
+MAT1074,Formaldehyde Industrial Material 1074,CAT007,SUP091,KG,667.58,United Kingdom
+MAT1075,Sulfuric Acid Premium Material 1075,CAT001,SUP114,KG,3804.18,United Kingdom
+MAT1076,Sulfuric Acid A Material 1076,CAT010,SUP321,TON,4051.65,Singapore
+MAT1077,Hydrochloric Acid Premium Material 1077,CAT006,SUP019,TON,2489.55,Belgium
+MAT1078,Sulfuric Acid A Material 1078,CAT004,SUP421,BOX,599.19,Japan
+MAT1079,ACETIC ACID PREMIUM MATERIAL 1079,CAT003,SUP283,L,3316.2,Belgium
+MAT1080,Formaldehyde B Material 1080,CAT002,SUP302,L,3742.57,United States
+MAT1081,Sodium Chloride B Material 1081,CAT009,SUP374,Tonne,999.67,India
+MAT1082,Sodium Carbonate Industrial Material 1082,CAT009,SUP453,BOX,-800.0,France
+MAT1083,Ethanol Industrial Material 1083,CAT007,SUP433,Box,-976.0,Switzerland
+MAT1084,Propylene Glycol Premium Material 1084,CAT006,SUP265,KG,4424.82,Singapore
+MAT1085,Ethanol Industrial Material 1085,CAT007,SUP273,BOX,,France
+MAT1086,Sulfuric Acid Industrial Material 1086,CAT002,SUP451,DRUM,4047.98,Singapore
+MAT1087,Ethylene Glycol A Material 1087,CAT004,SUP101,L,1679.66,Germany
+MAT1088,Methanol A Material 1088,CAT008,SUP222,KG,2983.03,United Kingdom
+MAT1089,Sodium Chloride B Material 1089,CAT002,SUP243,L,4796.07,India
+MAT1090,Isopropyl Alcohol B Material 1090,CAT002,SUP398,DRUM,3116.85,Germany
+MAT1091,Propylene Glycol A Material 1091,CAT002,SUP499,KG,4587.74,France
+MAT1092,Isopropyl Alcohol A Material 1092,CAT003,SUP032,BOX,321.2,Belgium
+MAT1093,Ethylene Glycol A Material 1093,CAT002,SUP347,KG,2818.33,Japan
+MAT1094,Xylene Premium Material 1094,CAT002,SUP317,BOX,1203.9,Belgium
+MAT1095,Formaldehyde A Material 1095,CAT008,SUP197,BOX,3986.07,Belgium
+MAT1096,Formaldehyde A Material 1096,CAT006,SUP334,KG,2297.68,United Kingdom
+MAT1097,Acetic Acid B Material 1097,CAT002,SUP053,KG,2996.12,Germany
+MAT1098,Acetic Acid B Material 1098,CAT010,SUP065,DRUM,1318.62,France
+MAT1099,Glycerol Premium Material 1099,CAT003,SUP125,L,3995.28,India
+MAT1100,Hydrogen Peroxide Industrial Material 1100,CAT010,SUP224,DRUM,4800.72,United Kingdom
+MAT1101,Calcium Carbonate B Material 1101,CAT003,SUP241,TON,3036.48,Japan
+MAT1102,Toluene A Material 1102,CAT009,SUP301,L,333.72,Switzerland
+MAT1103,Sodium Carbonate A Material 1103,CAT007,SUP177,L,4883.73,Singapore
+MAT1104,Acetone Industrial Material 1104,CAT004,SUP342,BOX,3489.17,Netherlands
+MAT1105,Formaldehyde Industrial Material 1105,CAT010,SUP290,TON,3099.71,France
+MAT1106,Isopropyl Alcohol B Material 1106,CAT002,SUP233,KG,2504.86,India
+MAT1107,Hydrochloric Acid B Material 1107,CAT008,SUP320,L,1233.14,United Kingdom
+MAT1108,Xylene B Material 1108,CAT007,SUP095,KG,1845.94,Germany
+MAT1109,Toluene A Material 1109,CAT009,SUP059,L,1488.35,Singapore
+MAT1110,Acetic Acid Industrial Material 1110,CAT001,SUP500,KG,1035.66,Japan
+MAT1111,Citric Acid B Material 1111,CAT005,SUP369,L,1732.1,Switzerland
+MAT1112,Hydrochloric Acid B Material 1112,CAT004,SUP012,L,4222.26,Germany
+MAT1113,Sodium Hydroxide B Material 1113,CAT007,SUP336,kg,1725.0,Singapore
+MAT1114,Calcium Carbonate Premium Material 1114,CAT004,SUP190,TON,3321.5,Switzerland
+MAT1115,Formaldehyde Premium Material 1115,CAT002,SUP061,L,4419.48,United States
+MAT1116,Sulfuric Acid B Material 1116,CAT009,SUP194,TON,1623.86,France
+MAT1117,Hydrochloric Acid A Material 1117,CAT010,SUP301,L,4279.46,Japan
+MAT1118,Hydrogen Peroxide Industrial Material 1118,CAT004,SUP028,TON,4370.61,Switzerland
+MAT1119,Acetic Acid Premium Material 1119,CAT004,SUP373,KG,3934.09,Belgium
+MAT1120,Acetone B Material 1120,CAT009,SUP199,DRUM,1902.62,Switzerland
+MAT1121,Propylene Glycol B Material 1121,CAT006,SUP365,tonne,2651.1,Netherlands
+MAT1122,Glycerol Premium Material 1122,CAT005,SUP298,BOX,3208.62,Belgium
+MAT1123,Ethanol B Material 1123,CAT004,SUP459,Liter,2287.8,Singapore
+MAT1124,Xylene B Material 1124,CAT005,SUP218,BOX,2878.28,United Kingdom
+MAT1125,Sodium Chloride A Material 1125,CAT003,SUP385,KG,1510.49,Switzerland
+MAT1126,Toluene B Material 1126,CAT010,SUP022,BOX,2585.7,United Kingdom
+MAT1127,Ethylene Glycol Premium Material 1127,,SUP222,BOX,1869.18,Netherlands
+MAT1128,Isopropyl Alcohol Industrial Material 1128,CAT007,SUP013,L,2236.36,Japan
+MAT1129,Acetone Industrial Material 1129,CAT002,SUP151,DRUM,2588.32,Germany
+MAT1130,Sodium Chloride B Material 1130,CAT002,SUP061,KG,1833.17,Switzerland
+MAT1131,Sulfuric Acid Industrial Material 1131,CAT004,SUP346,TON,1287.62,Japan
+MAT1132,Sulfuric Acid B Material 1132,CAT009,SUP468,TON,92.24,Japan
+MAT1133,Calcium Carbonate Industrial Material 1133,CAT007,SUP485,BOX,4118.21,India
+MAT1134,Glycerol B Material 1134,CAT007,SUP117,L,3630.51,Singapore
+MAT1135,Glycerol B Material 1135,CAT009,SUP301,DRUM,3800.23,Netherlands
+MAT1136,Isopropyl Alcohol A Material 1136,CAT006,SUP434,L,2172.53,France
+MAT1137,Sulfuric Acid Premium Material 1137,CAT008,SUP437,DRUM,199.02,United States
+MAT1138,Acetic Acid B Material 1138 ,CAT005,SUP483,KG,2524.01,United Kingdom
+MAT1139,Isopropyl Alcohol B Material 1139,CAT007,SUP218,BOX,3826.07,Switzerland
+MAT1140,Calcium Carbonate Industrial Material 1140,CAT010,SUP012,DRUM,3937.52,United States
+MAT1141,Hydrogen Peroxide Industrial Material 1141,CAT010,SUP323,DRUM,4573.07,Belgium
+MAT1142,Xylene Premium Material 1142,CAT004,SUP486,BOX,365.36,France
+MAT1143,Sulfuric Acid Premium Material 1143,CAT002,SUP169,DRUM,4811.59,Japan
+MAT1144,Acetone B Material 1144,CAT002,SUP346,DRUM,929.3,Belgium
+MAT1145,Glycerol A Material 1145,CAT003,SUP102,KG,4561.16,France
+MAT1146,Calcium Carbonate B Material 1146,CAT004,SUP150,DRUM,396.4,India
+MAT1147,Toluene A Material 1147,CAT003,SUP168,BOX,1985.97,Germany
+MAT1148,Hydrogen Peroxide Premium Material 1148,CAT008,SUP381,KG,1975.51,Singapore
+MAT1149,Hydrogen Peroxide B Material 1149,CAT005,SUP222,BOX,835.97,Belgium
+MAT1150,Calcium Carbonate B Material 1150,CAT009,SUP367,BOX,1413.43,India
+MAT1151,Hydrogen Peroxide Premium Material 1151,CAT002,SUP423,BOX,3044.0,Singapore
+MAT1152,Ammonium Hydroxide Industrial Material 1152,CAT010,SUP451,BOX,2328.01,Belgium
+MAT1153,Ethanol A Material 1153,CAT005,SUP331,Box,1766.57,Japan
+MAT1154,Xylene B Material 1154,CAT007,SUP128,L,4504.82,France
+MAT1155,Propylene Glycol Premium Material 1155,CAT003,SUP358,DRUM,522.89,India
+MAT1156,Hydrochloric Acid B Material 1156,CAT005,SUP452,DRUM,1494.85,Germany
+MAT1157,Sulfuric Acid Premium Material 1157,CAT007,SUP391,DRUM,650.09,United Kingdom
+MAT1158,ACETONE A MATERIAL 1158,CAT009,SUP393,TON,2079.98,United States
+MAT1159,Sodium Chloride B Material 1159,CAT009,SUP023,BOX,182.25,Netherlands
+MAT1160,Xylene Industrial Material 1160,CAT007,SUP439,L,2013.54,India
+MAT1161,Sodium Chloride A Material 1161 ,CAT003,SUP168,BOX,2449.56,Germany
+MAT1162,Acetone B Material 1162,CAT008,SUP072,BOX,4111.11,United States
+MAT1163,Citric Acid A Material 1163,CAT010,SUP052,L,1506.02,Switzerland
+MAT1164,Xylene B Material 1164,CAT002,SUP344,KG,3403.05,United States
+MAT1165,Propylene Glycol Industrial Material 1165,CAT003,SUP111,KG,4468.8,Switzerland
+MAT1166,SULFURIC ACID PREMIUM MATERIAL 1166,CAT001,SUP429,DRUM,3223.01,Germany
+MAT1167,Xylene Industrial Material 1167,CAT008,SUP027,DRUM,73.1,France
+MAT1168,Sulfuric Acid B Material 1168,CAT006,SUP466,L,1039.93,India
+MAT1169,Ethylene Glycol A Material 1169,CAT001,SUP173,L,3415.8,Germany
+MAT1170,Hydrochloric Acid A Material 1170,CAT003,SUP371,L,267.86,Switzerland
+MAT1171,Methanol Industrial Material 1171,CAT006,SUP288,l,3142.13,Switzerland
+MAT1172,Xylene Premium Material 1172,CAT002,SUP119,L,574.13,United Kingdom
+MAT1173,Citric Acid A Material 1173,CAT007,SUP335,TON,109.31,Singapore
+MAT1174,Propylene Glycol B Material 1174,CAT002,SUP337,TON,3267.23,United Kingdom
+MAT1175,Ethanol A Material 1175,CAT004,SUP211,TON,3849.35,Netherlands
+MAT1176,Methanol B Material 1176,CAT005,SUP492,KG,3019.34,France
+MAT1177,Hydrogen Peroxide Industrial Material 1177,,SUP326,tonne,4891.21,Netherlands
+MAT1178,Acetone Industrial Material 1178,CAT001,SUP312,DRUM,2272.11,Switzerland
+MAT1179,Hydrochloric Acid A Material 1179,CAT004,SUP011,DRUM,3806.76,Germany
+MAT1180,Calcium Carbonate B Material 1180,CAT007,SUP388,L,3117.84,India
+MAT1181,Hydrogen Peroxide Industrial Material 1181,CAT008,SUP152,L,800.77,Singapore
+MAT1182,Ethanol B Material 1182,CAT010,SUP485,BOX,3709.32,United Kingdom
+MAT1183,Hydrogen Peroxide Industrial Material 1183,CAT006,SUP330,KG,2628.32,France
+MAT1184,Calcium Carbonate A Material 1184,CAT004,SUP434,TON,1746.51,Singapore
+MAT1185,Sodium Carbonate A Material 1185,CAT004,SUP411,L,3059.91,France
+MAT1186,Ammonium Hydroxide Industrial Material 1186,,SUP227,KG,369.85,Netherlands
+MAT1187,Acetone B Material 1187,CAT001,SUP325,L,4694.46,United States
+MAT1188,Acetone B Material 1188,CAT010,SUP282,L,1219.74,Germany
+MAT1189,Ethylene Glycol Premium Material 1189,CAT005,SUP085,litre,1262.38,United States
+MAT1190,Formaldehyde B Material 1190,CAT005,SUP147,DRUM,2268.94,Singapore
+MAT1191,Sodium Chloride Premium Material 1191,CAT002,SUP487,TON,2021.31,United States
+MAT1192,Glycerol Premium Material 1192,CAT007,SUP259,DRUM,,United States
+MAT1193,Glycerol A Material 1193,CAT007,SUP219,KG,3806.35,Japan
+MAT1194,Formaldehyde B Material 1194,CAT009,SUP373,L,,Netherlands
+MAT1195,Calcium Carbonate Premium Material 1195 ,CAT005,SUP193,DRUM,3049.83,Germany
+MAT1196,Isopropyl Alcohol B Material 1196,CAT008,SUP101,L,4584.85,India
+MAT1197,Sodium Hydroxide Industrial Material 1197,CAT008,SUP208,BOX,4704.41,United Kingdom
+MAT1198,Xylene Premium Material 1198,CAT005,SUP329,DRUM,402.61,India
+MAT1199,Methanol Premium Material 1199,CAT010,SUP084,L,3826.61,Japan
+MAT1200,Toluene Premium Material 1200,CAT006,SUP357,KG,3271.99,France
+MAT1201,Hydrochloric Acid B Material 1201,CAT008,SUP018,TON,3173.22,India
+MAT1202,Hydrogen Peroxide Industrial Material 1202,CAT010,SUP234,L,1308.73,Belgium
+MAT1203,Acetic Acid B Material 1203,CAT001,SUP060,KG,3239.77,France
+MAT1204,Xylene A Material 1204,CAT009,SUP466,L,4386.23,United States
+MAT1205,Ethylene Glycol Industrial Material 1205,CAT005,SUP257,DRUM,3309.51,France
+MAT1206,Acetic Acid Industrial Material 1206,CAT007,SUP386,KG,590.91,Belgium
+MAT1207,Toluene B Material 1207,CAT005,SUP384,L,4653.58,France
+MAT1208,Calcium Carbonate A Material 1208,CAT003,SUP418,BOX,57.81,Germany
+MAT1209,Ethylene Glycol Premium Material 1209,CAT005,SUP376,BOX,894.64,United Kingdom
+MAT1210,Citric Acid B Material 1210,CAT004,SUP250,L,2537.94,Germany
+MAT1211,Propylene Glycol B Material 1211,CAT003,SUP103,Kg,3762.08,Singapore
+MAT1212,Sodium Chloride Premium Material 1212,CAT008,SUP321,DRUM,590.52,United States
+MAT1213,Acetone Industrial Material 1213,CAT002,SUP194,KG,1419.97,United Kingdom
+MAT1214,Sodium Hydroxide B Material 1214,CAT008,SUP249,KG,97.06,Japan
+MAT1215,Sodium Hydroxide A Material 1215,CAT002,SUP109,DRUM,3969.34,France
+MAT1216,Formaldehyde Industrial Material 1216,CAT008,SUP243,TON,3041.64,United Kingdom
+MAT1217,Toluene Industrial Material 1217,CAT006,SUP419,L,4707.91,France
+MAT1218,Xylene A Material 1218,CAT006,SUP448,TON,4041.04,India
+MAT1219,Propylene Glycol Premium Material 1219,CAT003,SUP014,DRUM,658.33,Switzerland
+MAT1220,Sodium Chloride B Material 1220,CAT006,SUP232,DRUM,3446.62,Netherlands
+MAT1221,Ammonium Hydroxide Premium Material 1221,CAT004,SUP002,TON,132.32,United Kingdom
+MAT1222,Ethanol Industrial Material 1222,CAT008,SUP120,DRUM,2448.45,Belgium
+MAT1223,Acetone Industrial Material 1223,CAT007,SUP481,BOX,4935.01,Germany
+MAT1224,Xylene Industrial Material 1224,CAT010,SUP100,L,4355.8,Belgium
+MAT1225,Ammonium Hydroxide A Material 1225,CAT003,SUP255,KG,1541.67,Switzerland
+MAT1226,Propylene Glycol B Material 1226,CAT008,SUP489,KG,2436.73,Switzerland
+MAT1227,Hydrochloric Acid B Material 1227,,SUP088,KG,572.07,India
+MAT1228,citric acid industrial material 1228,CAT007,SUP393,TON,1140.86,Japan
+MAT1229,Glycerol A Material 1229,CAT003,SUP473,DRUM,3186.06,Netherlands
+MAT1230,Acetone Industrial Material 1230,CAT004,SUP478,DRUM,3843.37,Belgium
+MAT1231,Acetone Industrial Material 1231,CAT007,SUP467,BOX,3286.9,Switzerland
+MAT1232,Ethylene Glycol B Material 1232,CAT004,SUP133,KG,1490.33,Germany
+MAT1233,Acetone Industrial Material 1233,CAT010,SUP480,L,3735.86,Germany
+MAT1234,Acetic Acid Industrial Material 1234,CAT003,SUP437,TON,4772.64,Belgium
+MAT1235,Sodium Hydroxide Industrial Material 1235,CAT001,SUP303,DRUM,989.8,France
+MAT1236,Ethylene Glycol Industrial Material 1236,CAT006,SUP409,Liter,2622.77,Belgium
+MAT1237,Acetic Acid B Material 1237,CAT002,SUP203,KG,2714.55,Netherlands
+MAT1238,Isopropyl Alcohol B Material 1238,CAT005,SUP429,L,2524.17,Netherlands
+MAT1239,Hydrogen Peroxide Industrial Material 1239,CAT003,SUP383,KG,3014.46,Japan
+MAT1240,Ammonium Hydroxide A Material 1240,CAT005,SUP435,DRUM,2417.5,Singapore
+MAT1241,Glycerol Industrial Material 1241,CAT007,SUP031,TON,805.88,Singapore
+MAT1242,Hydrochloric Acid A Material 1242,CAT003,SUP439,BOX,3650.61,Japan
+MAT1243,Citric Acid A Material 1243,CAT009,SUP201,TON,2141.07,Netherlands
+MAT1244,Toluene Premium Material 1244,CAT007,SUP037,DRUM,3647.44,Japan
+MAT1245,Sulfuric Acid Premium Material 1245,CAT002,SUP068,TON,3773.72,Belgium
+MAT1246,Ethanol Industrial Material 1246,CAT008,SUP336,L,2906.93,Netherlands
+MAT1247,Glycerol Industrial Material 1247,CAT003,SUP108,L,4031.57,Singapore
+MAT1248,Sodium Hydroxide Industrial Material 1248,CAT010,SUP053,L,1913.95,France
+MAT1249,Citric Acid A Material 1249,CAT002,SUP183,BOX,939.18,India
+MAT1250,Methanol Industrial Material 1250,CAT010,SUP223,L,3153.51,France
+MAT1251,Hydrochloric Acid A Material 1251,CAT002,SUP124,BOX,2468.7,Belgium
+MAT1252,Citric Acid Premium Material 1252,CAT002,SUP399,BOX,4331.23,France
+MAT1253,Sodium Chloride Premium Material 1253,CAT006,SUP006,KG,627.31,Germany
+MAT1254,Glycerol B Material 1254,CAT001,SUP301,DRUM,4937.38,Netherlands
+MAT1255,Sodium Chloride A Material 1255,CAT010,SUP093,BOX,2446.75,France
+MAT1256,Calcium Carbonate B Material 1256,CAT002,SUP167,KG,3583.15,Switzerland
+MAT1257,Citric Acid Premium Material 1257,CAT001,SUP202,DRUM,4096.44,Switzerland
+MAT1258,Glycerol A Material 1258,CAT009,SUP429,DRUM,2717.96,Germany
+MAT1259,Sulfuric Acid A Material 1259,CAT003,SUP442,DRUM,3491.32,India
+MAT1260,SODIUM CARBONATE PREMIUM MATERIAL 1260,CAT006,SUP063,KG,687.64,Singapore
+MAT1261,Citric Acid A Material 1261,CAT009,SUP132,Kg,468.82,Germany
+MAT1262,Ammonium Hydroxide Industrial Material 1262,CAT006,SUP495,DRUM,899.44,India
+MAT1263,Hydrochloric Acid Industrial Material 1263 ,CAT001,SUP485,DRUM,4527.87,Japan
+MAT1264,Sodium Carbonate Premium Material 1264,CAT003,SUP296,BOX,3490.75,Switzerland
+MAT1265,Toluene B Material 1265,CAT002,SUP340,KG,1223.65,Singapore
+MAT1266,Hydrogen Peroxide Industrial Material 1266,CAT004,SUP491,L,3030.61,Singapore
+MAT1267,Acetic Acid Industrial Material 1267,CAT005,SUP066,DRUM,2138.97,Switzerland
+MAT1268,Sodium Chloride Industrial Material 1268,CAT007,SUP333,L,2030.29,Germany
+MAT1269,Sodium Chloride Premium Material 1269,CAT003,SUP275,L,399.26,Japan
+MAT1270,Sulfuric Acid Industrial Material 1270,CAT010,SUP337,DRUM,3044.48,France
+MAT1271,Hydrogen Peroxide Industrial Material 1271,CAT007,SUP195,KG,4821.89,Singapore
+MAT1272,Acetone Industrial Material 1272,CAT002,SUP273,KG,3435.7,France
+MAT1273,Acetone Industrial Material 1273,CAT002,SUP186,TON,3901.45,United States
+MAT1274,Hydrochloric Acid Industrial Material 1274,CAT001,SUP051,BOX,4898.45,Singapore
+MAT1275,Xylene A Material 1275,CAT002,SUP090,DRUM,3655.22,Japan
+MAT1276,Acetic Acid Premium Material 1276,CAT002,SUP271,TON,3517.25,Japan
+MAT1277,Sodium Carbonate Industrial Material 1277,CAT010,SUP051,KG,895.2,France
+MAT1278,Citric Acid Industrial Material 1278,CAT009,SUP283,DRUM,4416.0,France
+MAT1279,Glycerol B Material 1279,CAT005,SUP005,DRUM,3580.45,United States
+MAT1280,Hydrogen Peroxide Premium Material 1280,CAT010,SUP377,TON,311.68,United Kingdom
+MAT1281,Hydrochloric Acid Premium Material 1281,CAT008,SUP094,BOX,4931.92,Netherlands
+MAT1282,Ammonium Hydroxide Industrial Material 1282,CAT005,SUP488,Box,2626.94,Singapore
+MAT1283,Calcium Carbonate A Material 1283,CAT005,SUP209,TON,4233.97,Germany
+MAT1284,Acetone B Material 1284,CAT002,SUP085,DRUM,334.19,Japan
+MAT1285,Sodium Carbonate Premium Material 1285,CAT001,SUP493,Box,3401.31,United States
+MAT1286,Glycerol Premium Material 1286,CAT009,SUP351,DRUM,3504.52,France
+MAT1287,Sodium Hydroxide B Material 1287,CAT001,SUP366,BOX,-166.0,United Kingdom
+MAT1288,Hydrochloric Acid A Material 1288,CAT010,SUP230,L,3388.88,Switzerland
+MAT1289,Hydrochloric Acid B Material 1289,CAT002,SUP188,L,2592.74,India
+MAT1290,Ethylene Glycol Premium Material 1290,CAT007,SUP088,TON,,United Kingdom
+MAT1291,Hydrochloric Acid A Material 1291,CAT005,SUP154,BOX,1503.05,Singapore
+MAT1292,Sodium Hydroxide Premium Material 1292,CAT004,SUP473,TON,4649.09,Switzerland
+MAT1293,Ethanol Premium Material 1293,CAT010,SUP435,BOX,334.61,India
+MAT1294,Formaldehyde Premium Material 1294,CAT006,SUP153,tonne,580.46,United Kingdom
+MAT1295,Citric Acid Premium Material 1295,CAT006,SUP005,KG,2182.48,Singapore
+MAT1296,Acetone B Material 1296,CAT007,SUP064,BOX,84.21,Japan
+MAT1297,Hydrochloric Acid Premium Material 1297,CAT007,SUP192,TON,1854.25,United States
+MAT1298,Sodium Carbonate Industrial Material 1298,CAT002,SUP225,BOX,851.08,United Kingdom
+MAT1299,Ethylene Glycol A Material 1299,CAT006,SUP453,L,597.79,Japan
+MAT1300,Ethanol B Material 1300,CAT007,SUP216,TON,4509.94,United States
+MAT1301,Sulfuric Acid Premium Material 1301,CAT005,SUP061,BOX,2470.89,Netherlands
+MAT1302,Hydrogen Peroxide Industrial Material 1302,CAT007,SUP257,BOX,700.52,Germany
+MAT1303,Sodium Hydroxide B Material 1303,CAT003,SUP177,DRUM,117.56,Singapore
+MAT1304,Ethanol Industrial Material 1304,CAT007,SUP500,DRUM,3700.29,France
+MAT1305,Glycerol Industrial Material 1305,CAT005,SUP249,KG,3816.45,Singapore
+MAT1306,Formaldehyde B Material 1306,CAT009,SUP096,L,1441.64,Germany
+MAT1307,Sodium Chloride B Material 1307,CAT007,SUP102,BOX,3546.98,Germany
+MAT1308,Ammonium Hydroxide B Material 1308,CAT004,SUP438,DRUM,3163.09,United States
+MAT1309,Hydrochloric Acid A Material 1309,CAT003,SUP206,KG,1405.62,Singapore
+MAT1310,Hydrogen Peroxide Premium Material 1310,CAT001,SUP316,L,500.13,India
+MAT1311,Xylene Premium Material 1311,CAT009,SUP157,L,1147.79,France
+MAT1312,Glycerol A Material 1312,CAT009,SUP219,KG,1556.24,Japan
+MAT1313,Toluene Industrial Material 1313,CAT006,SUP365,BOX,1272.49,India
+MAT1314,Citric Acid A Material 1314,CAT001,SUP027,TON,1099.29,Netherlands
+MAT1315,Sodium Chloride A Material 1315,CAT007,SUP095,TON,4744.22,United Kingdom
+MAT1316,Isopropyl Alcohol Industrial Material 1316,CAT002,SUP050,KG,3430.66,United States
+MAT1317,Isopropyl Alcohol Industrial Material 1317,CAT006,SUP381,DRUM,2667.87,United Kingdom
+MAT1318,Hydrochloric Acid Industrial Material 1318,CAT004,SUP300,BOX,481.79,Germany
+MAT1319,Hydrogen Peroxide A Material 1319,CAT001,SUP301,L,1004.99,Netherlands
+MAT1320,Methanol A Material 1320,CAT009,SUP317,TON,1542.31,Netherlands
+MAT1321,Sulfuric Acid B Material 1321,CAT001,SUP066,L,2120.15,Japan
+MAT1322,Sodium Carbonate Industrial Material 1322,CAT006,SUP230,KG,4558.7,Germany
+MAT1323,Glycerol Premium Material 1323,CAT009,SUP477,DRUM,3964.88,United States
+MAT1324,Formaldehyde Industrial Material 1324,CAT003,SUP149,KG,4781.22,India
+MAT1325,Sulfuric Acid Premium Material 1325,CAT008,SUP351,DRUM,4357.77,Germany
+MAT1326,Citric Acid Premium Material 1326,CAT009,SUP197,DRUM,3907.89,France
+MAT1327,Formaldehyde Industrial Material 1327,CAT004,SUP095,KG,842.02,Singapore
+MAT1328,Acetic Acid A Material 1328,CAT009,SUP234,DRUM,3553.38,Switzerland
+MAT1329,Sodium Chloride Industrial Material 1329,CAT004,SUP152,TON,2783.15,United States
+MAT1330,Hydrochloric Acid A Material 1330,CAT009,SUP122,TON,243.5,United States
+MAT1331,Sodium Chloride B Material 1331,CAT005,SUP448,KG,3229.94,Singapore
+MAT1332,Sulfuric Acid A Material 1332,CAT001,SUP333,TON,3181.78,United Kingdom
+MAT1333,Isopropyl Alcohol A Material 1333,CAT009,SUP136,L,2071.3,Belgium
+MAT1334,calcium carbonate industrial material 1334,CAT001,SUP321,KG,4128.46,Singapore
+MAT1335,Sodium Chloride B Material 1335,CAT005,SUP498,KG,2710.07,Belgium
+MAT1336,Methanol Premium Material 1336,CAT005,SUP446,DRUM,2776.85,Netherlands
+MAT1337,Hydrochloric Acid Industrial Material 1337,CAT005,SUP105,DRUM,3167.51,France
+MAT1338,Hydrogen Peroxide Premium Material 1338,CAT004,SUP374,BOX,1874.77,Netherlands
+MAT1339,acetone premium material 1339,CAT003,SUP236,L,4087.21,United States
+MAT1340,Sulfuric Acid Premium Material 1340,CAT003,SUP332,TON,154.18,United States
+MAT1341,Citric Acid Premium Material 1341,CAT010,SUP097,kg,760.44,France
+MAT1342,Hydrochloric Acid Premium Material 1342,CAT007,SUP052,DRUM,729.59,India
+MAT1343,Formaldehyde A Material 1343,CAT007,SUP197,KG,594.68,India
+MAT1344,Ethanol B Material 1344,CAT004,SUP395,KG,1374.9,Belgium
+MAT1345,Sodium Hydroxide A Material 1345,CAT002,SUP278,TON,4270.97,Germany
+MAT1346,Sulfuric Acid B Material 1346,CAT008,SUP389,DRUM,4467.33,United States
+MAT1347,Calcium Carbonate Industrial Material 1347,CAT008,SUP080,l,326.58,Japan
+MAT1348,Sodium Carbonate A Material 1348,CAT001,SUP423,KG,558.94,Japan
+MAT1349,Methanol Premium Material 1349,CAT003,SUP001,L,168.8,France
+MAT1350,Xylene B Material 1350,CAT006,SUP336,TON,1168.13,France
+MAT1351,Methanol Premium Material 1351,CAT003,SUP057,L,553.59,Japan
+MAT1352,Toluene A Material 1352,CAT010,SUP171,KG,1834.44,Germany
+MAT1353,Ethanol B Material 1353,CAT003,SUP220,DRUM,1707.48,United States
+MAT1354,Ethylene Glycol B Material 1354,CAT005,SUP320,TON,1774.51,Germany
+MAT1355,Sodium Chloride Premium Material 1355,CAT006,SUP478,TON,4063.06,Germany
+MAT1356,Sodium Hydroxide B Material 1356,CAT003,SUP164,L,1983.47,Netherlands
+MAT1357,Acetone A Material 1357,CAT010,SUP219,TON,766.11,United Kingdom
+MAT1358,Hydrogen Peroxide B Material 1358,CAT007,SUP181,TON,2496.32,Netherlands
+MAT1359,Ethylene Glycol Industrial Material 1359,CAT003,SUP411,L,1946.77,Switzerland
+MAT1360,Glycerol Premium Material 1360 ,CAT009,SUP275,L,1953.9,Belgium
+MAT1361,Ethylene Glycol B Material 1361,CAT002,SUP121,TON,64.19,India
+MAT1362,Toluene Premium Material 1362,CAT003,SUP472,KG,344.91,United Kingdom
+MAT1363,Toluene B Material 1363,CAT005,SUP236,L,4184.5,Switzerland
+MAT1364,Ethylene Glycol B Material 1364,CAT004,SUP424,L,326.54,United States
+MAT1365,Methanol B Material 1365,CAT007,SUP376,KG,3495.81,France
+MAT1366,Toluene A Material 1366,CAT002,SUP340,DRUM,415.16,Belgium
+MAT1367,Citric Acid A Material 1367,CAT003,SUP188,L,441.02,Germany
+MAT1368,Sodium Hydroxide Premium Material 1368,CAT003,SUP392,L,2375.34,United States
+MAT1369,Ammonium Hydroxide Industrial Material 1369,CAT008,SUP211,TON,2247.67,India
+MAT1370,Calcium Carbonate A Material 1370,CAT003,SUP031,KG,3040.66,United States
+MAT1371,Ammonium Hydroxide B Material 1371,CAT001,SUP203,BOX,3415.52,Netherlands
+MAT1372,Sodium Carbonate Industrial Material 1372,CAT010,SUP257,TON,3561.3,France
+MAT1373,Citric Acid Industrial Material 1373,CAT002,SUP268,BOX,4890.74,United States
+MAT1374,Sulfuric Acid Premium Material 1374,CAT010,SUP029,Liter,1991.84,Switzerland
+MAT1375,Formaldehyde A Material 1375,CAT008,SUP245,TON,3280.86,France
+MAT1376,Xylene B Material 1376,CAT001,SUP412,ton,3250.9,Singapore
+MAT1377,Sodium Chloride A Material 1377,CAT002,SUP040,TON,3035.79,United Kingdom
+MAT1378,Sodium Hydroxide B Material 1378,CAT005,SUP084,DRUM,577.0,Singapore
+MAT1379,Formaldehyde A Material 1379,CAT005,SUP097,DRUM,1048.54,India
+MAT1380,Hydrochloric Acid Industrial Material 1380,CAT002,SUP292,DRUM,272.13,Netherlands
+MAT1381,Ethanol A Material 1381,CAT006,SUP048,TON,91.97,United Kingdom
+MAT1382,Calcium Carbonate Premium Material 1382,CAT009,SUP100,TON,3771.62,United Kingdom
+MAT1383,Hydrogen Peroxide A Material 1383,CAT006,SUP209,DRUM,549.96,United States
+MAT1384,Sodium Hydroxide Premium Material 1384,CAT008,SUP301,KG,1486.09,United States
+MAT1385,Propylene Glycol A Material 1385,CAT002,SUP488,L,4427.79,United States
+MAT1386,Citric Acid Industrial Material 1386,CAT008,SUP403,L,1728.15,United Kingdom
+MAT1387,Formaldehyde Premium Material 1387,CAT001,SUP457,BOX,1233.6,Belgium
+MAT1388,Formaldehyde A Material 1388,CAT003,SUP291,BOX,532.16,India
+MAT1389,Hydrogen Peroxide Industrial Material 1389,CAT009,SUP445,KG,2519.62,Netherlands
+MAT1390,Isopropyl Alcohol B Material 1390,CAT005,SUP083,KG,1436.58,United Kingdom
+MAT1391,Toluene A Material 1391,CAT002,SUP092,BOX,1326.82,Netherlands
+MAT1392,Sodium Chloride Premium Material 1392,CAT003,SUP482,KG,4859.82,Netherlands
+MAT1393,Ethanol Industrial Material 1393,CAT005,SUP206,BOX,4292.15,United States
+MAT1394,Propylene Glycol Industrial Material 1394,CAT009,SUP433,DRUM,4762.62,United Kingdom
+MAT1395,Acetone Premium Material 1395,CAT009,SUP231,TON,4393.17,India
+MAT1396,Formaldehyde A Material 1396,CAT004,SUP359,DRUM,89.32,Germany
+MAT1397,Calcium Carbonate Premium Material 1397,CAT003,SUP292,BOX,4276.45,Singapore
+MAT1398,Xylene Premium Material 1398,CAT002,SUP179,BOX,2369.02,Switzerland
+MAT1399,propylene glycol a material 1399,CAT002,SUP093,KG,4591.43,France
+MAT1400,Ethylene Glycol B Material 1400,CAT007,SUP169,KG,-838.0,Belgium
+MAT1401,Glycerol B Material 1401,CAT008,SUP059,TON,2300.16,Switzerland
+MAT1402,Hydrogen Peroxide Premium Material 1402,CAT003,SUP328,L,1634.92,India
+MAT1403,Formaldehyde Premium Material 1403,CAT001,SUP480,TON,3958.32,Netherlands
+MAT1404,Sulfuric Acid A Material 1404,CAT004,SUP445,KG,4765.59,France
+MAT1405,Sodium Chloride Industrial Material 1405,CAT003,SUP043,L,392.83,France
+MAT1406,Acetone Industrial Material 1406,CAT008,SUP447,BOX,2647.65,Japan
+MAT1407,Citric Acid A Material 1407,CAT002,SUP459,BOX,1742.99,Japan
+MAT1408,Citric Acid B Material 1408,CAT006,SUP483,BOX,2434.05,Switzerland
+MAT1409,Citric Acid Premium Material 1409,CAT006,SUP468,DRUM,1976.23,India
+MAT1410,Sodium Carbonate B Material 1410,,SUP371,DRUM,3101.74,United Kingdom
+MAT1411,Isopropyl Alcohol A Material 1411,CAT003,SUP460,BOX,4672.41,Netherlands
+MAT1412,Isopropyl Alcohol A Material 1412,CAT007,SUP135,DRUM,3625.32,Netherlands
+MAT1413,Hydrogen Peroxide Premium Material 1413,CAT010,SUP050,KG,1132.18,Singapore
+MAT1414,Ethylene Glycol B Material 1414,CAT010,SUP194,L,1773.02,Singapore
+MAT1415,Acetic Acid A Material 1415,CAT006,SUP417,TON,130.15,Japan
+MAT1416,Ammonium Hydroxide A Material 1416,CAT008,SUP333,BOX,2099.57,United Kingdom
+MAT1417,Toluene Premium Material 1417,CAT009,SUP499,Tonne,611.23,United States
+MAT1418,Propylene Glycol Premium Material 1418,CAT006,SUP091,DRUM,2994.71,Switzerland
+MAT1419,Ethylene Glycol Premium Material 1419,CAT005,SUP433,BOX,3188.83,Belgium
+MAT1420,methanol a material 1420,CAT002,SUP046,KG,3100.49,France
+MAT1421,Methanol Premium Material 1421,CAT010,SUP475,DRUM,543.53,Netherlands
+MAT1422,Ammonium Hydroxide A Material 1422,CAT005,SUP437,BOX,1098.76,Netherlands
+MAT1423,Sodium Carbonate Premium Material 1423,CAT002,SUP101,BOX,4755.23,United Kingdom
+MAT1424,Propylene Glycol Premium Material 1424,CAT007,SUP004,TON,3921.87,Switzerland
+MAT1425,Calcium Carbonate Industrial Material 1425,CAT005,SUP158,BOX,3382.84,India
+MAT1426,Ethylene Glycol A Material 1426,,SUP014,L,3963.03,Switzerland
+MAT1427,Formaldehyde Industrial Material 1427,CAT006,SUP088,DRUM,4964.5,Singapore
+MAT1428,Sodium Carbonate Premium Material 1428,CAT004,SUP316,BOX,4151.32,Belgium
+MAT1429,Ethylene Glycol B Material 1429,CAT007,SUP373,L,2045.44,United Kingdom
+MAT1430,Ammonium Hydroxide B Material 1430,,SUP119,KG,3564.62,United States
+MAT1431,Ammonium Hydroxide A Material 1431,CAT010,SUP402,BOX,4223.0,Japan
+MAT1432,Sodium Carbonate B Material 1432,CAT006,SUP105,KG,511.66,France
+MAT1433,Sodium Hydroxide B Material 1433,CAT001,SUP317,DRUM,4606.94,Germany
+MAT1434,Acetic Acid Premium Material 1434,CAT001,SUP381,L,4917.9,United Kingdom
+MAT1435,Citric Acid B Material 1435,CAT004,SUP153,L,2700.32,Singapore
+MAT1436,Xylene Industrial Material 1436,CAT001,SUP141,KG,,India
+MAT1437,Acetic Acid A Material 1437,CAT002,SUP236,DRUM,657.29,United States
+MAT1438,Calcium Carbonate Industrial Material 1438,CAT003,SUP048,KG,2496.51,United Kingdom
+MAT1439,Sulfuric Acid Premium Material 1439,CAT002,SUP252,KG,2098.04,Netherlands
+MAT1440,Acetone B Material 1440,CAT007,SUP193,TON,3186.08,Netherlands
+MAT1441,Citric Acid B Material 1441 ,CAT005,SUP006,L,3315.35,Belgium
+MAT1442,Ethanol A Material 1442,CAT006,SUP178,BOX,4974.83,Belgium
+MAT1443,Sodium Carbonate A Material 1443,CAT003,SUP268,TON,4636.59,Singapore
+MAT1444,Formaldehyde A Material 1444,CAT009,SUP012,DRUM,2583.14,United States
+MAT1445,Sulfuric Acid Industrial Material 1445,CAT002,SUP461,L,196.01,United States
+MAT1446,Hydrochloric Acid A Material 1446,CAT003,SUP138,TON,2433.8,Germany
+MAT1447,Toluene Industrial Material 1447,CAT008,SUP382,BOX,,France
+MAT1448,Sulfuric Acid Industrial Material 1448,CAT003,SUP102,TON,4811.26,Germany
+MAT1449,Acetic Acid Industrial Material 1449,CAT003,SUP407,L,4771.12,Netherlands
+MAT1450,Ethylene Glycol Premium Material 1450,CAT007,SUP306,TON,4088.67,Belgium
+MAT1451,Methanol Premium Material 1451,CAT007,SUP103,DRUM,1796.93,Germany
+MAT1452,Propylene Glycol B Material 1452,CAT001,SUP491,DRUM,1302.67,France
+MAT1453,Calcium Carbonate Industrial Material 1453,CAT007,SUP016,KG,940.53,United Kingdom
+MAT1454,Ethylene Glycol B Material 1454,CAT006,SUP126,Kg,1115.16,United Kingdom
+MAT1455,Toluene B Material 1455,CAT006,SUP063,kg,1627.02,India
+MAT1456,Isopropyl Alcohol B Material 1456,CAT008,SUP291,TON,4498.78,Switzerland
+MAT1457,Acetone Premium Material 1457,CAT005,SUP309,L,2659.95,Germany
+MAT1458,Sodium Carbonate Industrial Material 1458,CAT010,SUP485,KG,2891.04,France
+MAT1459,Ethylene Glycol Industrial Material 1459,CAT006,SUP102,L,295.82,Netherlands
+MAT1460,Glycerol A Material 1460,CAT005,SUP216,KG,664.26,United States
+MAT1461,Formaldehyde Industrial Material 1461,CAT010,SUP197,L,2903.25,Japan
+MAT1462,Sodium Hydroxide A Material 1462,CAT008,SUP146,L,4216.13,France
+MAT1463,Ethanol A Material 1463,CAT006,SUP331,KG,393.8,Germany
+MAT1464,Ethylene Glycol Industrial Material 1464,CAT005,SUP163,TON,2031.7,Switzerland
+MAT1465,Isopropyl Alcohol Premium Material 1465,CAT010,SUP025,BOX,1527.3,Netherlands
+MAT1466,Glycerol A Material 1466,CAT006,SUP481,Drum,558.58,Singapore
+MAT1467,Ethanol A Material 1467,CAT003,SUP054,TON,4313.87,France
+MAT1468,Hydrochloric Acid B Material 1468,CAT002,SUP098,Tonne,4089.93,Switzerland
+MAT1469,Sodium Hydroxide A Material 1469,CAT005,SUP453,KG,598.48,Japan
+MAT1470,Acetone Industrial Material 1470,CAT006,SUP353,DRUM,3968.56,France
+MAT1471,Sodium Chloride B Material 1471,CAT003,SUP299,BOX,643.51,United Kingdom
+MAT1472,Hydrogen Peroxide Premium Material 1472,CAT008,SUP343,KG,2632.73,Singapore
+MAT1473,Acetic Acid Premium Material 1473,CAT008,SUP500,TON,1643.46,Netherlands
+MAT1474,Hydrochloric Acid A Material 1474,CAT005,SUP393,TON,3571.34,United Kingdom
+MAT1475,Sodium Carbonate B Material 1475,CAT004,SUP356,KG,421.96,Netherlands
+MAT1476,Ethanol B Material 1476,CAT001,SUP344,L,2367.34,France
+MAT1477,Sulfuric Acid Premium Material 1477,CAT002,SUP175,L,4079.28,Switzerland
+MAT1478,Ammonium Hydroxide Industrial Material 1478,CAT005,SUP363,BOX,3293.68,Switzerland
+MAT1479,Methanol B Material 1479,CAT004,SUP470,TON,1958.6,Netherlands
+MAT1480,Formaldehyde B Material 1480,CAT007,SUP097,KG,1425.3,United States
+MAT1481,Calcium Carbonate A Material 1481,CAT003,SUP237,KG,3737.88,Singapore
+MAT1482,Sodium Hydroxide Premium Material 1482,CAT003,SUP137,KG,2407.39,Switzerland
+MAT1483,Propylene Glycol Industrial Material 1483,CAT005,SUP061,DRUM,466.13,France
+MAT1484,Sulfuric Acid B Material 1484,CAT007,SUP258,BOX,2564.24,India
+MAT1485,Propylene Glycol Industrial Material 1485,CAT006,SUP051,KG,3260.68,France
+MAT1486,Sulfuric Acid Industrial Material 1486,CAT004,SUP207,L,2990.54,Switzerland
+MAT1487,Formaldehyde Premium Material 1487,CAT009,SUP222,KG,3421.74,Singapore
+MAT1488,Methanol B Material 1488,CAT002,SUP028,KG,2897.39,Singapore
+MAT1489,Acetone A Material 1489,CAT005,SUP116,DRUM,3512.59,France
+MAT1490,Xylene Premium Material 1490,CAT002,SUP113,TON,2501.1,United States
+MAT1491,Sulfuric Acid Industrial Material 1491,CAT005,SUP362,DRUM,1475.49,India
+MAT1492,Methanol B Material 1492,CAT009,SUP465,DRUM,2409.95,Japan
+MAT1493,Hydrochloric Acid B Material 1493,CAT006,SUP349,KG,874.89,United Kingdom
+MAT1494,Propylene Glycol B Material 1494,CAT001,SUP342,BOX,2168.22,India
+MAT1495,Citric Acid Industrial Material 1495,CAT002,SUP088,KG,2990.33,Netherlands
+MAT1496,Acetic Acid A Material 1496,CAT008,SUP448,L,2389.21,India
+MAT1497,Sodium Hydroxide Industrial Material 1497,CAT004,SUP269,DRUM,878.16,United States
+MAT1498,Methanol A Material 1498,CAT005,SUP412,TON,2290.45,United Kingdom
+MAT1499,Sodium Carbonate Industrial Material 1499,CAT008,SUP130,TON,2320.82,United Kingdom
+MAT1500,Calcium Carbonate Industrial Material 1500,CAT009,SUP397,DRUM,2447.56,Japan
+MAT1501,Ammonium Hydroxide A Material 1501,CAT003,SUP211,L,3313.87,United States
+MAT1502,Toluene Premium Material 1502,CAT001,SUP126,DRUM,3718.01,France
+MAT1503,Toluene B Material 1503,CAT002,SUP100,BOX,3211.73,Japan
+MAT1504,Sodium Carbonate Premium Material 1504,CAT009,SUP090,TON,,United Kingdom
+MAT1505,Isopropyl Alcohol Premium Material 1505,CAT010,SUP214,TON,1581.15,India
+MAT1506,Acetic Acid Industrial Material 1506,CAT010,SUP063,BOX,3986.9,Belgium
+MAT1507,Toluene Industrial Material 1507,CAT002,SUP497,KG,2519.69,United States
+MAT1508,Propylene Glycol B Material 1508,CAT009,SUP495,TON,3137.79,United States
+MAT1509,Calcium Carbonate Premium Material 1509,CAT005,SUP034,Tonne,127.18,India
+MAT1510,Sulfuric Acid Industrial Material 1510,CAT010,SUP064,KG,2467.41,India
+MAT1511,Ethylene Glycol Industrial Material 1511,CAT001,SUP026,TON,731.71,Japan
+MAT1512,Ammonium Hydroxide B Material 1512,CAT002,SUP366,TON,756.09,Singapore
+MAT1513,Ethylene Glycol A Material 1513,CAT005,SUP113,KG,2392.23,United Kingdom
+MAT1514,Hydrochloric Acid Premium Material 1514,CAT007,SUP205,KG,4470.52,Japan
+MAT1515,Formaldehyde Industrial Material 1515,CAT003,SUP289,BOX,3410.67,United Kingdom
+MAT1516,Acetic Acid B Material 1516,CAT004,SUP129,L,2110.75,Singapore
+MAT1517,Calcium Carbonate Industrial Material 1517,CAT002,SUP153,DRUM,4639.24,Netherlands
+MAT1518,Sodium Carbonate B Material 1518,CAT007,SUP401,BOX,525.41,Switzerland
+MAT1519,Propylene Glycol Industrial Material 1519,CAT009,SUP479,TON,2368.48,France
+MAT1520,Propylene Glycol Premium Material 1520,CAT007,SUP237,KG,4567.16,India
+MAT1521,Ethylene Glycol A Material 1521,CAT003,SUP315,TON,3943.83,Belgium
+MAT1522,Ammonium Hydroxide Industrial Material 1522,CAT003,SUP318,DRUM,4504.57,Japan
+MAT1523,Ethanol Premium Material 1523,CAT003,SUP207,KG,2340.9,Switzerland
+MAT1524,Propylene Glycol A Material 1524,CAT002,SUP029,ton,4157.98,Germany
+MAT1525,Isopropyl Alcohol A Material 1525,CAT005,SUP290,BOX,3468.43,India
+MAT1526,Methanol A Material 1526,CAT004,SUP265,L,2832.14,Netherlands
+MAT1527,Hydrogen Peroxide B Material 1527,CAT003,SUP155,TON,3609.75,India
+MAT1528,Glycerol B Material 1528,CAT002,SUP035,KG,807.46,Germany
+MAT1529,Ammonium Hydroxide A Material 1529,CAT004,SUP105,KG,2395.02,Switzerland
+MAT1530,Propylene Glycol Premium Material 1530,CAT001,SUP475,KG,1534.62,Netherlands
+MAT1531,Citric Acid B Material 1531,CAT009,SUP134,DRUM,3422.54,Belgium
+MAT1532,Methanol Premium Material 1532,CAT003,SUP326,KG,964.8,Singapore
+MAT1533,Citric Acid B Material 1533,CAT008,SUP246,TON,1482.77,Germany
+MAT1534,Acetic Acid Premium Material 1534,CAT006,SUP342,TON,1986.39,Germany
+MAT1535,Propylene Glycol Premium Material 1535,CAT007,SUP076,KG,1452.94,Germany
+MAT1536,Acetic Acid Premium Material 1536,CAT001,SUP298,TON,-170.0,Belgium
+MAT1537,Propylene Glycol A Material 1537,CAT006,SUP493,L,2366.14,Netherlands
+MAT1538,Sodium Chloride A Material 1538,CAT003,SUP184,DRUM,4286.41,Switzerland
+MAT1539,Sulfuric Acid Industrial Material 1539,CAT009,SUP200,DRUM,360.69,United States
+MAT1540,Toluene Industrial Material 1540,CAT008,SUP367,L,1427.78,Japan
+MAT1541,Xylene A Material 1541,CAT008,SUP193,BOX,3048.92,United States
+MAT1542,Acetic Acid Industrial Material 1542,CAT003,SUP358,TON,2964.82,Belgium
+MAT1543,Toluene Premium Material 1543,CAT002,SUP024,KG,4267.55,United States
+MAT1544,Hydrochloric Acid A Material 1544,CAT002,SUP256,BOX,1652.11,Singapore
+MAT1545,Hydrochloric Acid A Material 1545,CAT003,SUP373,BOX,3791.28,France
+MAT1546,Acetone A Material 1546,CAT010,SUP129,KG,235.22,Germany
+MAT1547,Propylene Glycol Industrial Material 1547,CAT010,SUP324,KG,4621.58,United Kingdom
+MAT1548,Methanol Premium Material 1548,CAT007,SUP069,DRUM,2804.52,Singapore
+MAT1549,Sodium Chloride Premium Material 1549,CAT008,SUP348,TON,1166.21,United States
+MAT1550,Ethylene Glycol B Material 1550,CAT002,SUP299,KG,3164.12,Germany
+MAT1551,Sulfuric Acid A Material 1551,CAT003,SUP458,KG,1829.83,France
+MAT1552,Acetic Acid A Material 1552,CAT006,SUP095,DRUM,2506.07,Singapore
+MAT1553,Acetic Acid Premium Material 1553,CAT009,SUP181,TON,3111.47,Switzerland
+MAT1554,Hydrogen Peroxide A Material 1554,CAT008,SUP219,BOX,4376.19,Belgium
+MAT1555,acetone b material 1555,CAT009,SUP153,KG,633.74,Singapore
+MAT1556,Ethanol Industrial Material 1556,CAT001,SUP115,TON,4615.25,Japan
+MAT1557,Xylene Industrial Material 1557,,SUP447,L,4842.17,Germany
+MAT1558,Sodium Carbonate B Material 1558,CAT009,SUP478,DRUM,2525.23,France
+MAT1559,Formaldehyde A Material 1559,CAT009,SUP358,KG,2934.72,Japan
+MAT1560,SODIUM HYDROXIDE A MATERIAL 1560,CAT006,SUP216,TON,1042.53,India
+MAT1561,Hydrogen Peroxide B Material 1561,CAT009,SUP419,TON,4624.66,India
+MAT1562,Hydrochloric Acid Premium Material 1562,CAT002,SUP413,DRUM,4526.4,India
+MAT1563,Toluene A Material 1563,CAT007,SUP307,DRUM,4650.35,Switzerland
+MAT1564,Glycerol B Material 1564,CAT005,SUP371,KG,565.1,Netherlands
+MAT1565,Ammonium Hydroxide B Material 1565,CAT006,SUP221,BOX,1551.92,Singapore
+MAT1566,Sodium Hydroxide A Material 1566,CAT001,SUP397,L,2694.22,France
+MAT1567,Sodium Hydroxide Premium Material 1567,CAT001,SUP199,BOX,3492.43,France
+MAT1568,Ethylene Glycol B Material 1568,CAT002,SUP225,KG,4490.88,United Kingdom
+MAT1569,Toluene B Material 1569,CAT006,SUP224,KG,1228.94,Germany
+MAT1570,Acetic Acid A Material 1570,CAT004,SUP212,DRUM,2861.84,India
+MAT1571,Hydrochloric Acid A Material 1571,CAT002,SUP030,L,2220.85,Japan
+MAT1572,Ethanol Industrial Material 1572,CAT006,SUP309,L,4990.54,United States
+MAT1573,Formaldehyde Premium Material 1573,CAT008,SUP337,KG,3300.12,Germany
+MAT1574,Sodium Chloride B Material 1574,CAT008,SUP362,TON,4493.32,Singapore
+MAT1575,Propylene Glycol Industrial Material 1575,CAT006,SUP400,DRUM,1498.78,Singapore
+MAT1576,Ammonium Hydroxide Industrial Material 1576,CAT006,SUP358,DRUM,2542.05,India
+MAT1577,Toluene Premium Material 1577,CAT010,SUP249,TON,438.31,United States
+MAT1578,Ammonium Hydroxide B Material 1578,CAT005,SUP380,DRUM,1093.31,United Kingdom
+MAT1579,Hydrogen Peroxide A Material 1579,CAT004,SUP358,BOX,3267.05,Netherlands
+MAT1580,Methanol A Material 1580,CAT008,SUP429,KG,1387.98,Belgium
+MAT1581,Xylene Industrial Material 1581,CAT002,SUP031,TON,4280.14,France
+MAT1582,Glycerol A Material 1582,CAT007,SUP197,BOX,269.86,Singapore
+MAT1583,Xylene B Material 1583,,SUP273,KG,3318.99,India
+MAT1584,Sodium Carbonate Industrial Material 1584,CAT001,SUP466,DRUM,3784.67,United Kingdom
+MAT1585,Sodium Chloride B Material 1585,CAT001,SUP175,DRUM,2198.68,France
+MAT1586,Ethanol A Material 1586,CAT009,SUP199,TON,4299.64,Switzerland
+MAT1587,Propylene Glycol Premium Material 1587,CAT010,SUP369,DRUM,3856.61,Japan
+MAT1588,Citric Acid Premium Material 1588,CAT008,SUP382,L,702.77,India
+MAT1589,Sodium Chloride Industrial Material 1589,CAT002,SUP128,DRUM,1514.33,Belgium
+MAT1590,Xylene A Material 1590,CAT010,SUP141,TON,1380.3,Japan
+MAT1591,Formaldehyde A Material 1591,CAT002,SUP158,DRUM,3320.84,Japan
+MAT1592,Citric Acid Premium Material 1592,CAT008,SUP009,BOX,93.91,India
+MAT1593,Toluene Premium Material 1593,CAT009,SUP112,BOX,339.99,Germany
+MAT1594,Sodium Chloride Industrial Material 1594,CAT002,SUP226,L,1327.13,Japan
+MAT1595,Sodium Chloride Premium Material 1595,CAT003,SUP117,l,777.16,Belgium
+MAT1596,Ethanol B Material 1596,CAT002,SUP336,KG,962.06,Switzerland
+MAT1597,Propylene Glycol Industrial Material 1597,CAT001,SUP284,Liter,351.02,Japan
+MAT1598,Sodium Chloride A Material 1598,CAT006,SUP277,KG,3022.87,United Kingdom
+MAT1599,Methanol A Material 1599,CAT009,SUP228,KG,2579.63,Singapore
+MAT1600,Sulfuric Acid Industrial Material 1600,CAT010,SUP191,BOX,403.4,France
+MAT1601,Calcium Carbonate B Material 1601,CAT001,SUP168,DRUM,3951.41,United Kingdom
+MAT1602,Ethylene Glycol Industrial Material 1602,CAT008,SUP483,TON,3128.49,United States
+MAT1603,Toluene A Material 1603,CAT005,SUP477,L,4563.77,India
+MAT1604,Methanol B Material 1604,CAT006,SUP262,DRUM,3928.16,United Kingdom
+MAT1605,Sulfuric Acid Premium Material 1605,CAT010,SUP017,L,1936.39,Germany
+MAT1606,Acetone B Material 1606,CAT010,SUP258,DRUM,-893.0,France
+MAT1607,Sodium Carbonate A Material 1607,CAT009,SUP409,KG,3055.15,Switzerland
+MAT1608,ammonium hydroxide premium material 1608,CAT006,SUP138,L,4188.24,Japan
+MAT1609,Hydrochloric Acid Industrial Material 1609,CAT004,SUP410,TON,1192.91,United Kingdom
+MAT1610,Methanol B Material 1610,CAT008,SUP376,BOX,1841.31,United Kingdom
+MAT1611,Sodium Carbonate A Material 1611,CAT006,SUP335,BOX,3045.83,Netherlands
+MAT1612,Ethylene Glycol B Material 1612,CAT010,SUP424,L,4632.3,Singapore
+MAT1613,Ethylene Glycol B Material 1613,CAT010,SUP134,TON,1740.78,Germany
+MAT1614,Acetone Premium Material 1614,CAT007,SUP259,L,2901.26,Singapore
+MAT1615,Citric Acid Premium Material 1615,CAT001,SUP086,KG,2122.2,Switzerland
+MAT1616,Glycerol A Material 1616,CAT003,SUP446,KG,4177.6,India
+MAT1617,Citric Acid A Material 1617,CAT003,SUP264,DRUM,4597.18,France
+MAT1618,Toluene B Material 1618,CAT007,SUP357,DRUM,1245.1,Japan
+MAT1619,Methanol Industrial Material 1619,CAT006,SUP303,DRUM,3102.32,India
+MAT1620,Acetone Industrial Material 1620,CAT008,SUP467,BOX,3172.62,France
+MAT1621,Calcium Carbonate Premium Material 1621,CAT003,SUP376,L,3632.35,Belgium
+MAT1622,Ammonium Hydroxide A Material 1622,CAT003,SUP459,KG,2988.09,United Kingdom
+MAT1623,propylene glycol premium material 1623,CAT006,SUP225,L,2567.9,Belgium
+MAT1624,Sodium Chloride A Material 1624,CAT004,SUP153,BOX,1738.53,Belgium
+MAT1625,AMMONIUM HYDROXIDE PREMIUM MATERIAL 1625,CAT005,SUP166,BOX,1626.96,United States
+MAT1626,Hydrogen Peroxide A Material 1626 ,CAT004,SUP221,DRUM,1427.37,Belgium
+MAT1627,Isopropyl Alcohol A Material 1627,CAT006,SUP146,L,636.83,Japan
+MAT1628,Glycerol Premium Material 1628,CAT004,SUP454,L,1477.97,Japan
+MAT1629,Formaldehyde A Material 1629,CAT004,SUP342,TON,747.97,Singapore
+MAT1630,Sodium Carbonate B Material 1630,,SUP307,KG,4801.29,Switzerland
+MAT1631,Sodium Carbonate B Material 1631,CAT001,SUP251,KG,1879.23,Japan
+MAT1632,Acetic Acid Premium Material 1632,CAT008,SUP267,L,4163.64,Japan
+MAT1633,Methanol A Material 1633,CAT008,SUP456,BOX,2491.61,Germany
+MAT1634,Hydrogen Peroxide Industrial Material 1634,CAT002,SUP496,TON,4028.02,Singapore
+MAT1635,Acetone Industrial Material 1635,CAT003,SUP260,TON,1416.73,Switzerland
+MAT1636,Acetone Industrial Material 1636,CAT001,SUP222,KG,4665.22,Switzerland
+MAT1637,Isopropyl Alcohol B Material 1637,CAT009,SUP339,KG,4748.45,India
+MAT1638,Hydrochloric Acid B Material 1638,,SUP193,L,3383.07,Japan
+MAT1639,Glycerol B Material 1639,CAT008,SUP417,L,3681.13,Japan
+MAT1640,Hydrogen Peroxide B Material 1640,CAT002,SUP487,Drum,4292.93,Singapore
+MAT1641,Sodium Hydroxide Premium Material 1641,CAT002,SUP252,DRUM,3075.53,United States
+MAT1642,Ethanol Premium Material 1642,CAT005,SUP315,BOX,3173.58,Singapore
+MAT1643,Toluene Premium Material 1643,CAT009,SUP337,L,4395.55,Singapore
+MAT1644,Calcium Carbonate Premium Material 1644,CAT008,SUP408,BOX,3009.32,Switzerland
+MAT1645,Glycerol Industrial Material 1645,CAT002,SUP113,KG,4816.45,Japan
+MAT1646,Ethylene Glycol Premium Material 1646,,SUP127,BOX,623.3,Netherlands
+MAT1647,Isopropyl Alcohol A Material 1647,CAT006,SUP357,BOX,3538.85,Netherlands
+MAT1648,Glycerol Premium Material 1648,CAT004,SUP015,ton,1376.22,Singapore
+MAT1649,Ethylene Glycol A Material 1649,CAT009,SUP396,TON,1344.95,United Kingdom
+MAT1650,Ethylene Glycol Premium Material 1650,CAT008,SUP218,BOX,1340.46,India
+MAT1651,Sodium Chloride Premium Material 1651,CAT004,SUP174,KG,1577.13,France
+MAT1652,Hydrochloric Acid B Material 1652,CAT009,SUP106,KG,4742.0,Belgium
+MAT1653,Formaldehyde Industrial Material 1653,CAT003,SUP310,DRUM,148.6,India
+MAT1654,Xylene A Material 1654,CAT006,SUP468,TON,3845.87,Switzerland
+MAT1655,Acetone A Material 1655 ,CAT009,SUP108,TON,2700.59,United States
+MAT1656,Sodium Carbonate Premium Material 1656,CAT004,SUP149,L,4557.74,United Kingdom
+MAT1657,Ethylene Glycol B Material 1657,CAT009,SUP376,L,4703.07,India
+MAT1658,Sodium Hydroxide A Material 1658,CAT009,SUP204,BOX,259.31,Japan
+MAT1659,Calcium Carbonate A Material 1659,CAT004,SUP324,L,217.2,Germany
+MAT1660,Xylene Premium Material 1660,,SUP419,TON,4316.82,Germany
+MAT1661,Acetone Premium Material 1661,CAT001,SUP008,DRUM,3044.12,United States
+MAT1662,Methanol Premium Material 1662,CAT004,SUP426,DRUM,4303.55,United Kingdom
+MAT1663,Ethylene Glycol A Material 1663,CAT005,SUP141,BOX,1053.2,Japan
+MAT1664,Acetic Acid Premium Material 1664,CAT007,SUP150,BOX,510.66,France
+MAT1665,Sodium Carbonate Industrial Material 1665,CAT008,SUP146,DRUM,2557.64,France
+MAT1666,Sodium Hydroxide Premium Material 1666,CAT007,SUP488,TON,3825.37,Germany
+MAT1667,Propylene Glycol B Material 1667,CAT010,SUP500,KG,2016.88,Singapore
+MAT1668,Propylene Glycol Industrial Material 1668,CAT008,SUP289,KG,3231.95,United Kingdom
+MAT1669,Hydrogen Peroxide A Material 1669,CAT002,SUP288,L,1078.03,Netherlands
+MAT1670,Acetic Acid B Material 1670,CAT002,SUP073,BOX,3101.62,Netherlands
+MAT1671,Ammonium Hydroxide B Material 1671,CAT001,SUP393,BOX,1297.52,Japan
+MAT1672,Isopropyl Alcohol B Material 1672,CAT001,SUP165,DRUM,3013.71,India
+MAT1673,Sodium Chloride B Material 1673,CAT009,SUP407,BOX,2750.66,United Kingdom
+MAT1674,Hydrochloric Acid Industrial Material 1674,CAT008,SUP363,BOX,2596.43,Germany
+MAT1675,Methanol Premium Material 1675,CAT002,SUP193,L,,United States
+MAT1676,Ammonium Hydroxide A Material 1676,CAT003,SUP102,BOX,4355.26,Germany
+MAT1677,Ethanol Premium Material 1677,CAT008,SUP088,DRUM,2461.61,Switzerland
+MAT1678,Ethylene Glycol Premium Material 1678,CAT001,SUP152,KG,2205.62,Japan
+MAT1679,Sodium Chloride Industrial Material 1679,CAT010,SUP456,TON,2840.86,United States
+MAT1680,Hydrogen Peroxide Industrial Material 1680,CAT009,SUP351,L,4023.93,United Kingdom
+MAT1681,ammonium hydroxide industrial material 1681,CAT008,SUP237,L,4684.2,United States
+MAT1682,Citric Acid Premium Material 1682,CAT001,SUP163,BOX,937.17,Netherlands
+MAT1683,Acetone A Material 1683,CAT005,SUP360,L,1036.37,Germany
+MAT1684,Sodium Carbonate Premium Material 1684,CAT006,SUP049,KG,3143.62,Belgium
+MAT1685,Citric Acid A Material 1685,CAT006,SUP326,DRUM,4422.55,United Kingdom
+MAT1686,Sodium Hydroxide B Material 1686,CAT005,SUP146,BOX,2943.12,Japan
+MAT1687,Toluene Premium Material 1687,CAT005,SUP288,Drum,3225.92,Singapore
+MAT1688,Acetone B Material 1688,CAT002,SUP375,L,1435.93,Japan
+MAT1689,Acetic Acid A Material 1689,CAT003,SUP409,DRUM,2957.22,France
+MAT1690,Isopropyl Alcohol Industrial Material 1690,CAT010,SUP343,BOX,1086.07,India
+MAT1691,Hydrochloric Acid B Material 1691,CAT002,SUP476,DRUM,775.13,United States
+MAT1692,Glycerol A Material 1692,CAT006,SUP040,KG,728.03,Netherlands
+MAT1693,Ethylene Glycol Premium Material 1693,CAT006,SUP155,DRUM,3812.04,Singapore
+MAT1694,Sodium Carbonate Premium Material 1694,CAT007,SUP397,BOX,3545.91,United Kingdom
+MAT1695,Calcium Carbonate Industrial Material 1695,CAT009,SUP041,DRUM,4218.85,United States
+MAT1696,Sodium Chloride B Material 1696,CAT007,SUP287,BOX,2475.96,Japan
+MAT1697,Methanol Premium Material 1697,CAT006,SUP092,KG,4337.39,Netherlands
+MAT1698,Toluene Premium Material 1698,CAT004,SUP316,DRUM,4387.66,Singapore
+MAT1699,Xylene Industrial Material 1699,CAT003,SUP478,KG,1019.39,United Kingdom
+MAT1700,Ammonium Hydroxide B Material 1700,CAT001,SUP301,TON,1675.84,United Kingdom
+MAT1701,Sodium Chloride A Material 1701,CAT010,SUP140,KG,3253.73,Netherlands
+MAT1702,Xylene A Material 1702,CAT005,SUP141,KG,4857.15,India
+MAT1703,Glycerol Premium Material 1703,CAT008,SUP089,BOX,3762.18,Switzerland
+MAT1704,Methanol A Material 1704,CAT006,SUP015,DRUM,4476.61,United States
+MAT1705,Citric Acid B Material 1705,CAT002,SUP215,KG,327.44,India
+MAT1706,Isopropyl Alcohol A Material 1706,CAT009,SUP143,l,3292.77,India
+MAT1707,Isopropyl Alcohol Industrial Material 1707,CAT003,SUP464,drum,3624.57,United Kingdom
+MAT1708,Ammonium Hydroxide A Material 1708,CAT007,SUP214,KG,371.53,Switzerland
+MAT1709,Hydrogen Peroxide Industrial Material 1709,CAT002,SUP089,BOX,270.32,Belgium
+MAT1710,Sulfuric Acid Premium Material 1710,CAT003,SUP326,KG,1590.26,Switzerland
+MAT1711,Toluene A Material 1711,CAT006,SUP239,DRUM,4188.72,Germany
+MAT1712,Acetic Acid Premium Material 1712,CAT002,SUP060,KG,953.38,Germany
+MAT1713,Citric Acid Industrial Material 1713,CAT010,SUP321,KG,3845.28,India
+MAT1714,Sulfuric Acid Industrial Material 1714,CAT008,SUP042,L,1573.52,Singapore
+MAT1715,Hydrogen Peroxide Industrial Material 1715,CAT001,SUP195,TON,931.12,United States
+MAT1716,Acetic Acid Industrial Material 1716,CAT007,SUP116,L,1400.36,Singapore
+MAT1717,Citric Acid Industrial Material 1717,CAT005,SUP358,BOX,1359.5,Netherlands
+MAT1718,Toluene Industrial Material 1718,CAT006,SUP396,Drum,2275.88,United States
+MAT1719,Ethanol Premium Material 1719,CAT003,SUP276,DRUM,1092.78,France
+MAT1720,Toluene Industrial Material 1720,CAT004,SUP176,DRUM,2780.48,Japan
+MAT1721,Acetone B Material 1721,CAT005,SUP112,BOX,1341.19,Germany
+MAT1722,Ammonium Hydroxide B Material 1722,CAT008,SUP072,BOX,2954.76,United Kingdom
+MAT1723,Acetic Acid Premium Material 1723,CAT010,SUP462,KG,1645.74,Germany
+MAT1724,Toluene A Material 1724,CAT003,SUP216,BOX,1706.83,Germany
+MAT1725,Citric Acid Industrial Material 1725,CAT005,SUP084,BOX,2756.55,India
+MAT1726,Propylene Glycol Premium Material 1726,CAT010,SUP295,BOX,3668.23,Netherlands
+MAT1727,Hydrochloric Acid Industrial Material 1727,CAT006,SUP308,TON,2438.66,France
+MAT1728,Calcium Carbonate A Material 1728,CAT004,SUP391,DRUM,583.88,France
+MAT1729,Sodium Chloride Premium Material 1729,CAT010,SUP015,L,2585.41,Japan
+MAT1730,Formaldehyde B Material 1730,CAT010,SUP385,L,692.96,United Kingdom
+MAT1731,Ethanol A Material 1731,CAT005,SUP406,L,4017.37,Netherlands
+MAT1732,Xylene B Material 1732,CAT008,SUP001,L,1042.01,United States
+MAT1733,Calcium Carbonate Industrial Material 1733,CAT002,SUP095,L,4295.92,France
+MAT1734,Acetone B Material 1734,CAT003,SUP351,DRUM,4236.06,United Kingdom
+MAT1735,SODIUM HYDROXIDE PREMIUM MATERIAL 1735,CAT003,SUP177,KG,2380.46,France
+MAT1736,Sulfuric Acid Premium Material 1736,CAT007,SUP426,BOX,3545.81,Germany
+MAT1737,Xylene B Material 1737,CAT006,SUP391,L,2029.42,United Kingdom
+MAT1738,Calcium Carbonate Premium Material 1738,CAT010,SUP202,DRUM,404.7,Netherlands
+MAT1739,Acetic Acid A Material 1739,CAT004,SUP454,DRUM,931.89,Singapore
+MAT1740,Toluene Industrial Material 1740,,SUP257,KG,3072.3,France
+MAT1741,Acetone B Material 1741,CAT003,SUP256,L,269.03,Japan
+MAT1742,Ethylene Glycol A Material 1742,CAT006,SUP197,L,2157.27,Japan
+MAT1743,Calcium Carbonate Premium Material 1743,CAT008,SUP018,TON,4794.64,France
+MAT1744,Citric Acid B Material 1744,CAT007,SUP350,DRUM,4179.45,Netherlands
+MAT1745,Acetone Industrial Material 1745,CAT002,SUP336,BOX,4027.57,India
+MAT1746,Citric Acid Industrial Material 1746,CAT003,SUP295,drum,1950.75,Netherlands
+MAT1747,Sodium Hydroxide Premium Material 1747,CAT007,SUP217,KG,1549.62,Japan
+MAT1748,Methanol Premium Material 1748,CAT009,SUP191,BOX,3574.52,Switzerland
+MAT1749,Toluene A Material 1749,CAT003,SUP218,DRUM,3810.07,Germany
+MAT1750,Hydrogen Peroxide A Material 1750,CAT006,SUP486,drum,1326.29,Switzerland
+MAT1751,FORMALDEHYDE PREMIUM MATERIAL 1751,CAT007,SUP025,BOX,1444.48,Germany
+MAT1752,Glycerol Premium Material 1752,CAT006,SUP026,DRUM,3447.62,Japan
+MAT1753,Ethylene Glycol Industrial Material 1753,CAT005,SUP393,KG,2736.61,United States
+MAT1754,Calcium Carbonate Industrial Material 1754,CAT007,SUP009,BOX,1656.93,India
+MAT1755,Formaldehyde A Material 1755,CAT006,SUP375,KG,2679.78,France
+MAT1756,Hydrochloric Acid B Material 1756,CAT002,SUP274,KG,673.97,United States
+MAT1757,Glycerol Premium Material 1757,CAT005,SUP177,BOX,3460.51,Singapore
+MAT1758,Ammonium Hydroxide Premium Material 1758,CAT001,SUP040,TON,1895.34,United States
+MAT1759,Formaldehyde A Material 1759,CAT007,SUP263,KG,1721.98,Japan
+MAT1760,Ethylene Glycol Premium Material 1760,CAT001,SUP095,TON,3621.89,Germany
+MAT1761,Ethylene Glycol A Material 1761,CAT004,SUP293,TON,4974.85,Belgium
+MAT1762,Ammonium Hydroxide B Material 1762,CAT001,SUP192,DRUM,2390.95,France
+MAT1763,Sodium Chloride B Material 1763,CAT005,SUP257,KG,,United States
+MAT1764,Calcium Carbonate Industrial Material 1764,CAT001,SUP209,L,142.66,France
+MAT1765,Hydrogen Peroxide Industrial Material 1765,CAT005,SUP237,DRUM,3961.78,United Kingdom
+MAT1766,Methanol B Material 1766,CAT004,SUP010,TON,1144.24,Belgium
+MAT1767,Calcium Carbonate Premium Material 1767,CAT010,SUP216,DRUM,1677.32,France
+MAT1768,Glycerol A Material 1768,CAT006,SUP175,TON,1764.51,Netherlands
+MAT1769,Hydrogen Peroxide Premium Material 1769,CAT008,SUP108,DRUM,3503.74,France
+MAT1770,Sodium Chloride Premium Material 1770,CAT001,SUP339,DRUM,4840.23,Netherlands
+MAT1771,Sodium Carbonate Industrial Material 1771,CAT002,SUP107,DRUM,1877.5,Japan
+MAT1772,Isopropyl Alcohol Premium Material 1772,CAT008,SUP016,L,,United States
+MAT1773,Formaldehyde Industrial Material 1773,CAT010,SUP221,box,4979.34,India
+MAT1774,Calcium Carbonate Premium Material 1774,CAT004,SUP193,DRUM,701.9,Belgium
+MAT1775,Methanol A Material 1775,CAT007,SUP112,L,4961.05,Belgium
+MAT1776,Calcium Carbonate B Material 1776,CAT003,SUP393,BOX,2772.85,United Kingdom
+MAT1777,Sulfuric Acid Premium Material 1777,CAT010,SUP143,TON,3863.97,Germany
+MAT1778,Isopropyl Alcohol Premium Material 1778,CAT004,SUP440,box,2499.42,Netherlands
+MAT1779,Calcium Carbonate Premium Material 1779,CAT003,SUP474,L,2030.27,India
+MAT1780,Sodium Carbonate Industrial Material 1780,CAT008,SUP336,L,3432.59,Germany
+MAT1781,Xylene Premium Material 1781,,SUP211,L,3200.26,Belgium
+MAT1782,Hydrochloric Acid B Material 1782,CAT010,SUP318,DRUM,4994.6,Belgium
+MAT1783,Acetic Acid Premium Material 1783,CAT001,SUP167,DRUM,1287.21,Belgium
+MAT1784,Glycerol A Material 1784,CAT006,SUP012,DRUM,,France
+MAT1785,Sodium Carbonate B Material 1785,CAT003,SUP235,TON,3629.15,Singapore
+MAT1786,Citric Acid Premium Material 1786,CAT004,SUP166,L,1500.26,India
+MAT1787,Sulfuric Acid Premium Material 1787,CAT008,SUP126,DRUM,2246.08,Singapore
+MAT1788,Citric Acid Premium Material 1788,CAT009,SUP329,KG,4028.25,United Kingdom
+MAT1789,Citric Acid B Material 1789,CAT008,SUP370,KG,84.07,India
+MAT1790,Ethylene Glycol Premium Material 1790,CAT007,SUP037,BOX,4790.0,Switzerland
+MAT1791,Methanol A Material 1791,CAT008,SUP247,KG,1500.17,France
+MAT1792,Ethanol Industrial Material 1792,CAT007,SUP367,DRUM,3164.88,Netherlands
+MAT1793,Ethylene Glycol A Material 1793,CAT002,SUP075,TON,3801.81,Belgium
+MAT1794,Methanol B Material 1794,CAT006,SUP212,TON,752.65,Singapore
+MAT1795,Glycerol B Material 1795,CAT005,SUP050,TON,3228.08,Germany
+MAT1796,Propylene Glycol Premium Material 1796,CAT004,SUP388,TON,1745.09,Netherlands
+MAT1797,Isopropyl Alcohol Premium Material 1797,CAT005,SUP291,TON,2992.42,United States
+MAT1798,Hydrogen Peroxide Industrial Material 1798,CAT001,SUP114,TON,2839.52,Japan
+MAT1799,Calcium Carbonate B Material 1799,CAT010,SUP325,TON,2402.66,Netherlands
+MAT1800,Calcium Carbonate B Material 1800,CAT003,SUP076,DRUM,1497.05,France
+MAT1801,Sodium Chloride B Material 1801,CAT001,SUP436,l,2936.99,United States
+MAT1802,Acetic Acid A Material 1802,CAT005,SUP187,DRUM,3740.01,Switzerland
+MAT1803,Xylene Premium Material 1803,CAT010,SUP461,L,4863.4,United States
+MAT1804,Acetic Acid Industrial Material 1804,CAT009,SUP192,BOX,4333.77,Netherlands
+MAT1805,Citric Acid Premium Material 1805,CAT003,SUP248,BOX,120.45,Germany
+MAT1806,Isopropyl Alcohol B Material 1806,CAT005,SUP106,L,792.94,Belgium
+MAT1807,Methanol B Material 1807,CAT006,SUP256,BOX,2868.57,India
+MAT1808,Ammonium Hydroxide B Material 1808,CAT004,SUP187,KG,2022.53,Germany
+MAT1809,Isopropyl Alcohol A Material 1809,CAT005,SUP284,DRUM,4240.7,Switzerland
+MAT1810,Acetone A Material 1810,CAT008,SUP291,DRUM,1277.46,Japan
+MAT1811,Citric Acid B Material 1811,CAT004,SUP354,BOX,928.28,Belgium
+MAT1812,Sodium Chloride Industrial Material 1812,CAT002,SUP381,L,3680.02,Germany
+MAT1813,Hydrogen Peroxide Industrial Material 1813,CAT001,SUP107,L,1257.51,Belgium
+MAT1814,Glycerol Premium Material 1814,CAT002,SUP275,KG,1628.35,Germany
+MAT1815,Sulfuric Acid Premium Material 1815,CAT002,SUP227,KG,2406.38,Germany
+MAT1816,Sodium Carbonate B Material 1816,CAT010,SUP250,TON,2868.18,Belgium
+MAT1817,Ethylene Glycol A Material 1817,CAT008,SUP399,L,2965.24,Belgium
+MAT1818,Propylene Glycol A Material 1818,CAT005,SUP387,BOX,3026.7,Netherlands
+MAT1819,Citric Acid Industrial Material 1819,CAT009,SUP248,DRUM,1454.59,Japan
+MAT1820,Sodium Chloride B Material 1820,CAT006,SUP141,DRUM,2540.16,Netherlands
+MAT1821,Methanol B Material 1821,CAT008,SUP004,TON,4472.17,Switzerland
+MAT1822,Glycerol Premium Material 1822,CAT003,SUP092,KG,3814.17,Japan
+MAT1823,Methanol Premium Material 1823,CAT006,SUP327,DRUM,4121.66,Singapore
+MAT1824,Methanol B Material 1824,CAT004,SUP158,DRUM,1561.65,Switzerland
+MAT1825,Glycerol A Material 1825,CAT005,SUP475,DRUM,1090.95,United States
+MAT1826,Isopropyl Alcohol B Material 1826,CAT004,SUP393,BOX,3939.77,United States
+MAT1827,Formaldehyde B Material 1827,CAT006,SUP490,DRUM,4906.71,Belgium
+MAT1828,Ethylene Glycol Industrial Material 1828,CAT004,SUP478,TON,2386.31,Japan
+MAT1829,Toluene B Material 1829,CAT005,SUP171,TON,4154.69,United Kingdom
+MAT1830,Propylene Glycol Industrial Material 1830,CAT007,SUP289,BOX,3825.34,India
+MAT1831,Xylene A Material 1831,CAT007,SUP182,L,4876.18,Japan
+MAT1832,Sodium Hydroxide B Material 1832,CAT004,SUP339,TON,1509.24,United Kingdom
+MAT1833,Sodium Hydroxide Industrial Material 1833,CAT007,SUP405,BOX,1662.14,Switzerland
+MAT1834,Sulfuric Acid B Material 1834,CAT010,SUP258,BOX,4289.2,Germany
+MAT1835,Acetone B Material 1835,CAT003,SUP167,BOX,4710.4,Belgium
+MAT1836,Glycerol A Material 1836,CAT007,SUP353,BOX,,Belgium
+MAT1837,Acetic Acid Premium Material 1837,CAT001,SUP052,KG,3216.16,Japan
+MAT1838,Sodium Carbonate Industrial Material 1838,CAT008,SUP473,TON,599.6,United States
+MAT1839,Acetone Industrial Material 1839,CAT007,SUP423,L,4376.06,Belgium
+MAT1840,Calcium Carbonate B Material 1840,CAT009,SUP046,BOX,1263.87,Belgium
+MAT1841,Sodium Carbonate Industrial Material 1841,CAT009,SUP272,TON,3463.37,United States
+MAT1842,Acetone Industrial Material 1842,CAT006,SUP464,box,3749.0,Singapore
+MAT1843,Citric Acid Industrial Material 1843,CAT008,SUP117,BOX,1842.91,Singapore
+MAT1844,Sodium Chloride Industrial Material 1844,CAT010,SUP383,Kg,744.34,France
+MAT1845,Ethylene Glycol Premium Material 1845,CAT008,SUP409,KG,4166.79,India
+MAT1846,Ammonium Hydroxide Industrial Material 1846,CAT001,SUP290,BOX,4978.49,Switzerland
+MAT1847,Isopropyl Alcohol Premium Material 1847,CAT005,SUP295,TON,3190.15,Germany
+MAT1848,Acetic Acid A Material 1848,CAT009,SUP400,KG,2682.22,Switzerland
+MAT1849,Acetone Premium Material 1849,CAT010,SUP333,L,3771.94,France
+MAT1850,Sodium Chloride Premium Material 1850,CAT008,SUP456,L,3269.7,Germany
+MAT1851,Citric Acid Industrial Material 1851,CAT008,SUP271,BOX,4452.52,France
+MAT1852,Acetic Acid Industrial Material 1852,CAT001,SUP320,BOX,143.41,Singapore
+MAT1853,Isopropyl Alcohol Premium Material 1853,CAT003,SUP133,L,2942.66,United Kingdom
+MAT1854,Sodium Carbonate Premium Material 1854,CAT004,SUP395,DRUM,4630.51,Belgium
+MAT1855,Hydrogen Peroxide B Material 1855,CAT003,SUP106,TON,948.85,India
+MAT1856,Sodium Carbonate A Material 1856,CAT003,SUP277,TON,4775.57,United Kingdom
+MAT1857,Isopropyl Alcohol B Material 1857,CAT004,SUP104,TON,858.28,Japan
+MAT1858,Hydrochloric Acid B Material 1858,CAT006,SUP014,L,4394.31,Netherlands
+MAT1859,Methanol Premium Material 1859,CAT001,SUP228,L,1933.06,Netherlands
+MAT1860,Propylene Glycol Premium Material 1860,CAT004,SUP106,BOX,2971.58,Germany
+MAT1861,Acetone B Material 1861,CAT009,SUP468,DRUM,3636.37,Germany
+MAT1862,Citric Acid B Material 1862,CAT002,SUP482,BOX,3716.18,United Kingdom
+MAT1863,Isopropyl Alcohol Premium Material 1863,CAT004,SUP108,KG,4008.97,United Kingdom
+MAT1864,Glycerol Industrial Material 1864,CAT009,SUP058,BOX,129.92,France
+MAT1865,Ethylene Glycol Premium Material 1865,CAT002,SUP182,TON,4731.37,Germany
+MAT1866,Ethylene Glycol Industrial Material 1866,CAT004,SUP360,KG,3269.64,France
+MAT1867,Glycerol A Material 1867,CAT005,SUP374,TON,274.58,Singapore
+MAT1868,Citric Acid A Material 1868,CAT003,SUP266,L,744.09,Netherlands
+MAT1869,Ethanol A Material 1869,CAT010,SUP411,l,4338.41,Japan
+MAT1870,Toluene Premium Material 1870,CAT003,SUP215,L,914.46,Switzerland
+MAT1871,Hydrogen Peroxide B Material 1871,CAT006,SUP451,KG,3943.46,India
+MAT1872,Glycerol B Material 1872,CAT005,SUP207,TON,4549.46,Japan
+MAT1873,Formaldehyde Industrial Material 1873,CAT001,SUP402,KG,1691.33,Netherlands
+MAT1874,Ethanol B Material 1874,CAT007,SUP024,DRUM,1916.33,Belgium
+MAT1875,Ammonium Hydroxide B Material 1875,CAT003,SUP052,KG,1775.9,Singapore
+MAT1876,Acetone Premium Material 1876,CAT002,SUP058,BOX,2348.94,France
+MAT1877,Sodium Carbonate Premium Material 1877,CAT003,SUP439,DRUM,4056.65,India
+MAT1878,Calcium Carbonate Premium Material 1878,CAT008,SUP461,TON,684.58,Switzerland
+MAT1879,Toluene A Material 1879,CAT008,SUP253,DRUM,1021.62,Singapore
+MAT1880,Ammonium Hydroxide B Material 1880,CAT003,SUP116,KG,3728.77,France
+MAT1881,Calcium Carbonate A Material 1881,CAT004,SUP116,Tonne,963.9,Japan
+MAT1882,Isopropyl Alcohol Premium Material 1882,CAT010,SUP267,DRUM,2906.98,Japan
+MAT1883,Hydrogen Peroxide Industrial Material 1883,CAT007,SUP192,L,,India
+MAT1884,Xylene A Material 1884,CAT004,SUP094,KG,757.62,India
+MAT1885,Hydrochloric Acid B Material 1885,CAT007,SUP166,Kilogram,2881.83,Netherlands
+MAT1886,Toluene B Material 1886,CAT010,SUP208,BOX,4963.86,Netherlands
+MAT1887,Formaldehyde Industrial Material 1887,CAT009,SUP226,KG,3737.55,Switzerland
+MAT1888,Isopropyl Alcohol Industrial Material 1888,CAT003,SUP131,TON,4044.59,Netherlands
+MAT1889,Sodium Carbonate Premium Material 1889,CAT002,SUP343,TON,3828.18,Japan
+MAT1890,Acetone Industrial Material 1890,CAT007,SUP329,KG,4825.53,United States
+MAT1891,Methanol B Material 1891,,SUP425,KG,645.37,Japan
+MAT1892,Hydrogen Peroxide Industrial Material 1892,CAT005,SUP232,BOX,2788.83,Germany
+MAT1893,Ammonium Hydroxide B Material 1893,CAT007,SUP420,DRUM,1014.65,Singapore
+MAT1894,Sodium Hydroxide B Material 1894,CAT006,SUP270,DRUM,3910.69,Belgium
+MAT1895,Ammonium Hydroxide A Material 1895,CAT009,SUP186,DRUM,1190.6,Switzerland
+MAT1896,Citric Acid Industrial Material 1896,CAT003,SUP052,L,3192.79,Belgium
+MAT1897,Hydrochloric Acid B Material 1897,CAT009,SUP483,DRUM,2148.88,Singapore
+MAT1898,Sodium Chloride A Material 1898,CAT007,SUP152,BOX,4509.74,France
+MAT1899,Glycerol Premium Material 1899,CAT006,SUP070,TON,51.75,Japan
+MAT1900,Sodium Carbonate Industrial Material 1900,CAT004,SUP473,DRUM,2990.23,Germany
+MAT1901,Ethanol Premium Material 1901,CAT003,SUP074,BOX,4121.08,Singapore
+MAT1902,Xylene B Material 1902,CAT007,SUP201,DRUM,1007.19,United Kingdom
+MAT1903,Acetone B Material 1903,CAT005,SUP072,box,661.18,Belgium
+MAT1904,Hydrogen Peroxide B Material 1904,CAT008,SUP073,TON,3814.89,India
+MAT1905,Methanol Industrial Material 1905,CAT009,SUP053,DRUM,2381.99,Netherlands
+MAT1906,Calcium Carbonate A Material 1906,CAT009,SUP381,DRUM,2299.12,Germany
+MAT1907,Isopropyl Alcohol Industrial Material 1907,CAT001,SUP196,TON,608.55,Netherlands
+MAT1908,Ethylene Glycol B Material 1908,CAT008,SUP389,TON,1161.94,Germany
+MAT1909,Acetone Industrial Material 1909,CAT004,SUP446,BOX,4191.71,France
+MAT1910,Ethylene Glycol A Material 1910 ,CAT002,SUP443,TON,4219.51,Japan
+MAT1911,Sodium Chloride Industrial Material 1911,CAT007,SUP342,TON,4916.28,Germany
+MAT1912,Sodium Hydroxide A Material 1912,CAT008,SUP125,DRUM,2500.13,Belgium
+MAT1913,Ethylene Glycol Industrial Material 1913,CAT002,SUP400,BOX,2825.32,Belgium
+MAT1914,Xylene Premium Material 1914,CAT001,SUP309,KG,2972.2,Germany
+MAT1915,Acetic Acid A Material 1915,CAT002,SUP495,L,1835.47,Belgium
+MAT1916,Ethylene Glycol Premium Material 1916,CAT001,SUP178,BOX,4268.55,Belgium
+MAT1917,Ammonium Hydroxide A Material 1917,CAT007,SUP417,BOX,3361.89,India
+MAT1918,Sulfuric Acid B Material 1918,CAT001,SUP323,TON,539.08,France
+MAT1919,Sodium Hydroxide Premium Material 1919,CAT005,SUP184,TON,1794.27,Singapore
+MAT1920,Sodium Chloride Premium Material 1920,CAT001,SUP167,BOX,3510.57,Japan
+MAT1921,Citric Acid B Material 1921,CAT009,SUP395,DRUM,3259.02,France
+MAT1922,Toluene B Material 1922,CAT008,SUP439,KG,1702.13,Belgium
+MAT1923,sodium carbonate b material 1923,CAT006,SUP425,TON,551.43,Germany
+MAT1924,Xylene Industrial Material 1924,CAT010,SUP255,L,3794.99,Singapore
+MAT1925,Sodium Chloride Premium Material 1925,CAT006,SUP173,BOX,4484.11,United States
+MAT1926,Citric Acid Industrial Material 1926,CAT001,SUP058,L,2930.14,Switzerland
+MAT1927,Sodium Carbonate Industrial Material 1927,CAT009,SUP276,L,2019.96,Germany
+MAT1928,Sulfuric Acid A Material 1928,CAT002,SUP365,DRUM,4577.75,France
+MAT1929,SODIUM CHLORIDE B MATERIAL 1929,CAT006,SUP273,TON,2013.95,France
+MAT1930,Methanol Industrial Material 1930,CAT010,SUP292,KG,1652.99,Singapore
+MAT1931,Propylene Glycol A Material 1931,CAT004,SUP281,L,3354.23,Japan
+MAT1932,Sodium Hydroxide Premium Material 1932,CAT004,SUP427,L,1264.49,Singapore
+MAT1933,Propylene Glycol B Material 1933,CAT003,SUP007,TON,1256.22,India
+MAT1934,Formaldehyde Premium Material 1934,CAT008,SUP213,drum,2778.57,Belgium
+MAT1935,Sulfuric Acid Premium Material 1935,CAT003,SUP435,DRUM,2925.43,Belgium
+MAT1936,Xylene Industrial Material 1936,CAT006,SUP412,TON,2185.01,United Kingdom
+MAT1937,Hydrochloric Acid Industrial Material 1937,CAT009,SUP183,KG,4792.55,United States
+MAT1938,Isopropyl Alcohol B Material 1938,CAT009,SUP297,L,528.28,Switzerland
+MAT1939,Glycerol Industrial Material 1939,CAT002,SUP414,DRUM,1177.73,United Kingdom
+MAT1940,Sodium Carbonate B Material 1940,CAT008,SUP138,DRUM,4191.24,Netherlands
+MAT1941,Formaldehyde Premium Material 1941,CAT008,SUP303,BOX,370.06,United States
+MAT1942,Sodium Hydroxide Premium Material 1942,CAT009,SUP333,KG,4484.42,Netherlands
+MAT1943,Hydrogen Peroxide A Material 1943,CAT006,SUP034,TON,2870.28,India
+MAT1944,Formaldehyde Premium Material 1944,CAT007,SUP361,L,4931.72,Singapore
+MAT1945,Propylene Glycol Industrial Material 1945,CAT009,SUP357,TON,1686.14,Belgium
+MAT1946,Ammonium Hydroxide Premium Material 1946,CAT003,SUP393,DRUM,4901.88,Belgium
+MAT1947,Isopropyl Alcohol A Material 1947,CAT010,SUP028,TON,2957.87,Germany
+MAT1948,Formaldehyde A Material 1948,CAT009,SUP212,L,3676.15,Singapore
+MAT1949,Formaldehyde B Material 1949,CAT003,SUP016,BOX,3656.9,United Kingdom
+MAT1950,Acetone A Material 1950,CAT007,SUP294,BOX,4034.32,France
+MAT1951,Glycerol B Material 1951,CAT006,SUP094,KG,1590.42,United States
+MAT1952,Ethylene Glycol Industrial Material 1952,CAT008,SUP047,L,1339.5,Singapore
+MAT1953,Hydrochloric Acid Industrial Material 1953,CAT002,SUP174,BOX,3771.49,Switzerland
+MAT1954,Sodium Chloride A Material 1954,CAT010,SUP032,DRUM,342.77,United Kingdom
+MAT1955,Methanol B Material 1955,CAT001,SUP494,DRUM,112.26,United Kingdom
+MAT1956,Xylene Industrial Material 1956,CAT001,SUP410,DRUM,2838.66,Germany
+MAT1957,Citric Acid B Material 1957,CAT010,SUP256,L,2699.31,United Kingdom
+MAT1958,Methanol B Material 1958,CAT010,SUP192,DRUM,925.8,Netherlands
+MAT1959,Citric Acid B Material 1959,CAT008,SUP016,DRUM,241.93,Switzerland
+MAT1960,Methanol Industrial Material 1960,,SUP056,TON,3431.01,Belgium
+MAT1961,Ammonium Hydroxide B Material 1961,CAT002,SUP255,L,3037.34,Belgium
+MAT1962,Isopropyl Alcohol Premium Material 1962,CAT009,SUP426,BOX,3931.11,Germany
+MAT1963,Sodium Carbonate A Material 1963,CAT006,SUP127,TON,749.84,Netherlands
+MAT1964,Sulfuric Acid Premium Material 1964,CAT001,SUP184,KG,4587.22,Netherlands
+MAT1965,Acetic Acid A Material 1965,CAT009,SUP047,TON,4563.74,Belgium
+MAT1966,Acetic Acid Premium Material 1966,CAT009,SUP330,L,1448.68,United States
+MAT1967,Propylene Glycol B Material 1967,CAT005,SUP484,BOX,2050.98,France
+MAT1968,Acetone Premium Material 1968,CAT001,SUP252,KG,1641.5,Netherlands
+MAT1969,Formaldehyde Premium Material 1969,CAT005,SUP255,TON,3865.67,India
+MAT1970,Ammonium Hydroxide A Material 1970,CAT004,SUP485,KG,1570.24,Belgium
+MAT1971,Acetic Acid B Material 1971,CAT006,SUP379,KG,2694.75,India
+MAT1972,Calcium Carbonate Premium Material 1972,CAT004,SUP181,DRUM,309.55,France
+MAT1973,Ammonium Hydroxide B Material 1973,CAT009,SUP190,KG,4557.78,Germany
+MAT1974,Propylene Glycol B Material 1974,CAT004,SUP365,TON,411.17,Singapore
+MAT1975,Glycerol B Material 1975,CAT010,SUP328,DRUM,127.18,France
+MAT1976,Sulfuric Acid A Material 1976,CAT005,SUP003,L,3314.99,United Kingdom
+MAT1977,Citric Acid Premium Material 1977,CAT004,SUP191,BOX,271.55,United States
+MAT1978,Formaldehyde B Material 1978,CAT010,SUP343,TON,4415.63,France
+MAT1979,Acetic Acid Industrial Material 1979,CAT004,SUP482,TON,2075.56,India
+MAT1980,Ethylene Glycol Premium Material 1980,CAT007,SUP143,L,4092.79,Netherlands
+MAT1981,Sodium Chloride A Material 1981,CAT007,SUP022,BOX,688.0,Singapore
+MAT1982,Acetone A Material 1982,CAT002,SUP082,BOX,379.18,Switzerland
+MAT1983,Isopropyl Alcohol B Material 1983,CAT005,SUP490,BOX,1459.79,Japan
+MAT1984,Calcium Carbonate Industrial Material 1984,CAT002,SUP390,KG,,Singapore
+MAT1985,Acetone Premium Material 1985,CAT004,SUP066,DRUM,4978.01,Netherlands
+MAT1986,Glycerol A Material 1986,CAT002,SUP118,KG,4173.82,United States
+MAT1987,Acetone A Material 1987,CAT004,SUP224,DRUM,1885.96,United States
+MAT1988,Propylene Glycol A Material 1988,CAT009,SUP393,Liter,3854.32,United Kingdom
+MAT1989,Ethanol A Material 1989,CAT003,SUP175,ton,4613.11,United Kingdom
+MAT1990,Propylene Glycol B Material 1990,,SUP201,BOX,807.83,Japan
+MAT1991,Ammonium Hydroxide A Material 1991,,SUP095,L,1712.65,Netherlands
+MAT1992,Sodium Hydroxide Premium Material 1992,CAT002,SUP432,L,3028.22,Japan
+MAT1993,Sodium Carbonate B Material 1993,CAT003,SUP281,TON,330.73,Germany
+MAT1994,Ethylene Glycol A Material 1994,CAT010,SUP369,L,3634.19,United Kingdom
+MAT1995,Toluene A Material 1995,CAT003,SUP462,KG,3437.37,India
+MAT1996,Xylene A Material 1996,CAT010,SUP030,BOX,3855.04,Germany
+MAT1997,Hydrochloric Acid A Material 1997,CAT010,SUP280,KG,147.98,Netherlands
+MAT1998,Acetic Acid Premium Material 1998,CAT005,SUP352,DRUM,1964.5,Singapore
+MAT1999,Glycerol Industrial Material 1999,CAT006,SUP326,BOX,2421.69,United States
+MAT2000,Propylene Glycol Industrial Material 2000,CAT004,SUP074,TON,3203.61,United States
+DUP1736,Sulfuric Acid Premium Material 1736 ,CAT007,SUP426,BOX,3545.81,Germany
+DUP0705,SODIUM CARBONATE PREMIUM MATERIAL 0705,CAT001,SUP067,KG,2380.14,India
+DUP1237,acetic acid b material 1237,CAT002,SUP203,KG,2714.55,Netherlands
+DUP0542,TOLUENE B MATERIAL 0542,CAT008,SUP218,L,2124.51,United Kingdom
+DUP1653,Formaldehyde  Industrial  Material  1653,CAT003,SUP310,DRUM,148.6,India
+DUP0089,Methanol B Material 0089 ,CAT005,SUP085,Liter,1647.17,Singapore
+DUP1495,Citric  Acid  Industrial  Material  1495,CAT002,SUP088,KG,2990.33,Netherlands
+DUP0941,Acetone Premium Material 0941 ,CAT006,SUP094,box,4388.13,Belgium
+DUP1099,glycerol premium material 1099,CAT003,SUP125,L,3995.28,India
+DUP0256,Sulfuric Acid B Material 0256 ,CAT005,SUP082,TON,512.03,United Kingdom
+DUP1993,Sodium Carbonate B Material 1993 ,CAT003,SUP281,TON,330.73,Germany
+DUP1889,sodium carbonate premium material 1889,CAT002,SUP343,TON,3828.18,Japan
+DUP0776,Hydrogen Peroxide B Material 0776  ,CAT002,SUP019,L,2470.03,India
+DUP0162,HYDROCHLORIC ACID PREMIUM MATERIAL 0162,CAT005,SUP141,KG,2805.75,Belgium
+DUP1131,sulfuric acid industrial material 1131,CAT004,SUP346,TON,1287.62,Japan
+DUP0601,ammonium hydroxide a material 0601,CAT002,SUP428,TON,435.78,Singapore
+DUP1699,xylene industrial material 1699,CAT003,SUP478,KG,1019.39,United Kingdom
+DUP1288,Hydrochloric  Acid  A  Material  1288,CAT010,SUP230,L,3388.88,Switzerland
+DUP1267,Acetic  Acid  Industrial  Material  1267,CAT005,SUP066,DRUM,2138.97,Switzerland
+DUP1814,Glycerol Premium Material 1814 ,CAT002,SUP275,KG,1628.35,Germany
+DUP1765,hydrogen peroxide industrial material 1765,CAT005,SUP237,DRUM,3961.78,United Kingdom
+DUP0741,Ethanol Industrial Material 0741 ,CAT010,SUP014,TON,2449.56,United States
+DUP1183,HYDROGEN PEROXIDE INDUSTRIAL MATERIAL 1183,CAT006,SUP330,KG,2628.32,France
+DUP0394,formaldehyde industrial material 0394,CAT007,SUP455,L,1746.53,Netherlands
+DUP1443,SODIUM CARBONATE A MATERIAL 1443,CAT003,SUP268,TON,4636.59,Singapore
+DUP0143,Glycerol B Material 0143 ,CAT008,SUP383,DRUM,1899.44,Switzerland
+DUP0094,Sodium  Chloride  B  Material  0094,CAT010,SUP214,DRUM,3213.01,Netherlands
+DUP1355,Sodium Chloride Premium Material 1355 ,CAT006,SUP478,TON,4063.06,Germany
+DUP0467,CALCIUM CARBONATE B MATERIAL 0467,CAT005,SUP347,TON,4789.09,India
+DUP1584,sodium carbonate industrial material 1584,CAT001,SUP466,DRUM,3784.67,United Kingdom

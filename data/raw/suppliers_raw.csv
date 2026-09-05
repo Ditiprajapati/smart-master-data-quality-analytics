@@ -1,0 +1,521 @@
+supplier_id,supplier_name,country,email,phone
+SUP001,Global Industrial Materials 1,India,globalindustrial.materials.1@example.com,9184935163.0
+SUP002,Prime Industrial Supplies 2,Singapore,primeindustrial.supplies.2@example.com,6958682846.0
+SUP003,Nova Specialty Chemicals 3,Germany,novaspecialty.chemicals.3@example.com,8906402157.0
+SUP004,Pioneer Specialty Materials 4,Germany,pioneerspecialty.materials.4@example.com,8536146025.0
+SUP005,Vertex Materials 5,India,vertexmaterials.5@example.com,
+SUP006,Global Industrial Materials 6,Singapore,globalindustrial.materials.6@example.com,6999270936.0
+SUP007,Pioneer Specialty Materials 7,Belgium,pioneerspecialty.materials.7@example.com,6113971123.0
+SUP008,Pioneer Specialty Materials 8,Singapore,pioneerspecialty.materials.8@example.com,9075280817.0
+SUP009,Pioneer Specialty Materials 9,France,pioneerspecialty.materials.9@example.com,6946785248.0
+SUP010,GreenCore Chemicals 10,Belgium,greencorechemicals.10@example.com,7194819984.0
+SUP011,Apex Chemical Solutions 11,United States,apexchemical.solutions.11@example.com,8998485882.0
+SUP012,Vertex Materials 12,United Kingdom,vertexmaterials.12@example.com,7193448329.0
+SUP013,Nova Specialty Chemicals 13,singapore,novaspecialty.chemicals.13@example.com,9279182318.0
+SUP014,Universal Chemical Products 14,Germany,universalchemical.products.14@example.com,6398340369.0
+SUP015,Vertex Materials 15,Germany,vertexmaterials.15@example.com,7541804686.0
+SUP016,Universal Chemical Products 16,Belgium,invalid-email,7136108454.0
+SUP017,Apex Chemical Solutions 17,Netherlands,apexchemical.solutions.17@example.com,8303082117.0
+SUP018,Global Industrial Materials 18,France,globalindustrial.materials.18@example.com,6338444264.0
+SUP019,Pioneer Specialty Materials 19,Japan,pioneerspecialty.materials.19@example.com,9562265906.0
+SUP020,Metro Chemical Industries 20,United Kingdom,metrochemical.industries.20@example.com,8479708607.0
+SUP021,Zenith Chemical Industries 21,Germany,zenithchemical.industries.21@example.com,6196814233.0
+SUP022,Zenith Chemical Industries 22,Japan,zenithchemical.industries.22@example.com,6342703921.0
+SUP023,Zenith Chemical Industries 23,germany,zenithchemical.industries.23@example.com,7632629719.0
+SUP024,Prime Industrial Supplies 24,Netherlands,primeindustrial.supplies.24@example.com,8730243887.0
+SUP025,Universal Chemical Products 25,united states,universalchemical.products.25@example.com,7589915144.0
+SUP026,Universal Chemical Products 26,Singapore,universalchemical.products.26@example.com,8878380452.0
+SUP027,Prime Industrial Supplies 27,Germany,primeindustrial.supplies.27@example.com,8616197747.0
+SUP028,Nova Specialty Chemicals 28,Switzerland,novaspecialty.chemicals.28@example.com,9131575764.0
+SUP029,Zenith Chemical Industries 29,United States,zenithchemical.industries.29@example.com,7985392498.0
+SUP030,Vertex Materials 30,Japan,vertexmaterials.30@example.com,9974524834.0
+SUP031,Pioneer Specialty Materials 31,Singapore,pioneerspecialty.materials.31@example.com,8940395823.0
+SUP032,Universal Chemical Products 32,India,universalchemical.products.32@example.com,6983753977.0
+SUP033,Apex Chemical Solutions 33,United Kingdom,,7722989659.0
+SUP034,Prime Industrial Supplies 34,Germany,primeindustrial.supplies.34@example.com,6906164396.0
+SUP035,Metro Chemical Industries 35,United Kingdom,metrochemical.industries.35@example.com,6913224047.0
+SUP036,GreenCore Chemicals 36,France,greencorechemicals.36@example.com,9799685197.0
+SUP037,GreenCore Chemicals 37,United States,greencorechemicals.37@example.com,7137651678.0
+SUP038,Nova Specialty Chemicals 38,Singapore,novaspecialty.chemicals.38@example.com,9199703321.0
+SUP039,Pioneer Specialty Materials 39,Switzerland,pioneerspecialty.materials.39@example.com,7128466620.0
+SUP040,Metro Chemical Industries 40,France,metrochemical.industries.40@example.com,9856119925.0
+SUP041,Metro Chemical Industries 41,France,metrochemical.industries.41@example.com,7554762903.0
+SUP042,Zenith Chemical Industries 42,United States,zenithchemical.industries.42@example.com,8188398760.0
+SUP043,GreenCore Chemicals 43,Germany,greencorechemicals.43@example.com,9246059658.0
+SUP044,Apex Chemical Solutions 44,Germany,apexchemical.solutions.44@example.com,6656448479.0
+SUP045,Nova Specialty Chemicals 45,France,novaspecialty.chemicals.45@example.com,8561557300.0
+SUP046,Global Industrial Materials 46,France,globalindustrial.materials.46@example.com,7639042338.0
+SUP047,Metro Chemical Industries 47,Netherlands,metrochemical.industries.47@example.com,8272528809.0
+SUP048,Prime Industrial Supplies 48,Switzerland,primeindustrial.supplies.48@example.com,
+SUP049,Apex Chemical Solutions 49,Germany,apexchemical.solutions.49@example.com,8927923735.0
+SUP050,Pioneer Specialty Materials 50,Japan,pioneerspecialty.materials.50@example.com,9301106403.0
+SUP051,Universal Chemical Products 51,Germany,,7260573448.0
+SUP052,Vertex Materials 52,United States,vertexmaterials.52@example.com,7948728483.0
+SUP053,Apex Chemical Solutions 53,Japan,apexchemical.solutions.53@example.com,8150000991.0
+SUP054,Nova Specialty Chemicals 54,Switzerland,novaspecialty.chemicals.54@example.com,9919706735.0
+SUP055,Global Industrial Materials 55,Japan,globalindustrial.materials.55@example.com,9614942327.0
+SUP056,Pioneer Specialty Materials 56,Belgium,pioneerspecialty.materials.56@example.com,6854316681.0
+SUP057,Nova Specialty Chemicals 57,United Kingdom,novaspecialty.chemicals.57@example.com,9274958945.0
+SUP058,Nova Specialty Chemicals 58,Switzerland,novaspecialty.chemicals.58@example.com,9344175247.0
+SUP059,Pioneer Specialty Materials 59,India,pioneerspecialty.materials.59@example.com,8572447412.0
+SUP060,Universal Chemical Products 60,Netherlands,universalchemical.products.60@example.com,6083651970.0
+SUP061,Global Industrial Materials 61,United Kingdom,globalindustrial.materials.61@example.com,9774081712.0
+SUP062,Prime Industrial Supplies 62,Singapore,primeindustrial.supplies.62@example.com,6248786714.0
+SUP063,Zenith Chemical Industries 63 ,Belgium,zenithchemical.industries.63@example.com,6338258951.0
+SUP064,Global Industrial Materials 64,Netherlands,globalindustrial.materials.64@example.com,9504793184.0
+SUP065,Global Industrial Materials 65,Switzerland,globalindustrial.materials.65@example.com,9289233844.0
+SUP066,Nova Specialty Chemicals 66,United States,novaspecialty.chemicals.66@example.com,8833608204.0
+SUP067,GreenCore Chemicals 67,Switzerland,greencorechemicals.67@example.com,6709214891.0
+SUP068,Prime Industrial Supplies 68,Switzerland,primeindustrial.supplies.68@example.com,9747071386.0
+SUP069,Metro Chemical Industries 69,France,metrochemical.industries.69@example.com,6909666337.0
+SUP070,Pioneer Specialty Materials 70,Singapore,pioneerspecialty.materials.70@example.com,
+SUP071,Prime Industrial Supplies 71,France,primeindustrial.supplies.71@example.com,8884873529.0
+SUP072,Universal Chemical Products 72,Netherlands,universalchemical.products.72@example.com,9863813067.0
+SUP073,Pioneer Specialty Materials 73,Netherlands,pioneerspecialty.materials.73@example.com,6519709079.0
+SUP074,Zenith Chemical Industries 74,Singapore,zenithchemical.industries.74@example.com,6274989148.0
+SUP075,Universal Chemical Products 75,India,universalchemical.products.75@example.com,8526766690.0
+SUP076,Pioneer Specialty Materials 76,Singapore,pioneerspecialty.materials.76@example.com,8527331058.0
+SUP077,Zenith Chemical Industries 77,India,invalid-email,6304912982.0
+SUP078,Apex Chemical Solutions 78,Singapore,apexchemical.solutions.78@example.com,6289482182.0
+SUP079,Apex Chemical Solutions 79,United Kingdom,apexchemical.solutions.79@example.com,6304330003.0
+SUP080,Pioneer Specialty Materials 80,Singapore,pioneerspecialty.materials.80@example.com,7196050747.0
+SUP081,GreenCore Chemicals 81,Singapore,greencorechemicals.81@example.com,8315992115.0
+SUP082,Nova Specialty Chemicals 82,Belgium,novaspecialty.chemicals.82@example.com,8474810179.0
+SUP083,GreenCore Chemicals 83,singapore,greencorechemicals.83@example.com,9369914783.0
+SUP084,GreenCore Chemicals 84,France,greencorechemicals.84@example.com,6817804383.0
+SUP085,Global Industrial Materials 85,Germany,globalindustrial.materials.85@example.com,8830309370.0
+SUP086,Vertex Materials 86,United Kingdom,vertexmaterials.86@example.com,7819256337.0
+SUP087,Vertex Materials 87,Netherlands,vertexmaterials.87@example.com,9710150572.0
+SUP088,Apex Chemical Solutions 88,Germany,apexchemical.solutions.88@example.com,6260329455.0
+SUP089,Vertex Materials 89,United Kingdom,vertexmaterials.89@example.com,9438518641.0
+SUP090,Global Industrial Materials 90,Singapore,globalindustrial.materials.90@example.com,6822873088.0
+SUP091,Zenith Chemical Industries 91,Switzerland,zenithchemical.industries.91@example.com,7926780541.0
+SUP092,Nova Specialty Chemicals 92,France,novaspecialty.chemicals.92@example.com,6788075126.0
+SUP093,Prime Industrial Supplies 93,Netherlands,primeindustrial.supplies.93@example.com,7072910527.0
+SUP094,Global Industrial Materials 94,Netherlands,globalindustrial.materials.94@example.com,9470429115.0
+SUP095,Pioneer Specialty Materials 95,Germany,pioneerspecialty.materials.95@example.com,6217275224.0
+SUP096,Pioneer Specialty Materials 96,India,pioneerspecialty.materials.96@example.com,
+SUP097,Zenith Chemical Industries 97,United States,zenithchemical.industries.97@example.com,7745535098.0
+SUP098,GreenCore Chemicals 98,Netherlands,greencorechemicals.98@example.com,6918037633.0
+SUP099,Vertex Materials 99,India,vertexmaterials.99@example.com,6707111048.0
+SUP100,Vertex Materials 100,India,invalid-email,7676848676.0
+SUP101,Prime Industrial Supplies 101,Netherlands,primeindustrial.supplies.101@example.com,7225136114.0
+SUP102,Vertex Materials 102,Switzerland,vertexmaterials.102@example.com,8842715617.0
+SUP103,GreenCore Chemicals 103,United States,greencorechemicals.103@example.com,6815605132.0
+SUP104,Prime Industrial Supplies 104,Singapore,primeindustrial.supplies.104@example.com,6251183830.0
+SUP105,metro chemical industries 105,Switzerland,metrochemical.industries.105@example.com,6261810763.0
+SUP106,Universal Chemical Products 106,India,universalchemical.products.106@example.com,6215359682.0
+SUP107,Metro Chemical Industries 107,Netherlands,metrochemical.industries.107@example.com,8159725924.0
+SUP108,Pioneer Specialty Materials 108,United States,pioneerspecialty.materials.108@example.com,6244295904.0
+SUP109,Pioneer Specialty Materials 109,Germany,,9656488400.0
+SUP110,nova specialty chemicals 110,Germany,novaspecialty.chemicals.110@example.com,8555656321.0
+SUP111,Global Industrial Materials 111,Singapore,globalindustrial.materials.111@example.com,7734202799.0
+SUP112,Global Industrial Materials 112,Belgium,globalindustrial.materials.112@example.com,7057486868.0
+SUP113,Metro Chemical Industries 113,Belgium,metrochemical.industries.113@example.com,6170689150.0
+SUP114,Metro Chemical Industries 114,Germany,metrochemical.industries.114@example.com,7800557283.0
+SUP115,Metro Chemical Industries 115,Belgium,metrochemical.industries.115@example.com,8245334677.0
+SUP116,Universal Chemical Products 116,Japan,universalchemical.products.116@example.com,6877286584.0
+SUP117,Universal Chemical Products 117,Singapore,universalchemical.products.117@example.com,7140805649.0
+SUP118,Vertex Materials 118,United States,vertexmaterials.118@example.com,8884887548.0
+SUP119,Prime Industrial Supplies 119,Netherlands,primeindustrial.supplies.119@example.com,7357970698.0
+SUP120,Global Industrial Materials 120,India,globalindustrial.materials.120@example.com,
+SUP121,Metro Chemical Industries 121,Belgium,metrochemical.industries.121@example.com,6429416213.0
+SUP122,Global Industrial Materials 122,Switzerland,globalindustrial.materials.122@example.com,6915490795.0
+SUP123,Pioneer Specialty Materials 123,Japan,pioneerspecialty.materials.123@example.com,6568896616.0
+SUP124,UNIVERSAL CHEMICAL PRODUCTS 124,Germany,universalchemical.products.124@example.com,9776436931.0
+SUP125,Zenith Chemical Industries 125,United Kingdom,zenithchemical.industries.125@example.com,7224011538.0
+SUP126,Nova Specialty Chemicals 126,Netherlands,novaspecialty.chemicals.126@example.com,9580907314.0
+SUP127,Pioneer Specialty Materials 127,Japan,pioneerspecialty.materials.127@example.com,8627135980.0
+SUP128,Pioneer Specialty Materials 128,India,,8868450609.0
+SUP129,Pioneer Specialty Materials 129,Japan,pioneerspecialty.materials.129@example.com,8849232839.0
+SUP130,Global Industrial Materials 130,United States,globalindustrial.materials.130@example.com,7135872495.0
+SUP131,Global Industrial Materials 131,Germany,globalindustrial.materials.131@example.com,9188655387.0
+SUP132,Pioneer Specialty Materials 132,United States,invalid-email,7169726681.0
+SUP133,Prime Industrial Supplies 133,Belgium,primeindustrial.supplies.133@example.com,6904647469.0
+SUP134,Universal Chemical Products 134,Singapore,universalchemical.products.134@example.com,8952777682.0
+SUP135,Prime Industrial Supplies 135,Switzerland,primeindustrial.supplies.135@example.com,8098228320.0
+SUP136,Prime Industrial Supplies 136,India,primeindustrial.supplies.136@example.com,6396418889.0
+SUP137,Vertex Materials 137,Japan,vertexmaterials.137@example.com,6189351213.0
+SUP138,Apex Chemical Solutions 138,United Kingdom,apexchemical.solutions.138@example.com,9311931853.0
+SUP139,Nova Specialty Chemicals 139,Japan,novaspecialty.chemicals.139@example.com,6693989311.0
+SUP140,GreenCore Chemicals 140,Switzerland,greencorechemicals.140@example.com,
+SUP141,Vertex Materials 141,Switzerland,invalid-email,6041531046.0
+SUP142,Global Industrial Materials 142,Germany,globalindustrial.materials.142@example.com,9792913072.0
+SUP143,Nova Specialty Chemicals 143,Switzerland,invalid-email,6154739678.0
+SUP144,Universal Chemical Products 144,Belgium,universalchemical.products.144@example.com,8373077218.0
+SUP145,Nova Specialty Chemicals 145,France,novaspecialty.chemicals.145@example.com,6547374338.0
+SUP146,Apex Chemical Solutions 146,JAPAN,,7566166314.0
+SUP147,Apex Chemical Solutions 147,United Kingdom,apexchemical.solutions.147@example.com,6902271852.0
+SUP148,Zenith Chemical Industries 148,Germany,zenithchemical.industries.148@example.com,7519038154.0
+SUP149,Pioneer Specialty Materials 149,France,pioneerspecialty.materials.149@example.com,8665720874.0
+SUP150,Nova Specialty Chemicals 150,Singapore,novaspecialty.chemicals.150@example.com,
+SUP151,Nova Specialty Chemicals 151,United States,novaspecialty.chemicals.151@example.com,
+SUP152,Vertex Materials 152,India,vertexmaterials.152@example.com,6770348179.0
+SUP153,Universal Chemical Products 153,France,,9445573666.0
+SUP154,Zenith Chemical Industries 154,Japan,zenithchemical.industries.154@example.com,
+SUP155,Global Industrial Materials 155,France,globalindustrial.materials.155@example.com,9745927824.0
+SUP156,Apex Chemical Solutions 156,Netherlands,apexchemical.solutions.156@example.com,6955345537.0
+SUP157,Zenith Chemical Industries 157,Netherlands,zenithchemical.industries.157@example.com,7501771491.0
+SUP158,Prime Industrial Supplies 158,Singapore,invalid-email,6957449367.0
+SUP159,Apex Chemical Solutions 159,Singapore,apexchemical.solutions.159@example.com,7711398352.0
+SUP160,Universal Chemical Products 160,Japan,universalchemical.products.160@example.com,9712367625.0
+SUP161,Global Industrial Materials 161,Japan,globalindustrial.materials.161@example.com,7508161137.0
+SUP162,Pioneer Specialty Materials 162,France,pioneerspecialty.materials.162@example.com,8918508077.0
+SUP163,Pioneer Specialty Materials 163,United Kingdom,pioneerspecialty.materials.163@example.com,6118543408.0
+SUP164,Global Industrial Materials 164,Japan,globalindustrial.materials.164@example.com,6766942939.0
+SUP165,Metro Chemical Industries 165,Japan,metrochemical.industries.165@example.com,6164313410.0
+SUP166,Global Industrial Materials 166,Belgium,globalindustrial.materials.166@example.com,7866437132.0
+SUP167,Universal Chemical Products 167,United Kingdom,universalchemical.products.167@example.com,7874297457.0
+SUP168,Metro Chemical Industries 168,Switzerland,metrochemical.industries.168@example.com,6496694873.0
+SUP169,Vertex Materials 169,Belgium,vertexmaterials.169@example.com,6816382125.0
+SUP170,Prime Industrial Supplies 170,India,primeindustrial.supplies.170@example.com,9044209616.0
+SUP171,Vertex Materials 171,India,vertexmaterials.171@example.com,8233040884.0
+SUP172,Pioneer Specialty Materials 172,Singapore,pioneerspecialty.materials.172@example.com,7564319318.0
+SUP173,Vertex Materials 173 ,Germany,vertexmaterials.173@example.com,8852879124.0
+SUP174,Universal Chemical Products 174,Belgium,universalchemical.products.174@example.com,7348257414.0
+SUP175,Global Industrial Materials 175,Japan,globalindustrial.materials.175@example.com,8178074590.0
+SUP176,Prime Industrial Supplies 176,France,primeindustrial.supplies.176@example.com,7400944900.0
+SUP177,Vertex Materials 177,Japan,vertexmaterials.177@example.com,8381183483.0
+SUP178,Nova Specialty Chemicals 178,Singapore,novaspecialty.chemicals.178@example.com,7805803262.0
+SUP179,Vertex Materials 179,United States,vertexmaterials.179@example.com,8643616431.0
+SUP180,Metro Chemical Industries 180,japan,metrochemical.industries.180@example.com,7744079573.0
+SUP181,Pioneer Specialty Materials 181,India,pioneerspecialty.materials.181@example.com,7305132983.0
+SUP182,Prime Industrial Supplies 182,Singapore,primeindustrial.supplies.182@example.com,7846355528.0
+SUP183,METRO CHEMICAL INDUSTRIES 183,Belgium,metrochemical.industries.183@example.com,8811939242.0
+SUP184,Universal Chemical Products 184,Netherlands,universalchemical.products.184@example.com,7897456484.0
+SUP185,GreenCore Chemicals 185,Singapore,greencorechemicals.185@example.com,8195475598.0
+SUP186,GreenCore Chemicals 186,United States,greencorechemicals.186@example.com,8829742424.0
+SUP187,GLOBAL INDUSTRIAL MATERIALS 187,Japan,globalindustrial.materials.187@example.com,8213849513.0
+SUP188,Metro Chemical Industries 188,United Kingdom,metrochemical.industries.188@example.com,6401094954.0
+SUP189,Zenith Chemical Industries 189,JAPAN,zenithchemical.industries.189@example.com,6964824319.0
+SUP190,Zenith Chemical Industries 190,USA,zenithchemical.industries.190@example.com,6104906255.0
+SUP191,Apex Chemical Solutions 191,singapore,apexchemical.solutions.191@example.com,8040695043.0
+SUP192,Metro Chemical Industries 192,Germany,metrochemical.industries.192@example.com,7955997540.0
+SUP193,Vertex Materials 193,Belgium,vertexmaterials.193@example.com,6835092972.0
+SUP194,Vertex Materials 194,Netherlands,vertexmaterials.194@example.com,7716495971.0
+SUP195,Zenith Chemical Industries 195,United States,zenithchemical.industries.195@example.com,8817747689.0
+SUP196,Apex Chemical Solutions 196,Germany,apexchemical.solutions.196@example.com,9343290201.0
+SUP197,Vertex Materials 197,Singapore,vertexmaterials.197@example.com,6755427535.0
+SUP198,Pioneer Specialty Materials 198,Netherlands,pioneerspecialty.materials.198@example.com,6215686308.0
+SUP199,Pioneer Specialty Materials 199,Singapore,pioneerspecialty.materials.199@example.com,9940503685.0
+SUP200,Global Industrial Materials 200,Netherlands,globalindustrial.materials.200@example.com,6572687073.0
+SUP201,GreenCore Chemicals 201,Switzerland,greencorechemicals.201@example.com,8400565848.0
+SUP202,Metro Chemical Industries 202,United Kingdom,metrochemical.industries.202@example.com,9243774098.0
+SUP203,GreenCore Chemicals 203,Belgium,greencorechemicals.203@example.com,9500426290.0
+SUP204,Pioneer Specialty Materials 204,France,pioneerspecialty.materials.204@example.com,9567267411.0
+SUP205,Pioneer Specialty Materials 205,Netherlands,pioneerspecialty.materials.205@example.com,9853479481.0
+SUP206,Nova Specialty Chemicals 206,Netherlands,novaspecialty.chemicals.206@example.com,7933034905.0
+SUP207,Prime Industrial Supplies 207,Singapore,,9607183629.0
+SUP208,Prime Industrial Supplies 208,Switzerland,primeindustrial.supplies.208@example.com,
+SUP209,Zenith Chemical Industries 209,Japan,zenithchemical.industries.209@example.com,7889238423.0
+SUP210,Global Industrial Materials 210,Japan,globalindustrial.materials.210@example.com,7007142260.0
+SUP211,Prime Industrial Supplies 211,United Kingdom,primeindustrial.supplies.211@example.com,7373142116.0
+SUP212,Pioneer Specialty Materials 212,Germany,invalid-email,6594312071.0
+SUP213,NOVA SPECIALTY CHEMICALS 213,Singapore,novaspecialty.chemicals.213@example.com,7645124051.0
+SUP214,Nova Specialty Chemicals 214,Singapore,novaspecialty.chemicals.214@example.com,6275860817.0
+SUP215,Vertex Materials 215,France,vertexmaterials.215@example.com,7421124738.0
+SUP216,Pioneer Specialty Materials 216,Netherlands,pioneerspecialty.materials.216@example.com,7785736751.0
+SUP217,Apex Chemical Solutions 217,Singapore,apexchemical.solutions.217@example.com,9577240334.0
+SUP218,vertex materials 218,France,vertexmaterials.218@example.com,9886251649.0
+SUP219,Metro Chemical Industries 219,India,metrochemical.industries.219@example.com,9679636056.0
+SUP220,Metro Chemical Industries 220,France,metrochemical.industries.220@example.com,8048612358.0
+SUP221,Apex Chemical Solutions 221,United Kingdom,apexchemical.solutions.221@example.com,7282531582.0
+SUP222,Vertex Materials 222,France,,8311639723.0
+SUP223,Pioneer Specialty Materials 223 ,Belgium,pioneerspecialty.materials.223@example.com,
+SUP224,Zenith Chemical Industries 224,Netherlands,zenithchemical.industries.224@example.com,6942408767.0
+SUP225,Prime Industrial Supplies 225,France,primeindustrial.supplies.225@example.com,8085816511.0
+SUP226,Apex Chemical Solutions 226,France,apexchemical.solutions.226@example.com,7443665390.0
+SUP227,Vertex Materials 227,United States,vertexmaterials.227@example.com,9609944328.0
+SUP228,GreenCore Chemicals 228,United States,greencorechemicals.228@example.com,8672573305.0
+SUP229,Pioneer Specialty Materials 229,India,pioneerspecialty.materials.229@example.com,9895229819.0
+SUP230,Vertex Materials 230,Belgium,vertexmaterials.230@example.com,8424045110.0
+SUP231,Apex Chemical Solutions 231,Germany,,8760588734.0
+SUP232,Vertex Materials 232,United States,,9723098211.0
+SUP233,GreenCore Chemicals 233,United States,greencorechemicals.233@example.com,6215970859.0
+SUP234,Prime Industrial Supplies 234,France,primeindustrial.supplies.234@example.com,7405969000.0
+SUP235,Zenith Chemical Industries 235,Netherlands,zenithchemical.industries.235@example.com,7403792057.0
+SUP236,Universal Chemical Products 236,France,universalchemical.products.236@example.com,7195103064.0
+SUP237,Vertex Materials 237,Japan,vertexmaterials.237@example.com,9585915088.0
+SUP238,Global Industrial Materials 238,Netherlands,invalid-email,6083250566.0
+SUP239,Pioneer Specialty Materials 239,India,pioneerspecialty.materials.239@example.com,7503068227.0
+SUP240,Zenith Chemical Industries 240,Germany,zenithchemical.industries.240@example.com,9355370399.0
+SUP241,Apex Chemical Solutions 241,India,apexchemical.solutions.241@example.com,7062073697.0
+SUP242,Zenith Chemical Industries 242,India,zenithchemical.industries.242@example.com,8668616333.0
+SUP243,Nova Specialty Chemicals 243,Singapore,novaspecialty.chemicals.243@example.com,6542114964.0
+SUP244,GreenCore Chemicals 244,Germany,greencorechemicals.244@example.com,8422230882.0
+SUP245,Zenith Chemical Industries 245,Netherlands,zenithchemical.industries.245@example.com,9004179184.0
+SUP246,Prime Industrial Supplies 246,United Kingdom,primeindustrial.supplies.246@example.com,6720648887.0
+SUP247,Metro Chemical Industries 247,Belgium,invalid-email,9212316223.0
+SUP248,Global Industrial Materials 248,United States,globalindustrial.materials.248@example.com,7335901990.0
+SUP249,Global Industrial Materials 249,Belgium,globalindustrial.materials.249@example.com,6110287971.0
+SUP250,Prime Industrial Supplies 250,Belgium,primeindustrial.supplies.250@example.com,8909184445.0
+SUP251,Vertex Materials 251,France,vertexmaterials.251@example.com,9070964768.0
+SUP252,Zenith Chemical Industries 252,Germany,zenithchemical.industries.252@example.com,8543040948.0
+SUP253,Zenith Chemical Industries 253,Germany,zenithchemical.industries.253@example.com,8994421136.0
+SUP254,Prime Industrial Supplies 254,Belgium,primeindustrial.supplies.254@example.com,9459716271.0
+SUP255,Global Industrial Materials 255,Belgium,globalindustrial.materials.255@example.com,9361393222.0
+SUP256,Apex Chemical Solutions 256,United Kingdom,apexchemical.solutions.256@example.com,8288123416.0
+SUP257,Vertex Materials 257,United Kingdom,vertexmaterials.257@example.com,6296166921.0
+SUP258,Pioneer Specialty Materials 258,United Kingdom,pioneerspecialty.materials.258@example.com,6054340558.0
+SUP259,Vertex Materials 259,Netherlands,vertexmaterials.259@example.com,6453285987.0
+SUP260,Vertex Materials 260,United Kingdom,vertexmaterials.260@example.com,8729817240.0
+SUP261,GreenCore Chemicals 261,United States,greencorechemicals.261@example.com,7870403050.0
+SUP262,Nova Specialty Chemicals 262,Switzerland,novaspecialty.chemicals.262@example.com,8793693337.0
+SUP263,Prime Industrial Supplies 263,Belgium,primeindustrial.supplies.263@example.com,
+SUP264,Pioneer Specialty Materials 264,Netherlands,pioneerspecialty.materials.264@example.com,7996617659.0
+SUP265,Vertex Materials 265,Belgium,vertexmaterials.265@example.com,7152750071.0
+SUP266,Universal Chemical Products 266,Singapore,universalchemical.products.266@example.com,9567962531.0
+SUP267,Global Industrial Materials 267,Japan,,9786577118.0
+SUP268,GreenCore Chemicals 268,Singapore,greencorechemicals.268@example.com,9223271103.0
+SUP269,GreenCore Chemicals 269,Belgium,greencorechemicals.269@example.com,8621354709.0
+SUP270,Vertex Materials 270,United Kingdom,vertexmaterials.270@example.com,6123265537.0
+SUP271,GreenCore Chemicals 271,United Kingdom,,6780996231.0
+SUP272,GreenCore Chemicals 272,Singapore,greencorechemicals.272@example.com,7523961606.0
+SUP273,Prime Industrial Supplies 273,United Kingdom,,7201124041.0
+SUP274,Metro Chemical Industries 274,Japan,metrochemical.industries.274@example.com,8387104291.0
+SUP275,Apex Chemical Solutions 275,Switzerland,apexchemical.solutions.275@example.com,6820581106.0
+SUP276,Global Industrial Materials 276,Singapore,globalindustrial.materials.276@example.com,9092697141.0
+SUP277,Vertex Materials 277,Netherlands,vertexmaterials.277@example.com,8384463652.0
+SUP278,Zenith Chemical Industries 278,Netherlands,zenithchemical.industries.278@example.com,8774131811.0
+SUP279,GreenCore Chemicals 279,Netherlands,greencorechemicals.279@example.com,
+SUP280,Apex Chemical Solutions 280,Germany ,apexchemical.solutions.280@example.com,7263732197.0
+SUP281,Zenith Chemical Industries 281,France,zenithchemical.industries.281@example.com,8971203213.0
+SUP282,Zenith Chemical Industries 282,Japan,zenithchemical.industries.282@example.com,8851686578.0
+SUP283,Metro Chemical Industries 283,United Kingdom,metrochemical.industries.283@example.com,8032638323.0
+SUP284,Pioneer Specialty Materials 284,Switzerland,pioneerspecialty.materials.284@example.com,7476426754.0
+SUP285,Vertex Materials 285,Switzerland,vertexmaterials.285@example.com,7420737819.0
+SUP286,UNIVERSAL CHEMICAL PRODUCTS 286,Netherlands,universalchemical.products.286@example.com,7163577186.0
+SUP287,Prime Industrial Supplies 287,Japan,invalid-email,6990153355.0
+SUP288,Global Industrial Materials 288,Singapore,globalindustrial.materials.288@example.com,7355268102.0
+SUP289,Global Industrial Materials 289,Switzerland,globalindustrial.materials.289@example.com,9273579452.0
+SUP290,Nova Specialty Chemicals 290,Singapore,novaspecialty.chemicals.290@example.com,6929364954.0
+SUP291,GreenCore Chemicals 291,Japan,greencorechemicals.291@example.com,9112068867.0
+SUP292,Metro Chemical Industries 292,Switzerland,metrochemical.industries.292@example.com,8563196714.0
+SUP293,Prime Industrial Supplies 293,Germany,primeindustrial.supplies.293@example.com,9576111591.0
+SUP294,Zenith Chemical Industries 294,Japan,zenithchemical.industries.294@example.com,6977032766.0
+SUP295,Universal Chemical Products 295,United States,universalchemical.products.295@example.com,7298229437.0
+SUP296,Apex Chemical Solutions 296,Switzerland,apexchemical.solutions.296@example.com,6543669676.0
+SUP297,Prime Industrial Supplies 297,India,primeindustrial.supplies.297@example.com,6234187462.0
+SUP298,Pioneer Specialty Materials 298,Japan,pioneerspecialty.materials.298@example.com,8995384868.0
+SUP299,Nova Specialty Chemicals 299,Netherlands,novaspecialty.chemicals.299@example.com,6440610570.0
+SUP300,Apex Chemical Solutions 300,Belgium,apexchemical.solutions.300@example.com,7221228113.0
+SUP301,GreenCore Chemicals 301,Netherlands,greencorechemicals.301@example.com,7891799103.0
+SUP302,Universal Chemical Products 302,United States,universalchemical.products.302@example.com,6220661337.0
+SUP303,Prime Industrial Supplies 303,Netherlands,primeindustrial.supplies.303@example.com,6490000526.0
+SUP304,Global Industrial Materials 304,France,globalindustrial.materials.304@example.com,8112035409.0
+SUP305,Global Industrial Materials 305,Belgium,globalindustrial.materials.305@example.com,8703448716.0
+SUP306,Apex Chemical Solutions 306,united states,apexchemical.solutions.306@example.com,6640798731.0
+SUP307,Metro Chemical Industries 307,Japan,metrochemical.industries.307@example.com,6365849190.0
+SUP308,Zenith Chemical Industries 308,Germany,zenithchemical.industries.308@example.com,8396905421.0
+SUP309,Vertex Materials 309,Belgium,vertexmaterials.309@example.com,8560345306.0
+SUP310,Metro Chemical Industries 310,Singapore,metrochemical.industries.310@example.com,9331578385.0
+SUP311,Pioneer Specialty Materials 311,France,pioneerspecialty.materials.311@example.com,7934944879.0
+SUP312,GreenCore Chemicals 312,Japan,greencorechemicals.312@example.com,9694387705.0
+SUP313,Metro Chemical Industries 313,France,metrochemical.industries.313@example.com,7311598149.0
+SUP314,Metro Chemical Industries 314,Belgium,metrochemical.industries.314@example.com,6258687184.0
+SUP315,Metro Chemical Industries 315,Germany,,9275930923.0
+SUP316,Zenith Chemical Industries 316,Singapore,zenithchemical.industries.316@example.com,7136646449.0
+SUP317,Global Industrial Materials 317,United States,globalindustrial.materials.317@example.com,7030213097.0
+SUP318,Nova Specialty Chemicals 318,Switzerland,novaspecialty.chemicals.318@example.com,6322401182.0
+SUP319,Nova Specialty Chemicals 319 ,India,novaspecialty.chemicals.319@example.com,7754569613.0
+SUP320,GreenCore Chemicals 320,Belgium,greencorechemicals.320@example.com,8018258729.0
+SUP321,Prime Industrial Supplies 321,India,primeindustrial.supplies.321@example.com,6994182853.0
+SUP322,Prime Industrial Supplies 322,Japan,primeindustrial.supplies.322@example.com,9019308557.0
+SUP323,GreenCore Chemicals 323,Germany,greencorechemicals.323@example.com,8952295757.0
+SUP324,Zenith Chemical Industries 324,Japan,zenithchemical.industries.324@example.com,9383695608.0
+SUP325,Metro Chemical Industries 325,Singapore,metrochemical.industries.325@example.com,7825957977.0
+SUP326,Global Industrial Materials 326,Switzerland,globalindustrial.materials.326@example.com,6965549222.0
+SUP327,Nova Specialty Chemicals 327,Japan,novaspecialty.chemicals.327@example.com,9550353803.0
+SUP328,Nova Specialty Chemicals 328,Germany,novaspecialty.chemicals.328@example.com,6256143439.0
+SUP329,Nova Specialty Chemicals 329,Japan,novaspecialty.chemicals.329@example.com,8555694670.0
+SUP330,Metro Chemical Industries 330,Japan,metrochemical.industries.330@example.com,7886149718.0
+SUP331,Global Industrial Materials 331,Netherlands,globalindustrial.materials.331@example.com,8957849462.0
+SUP332,Prime Industrial Supplies 332,France,invalid-email,7169288485.0
+SUP333,Pioneer Specialty Materials 333,Switzerland,pioneerspecialty.materials.333@example.com,8120834317.0
+SUP334,GreenCore Chemicals 334,Germany,greencorechemicals.334@example.com,8568547910.0
+SUP335,Apex Chemical Solutions 335,France,apexchemical.solutions.335@example.com,9154799197.0
+SUP336,Universal Chemical Products 336,Belgium,,7075321966.0
+SUP337,APEX CHEMICAL SOLUTIONS 337,Germany,apexchemical.solutions.337@example.com,6983222878.0
+SUP338,Metro Chemical Industries 338,Belgium,metrochemical.industries.338@example.com,6089101055.0
+SUP339,Prime Industrial Supplies 339,Belgium,primeindustrial.supplies.339@example.com,6172793727.0
+SUP340,Nova Specialty Chemicals 340,Netherlands,novaspecialty.chemicals.340@example.com,8228932714.0
+SUP341,GreenCore Chemicals 341,Japan,greencorechemicals.341@example.com,6779489931.0
+SUP342,Metro Chemical Industries 342,France,metrochemical.industries.342@example.com,8726379588.0
+SUP343,GreenCore Chemicals 343,Germany,greencorechemicals.343@example.com,8018679284.0
+SUP344,Universal Chemical Products 344,France,universalchemical.products.344@example.com,7431548670.0
+SUP345,Universal Chemical Products 345,Germany,universalchemical.products.345@example.com,9683935600.0
+SUP346,Nova Specialty Chemicals 346,United Kingdom,novaspecialty.chemicals.346@example.com,7768002206.0
+SUP347,GreenCore Chemicals 347,Japan,greencorechemicals.347@example.com,8845774616.0
+SUP348,Vertex Materials 348,Switzerland,vertexmaterials.348@example.com,6157612991.0
+SUP349,GreenCore Chemicals 349,Germany,greencorechemicals.349@example.com,7350840898.0
+SUP350,Prime Industrial Supplies 350,United Kingdom,primeindustrial.supplies.350@example.com,6497879474.0
+SUP351,Vertex Materials 351,Switzerland,vertexmaterials.351@example.com,9543035341.0
+SUP352,Apex Chemical Solutions 352,Switzerland,apexchemical.solutions.352@example.com,7984173309.0
+SUP353,Vertex Materials 353,India,vertexmaterials.353@example.com,6805660882.0
+SUP354,Pioneer Specialty Materials 354,United Kingdom,pioneerspecialty.materials.354@example.com,8674192109.0
+SUP355,GreenCore Chemicals 355,Netherlands,greencorechemicals.355@example.com,9264134512.0
+SUP356,Apex Chemical Solutions 356,Singapore,apexchemical.solutions.356@example.com,7146997816.0
+SUP357,Pioneer Specialty Materials 357,United States,pioneerspecialty.materials.357@example.com,9984324182.0
+SUP358,Prime Industrial Supplies 358,Netherlands,primeindustrial.supplies.358@example.com,9783207393.0
+SUP359,greencore chemicals 359,Germany,greencorechemicals.359@example.com,
+SUP360,Metro Chemical Industries 360,Singapore,metrochemical.industries.360@example.com,9048494026.0
+SUP361,Nova Specialty Chemicals 361,Japan,novaspecialty.chemicals.361@example.com,8365835550.0
+SUP362,Apex Chemical Solutions 362,Switzerland,apexchemical.solutions.362@example.com,7752306681.0
+SUP363,Global Industrial Materials 363,singapore,globalindustrial.materials.363@example.com,9613809882.0
+SUP364,Global Industrial Materials 364,Netherlands,globalindustrial.materials.364@example.com,6504513251.0
+SUP365,Nova Specialty Chemicals 365,Netherlands,novaspecialty.chemicals.365@example.com,9077787850.0
+SUP366,Prime Industrial Supplies 366,Switzerland,primeindustrial.supplies.366@example.com,9029719886.0
+SUP367,Prime Industrial Supplies 367,France,primeindustrial.supplies.367@example.com,9585112032.0
+SUP368,GreenCore Chemicals 368,Netherlands,greencorechemicals.368@example.com,7046816259.0
+SUP369,GreenCore Chemicals 369,Switzerland,greencorechemicals.369@example.com,6621232513.0
+SUP370,Vertex Materials 370,Singapore,vertexmaterials.370@example.com,9959393557.0
+SUP371,Metro Chemical Industries 371,Switzerland,metrochemical.industries.371@example.com,9205302077.0
+SUP372,Nova Specialty Chemicals 372,Germany,novaspecialty.chemicals.372@example.com,7186473561.0
+SUP373,Vertex Materials 373,United Kingdom,invalid-email,9383220511.0
+SUP374,Pioneer Specialty Materials 374,Japan,pioneerspecialty.materials.374@example.com,9524233168.0
+SUP375,Apex Chemical Solutions 375,Japan,apexchemical.solutions.375@example.com,9118365242.0
+SUP376,Prime Industrial Supplies 376,Belgium,primeindustrial.supplies.376@example.com,8490751945.0
+SUP377,GreenCore Chemicals 377,United States,greencorechemicals.377@example.com,7917906456.0
+SUP378,Pioneer Specialty Materials 378,Netherlands,pioneerspecialty.materials.378@example.com,7482296058.0
+SUP379,Universal Chemical Products 379,Switzerland,universalchemical.products.379@example.com,
+SUP380,Pioneer Specialty Materials 380,France,pioneerspecialty.materials.380@example.com,7955690228.0
+SUP381,Universal Chemical Products 381,Singapore,universalchemical.products.381@example.com,
+SUP382,Zenith Chemical Industries 382,Belgium,zenithchemical.industries.382@example.com,7644847276.0
+SUP383,Zenith Chemical Industries 383,France,,6187463722.0
+SUP384,Universal Chemical Products 384,Netherlands,universalchemical.products.384@example.com,9028930672.0
+SUP385,Vertex Materials 385,France,vertexmaterials.385@example.com,8850521812.0
+SUP386,Nova Specialty Chemicals 386,Netherlands,,6158998032.0
+SUP387,Nova Specialty Chemicals 387,Switzerland,novaspecialty.chemicals.387@example.com,8534805646.0
+SUP388,Universal Chemical Products 388,Germany,,9754619063.0
+SUP389,GreenCore Chemicals 389,Germany,greencorechemicals.389@example.com,8258942692.0
+SUP390,GreenCore Chemicals 390,India,greencorechemicals.390@example.com,9102872611.0
+SUP391,Nova Specialty Chemicals 391,France,novaspecialty.chemicals.391@example.com,9740628617.0
+SUP392,Nova Specialty Chemical 392,Germany,novaspecialty.chemicals.392@example.com,8016446768.0
+SUP393,Prime Industrial Supplies 393,United Kingdom,primeindustrial.supplies.393@example.com,
+SUP394,Vertex Materials 394,Germany,vertexmaterials.394@example.com,9658304095.0
+SUP395,Universal Chemical Products 395,Switzerland,universalchemical.products.395@example.com,7632127923.0
+SUP396,Universal Chemical Products 396,Netherlands,,9746856528.0
+SUP397,Pioneer Specialty Materials 397,India,pioneerspecialty.materials.397@example.com,8651968205.0
+SUP398,Global Industrial Materials 398,Singapore,globalindustrial.materials.398@example.com,8710815922.0
+SUP399,Prime Industrial Supplies 399,Singapore,primeindustrial.supplies.399@example.com,9207337120.0
+SUP400,Global Industrial Materials 400,France,globalindustrial.materials.400@example.com,6422809996.0
+SUP401,Global Industrial Materials 401,Netherlands,globalindustrial.materials.401@example.com,6714531298.0
+SUP402,Prime Industrial Supplies 402,India,primeindustrial.supplies.402@example.com,6197529702.0
+SUP403,Universal Chemical Products 403,India,universalchemical.products.403@example.com,7260005019.0
+SUP404,Universal Chemical Products 404,United Kingdom,universalchemical.products.404@example.com,7849785671.0
+SUP405,NOVA SPECIALTY CHEMICALS 405,SINGAPORE,novaspecialty.chemicals.405@example.com,8281341978.0
+SUP406,Vertex Materials 406,Belgium,vertexmaterials.406@example.com,8928310291.0
+SUP407,Nova Specialty Chemicals 407,United States,novaspecialty.chemicals.407@example.com,6751917162.0
+SUP408,Global Industrial Materials 408,Belgium,globalindustrial.materials.408@example.com,9740227599.0
+SUP409,Vertex Materials 409,Belgium,vertexmaterials.409@example.com,8934040683.0
+SUP410,Zenith Chemical Industries 410,Netherlands,zenithchemical.industries.410@example.com,9920570781.0
+SUP411,Metro Chemical Industries 411 ,United States,metrochemical.industries.411@example.com,6997241761.0
+SUP412,GreenCore Chemicals 412,Japan,greencorechemicals.412@example.com,
+SUP413,Prime Industrial Supplies 413,India,primeindustrial.supplies.413@example.com,9860782736.0
+SUP414,GreenCore Chemicals 414,Japan,greencorechemicals.414@example.com,8910316591.0
+SUP415,Pioneer Specialty Materials 415,United States,pioneerspecialty.materials.415@example.com,6317234448.0
+SUP416,GreenCore Chemicals 416,United Kingdom,greencorechemicals.416@example.com,8523601252.0
+SUP417,Prime Industrial Supplies 417,France,primeindustrial.supplies.417@example.com,8964873967.0
+SUP418,Prime Industrial Supplies 418,Netherlands,invalid-email,9630552730.0
+SUP419,Prime Industrial Supplies 419,Singapore,primeindustrial.supplies.419@example.com,7652244897.0
+SUP420,GreenCore Chemicals 420,Germany,greencorechemicals.420@example.com,7018790736.0
+SUP421,Vertex Materials 421,Belgium,vertexmaterials.421@example.com,7541717841.0
+SUP422,Metro Chemical Industries 422,Japan,metrochemical.industries.422@example.com,9003380792.0
+SUP423,Prime Industrial Supplies 423,India,primeindustrial.supplies.423@example.com,9564984187.0
+SUP424,Vertex Materials 424,Japan,vertexmaterials.424@example.com,6034780500.0
+SUP425,Metro Chemical Industries 425,India,metrochemical.industries.425@example.com,9911070030.0
+SUP426,Metro Chemical Industries 426,Netherlands,metrochemical.industries.426@example.com,9577015837.0
+SUP427,Prime Industrial Supplies 427,Singapore,primeindustrial.supplies.427@example.com,8607324296.0
+SUP428,Universal Chemical Products 428,Singapore,universalchemical.products.428@example.com,8734252963.0
+SUP429,Zenith Chemical Industries 429,Belgium,zenithchemical.industries.429@example.com,7076433900.0
+SUP430,Nova Specialty Chemicals 430,Germany,novaspecialty.chemicals.430@example.com,9880089348.0
+SUP431,Apex Chemical Solutions 431,japan,apexchemical.solutions.431@example.com,9387056244.0
+SUP432,GreenCore Chemicals 432,India,greencorechemicals.432@example.com,
+SUP433,Universal Chemical Products 433,United States,universalchemical.products.433@example.com,6387119894.0
+SUP434,Prime Industrial Supplies 434,United Kingdom,primeindustrial.supplies.434@example.com,9210405862.0
+SUP435,Vertex Materials 435,United States,invalid-email,6862407093.0
+SUP436,Nova Specialty Chemicals 436,Switzerland,novaspecialty.chemicals.436@example.com,9764369596.0
+SUP437,Universal Chemical Products 437,Switzerland,universalchemical.products.437@example.com,8155192095.0
+SUP438,Prime Industrial Supplies 438,United States,primeindustrial.supplies.438@example.com,7103678092.0
+SUP439,GreenCore Chemicals 439,Japan,greencorechemicals.439@example.com,9206447974.0
+SUP440,Universal Chemical Products 440,Germany,universalchemical.products.440@example.com,8011467975.0
+SUP441,GLOBAL INDUSTRIAL MATERIALS 441,United States,globalindustrial.materials.441@example.com,9239055974.0
+SUP442,Zenith Chemical Industries 442,France,zenithchemical.industries.442@example.com,9632444865.0
+SUP443,Pioneer Specialty Materials 443,United Kingdom,pioneerspecialty.materials.443@example.com,6387847884.0
+SUP444,Vertex Materials 444,India,vertexmaterials.444@example.com,7135840948.0
+SUP445,Pioneer Specialty Materials 445,Germany,pioneerspecialty.materials.445@example.com,7953291127.0
+SUP446,Universal Chemical Products 446,Japan,universalchemical.products.446@example.com,8510666490.0
+SUP447,Vertex Materials 447,United Kingdom,vertexmaterials.447@example.com,6465342967.0
+SUP448,Zenith Chemical Industries 448,Netherlands,zenithchemical.industries.448@example.com,6107480046.0
+SUP449,Metro Chemical Industries 449,Switzerland,metrochemical.industries.449@example.com,7408776235.0
+SUP450,Metro Chemical Industries 450,Singapore,metrochemical.industries.450@example.com,8781645815.0
+SUP451,Global Industrial Materials 451,Netherlands,globalindustrial.materials.451@example.com,
+SUP452,Prime Industrial Supplies 452,France,,6501119337.0
+SUP453,Nova Specialty Chemicals 453,India,novaspecialty.chemicals.453@example.com,6159824875.0
+SUP454,Prime Industrial Supplies 454,Netherlands,primeindustrial.supplies.454@example.com,6498733671.0
+SUP455,GLOBAL INDUSTRIAL MATERIALS 455,Singapore,globalindustrial.materials.455@example.com,9810749722.0
+SUP456,Pioneer Specialty Materials 456,United States,pioneerspecialty.materials.456@example.com,7669221121.0
+SUP457,GreenCore Chemicals 457,United Kingdom,greencorechemicals.457@example.com,8879716355.0
+SUP458,Pioneer Specialty Materials 458,France,pioneerspecialty.materials.458@example.com,8522607583.0
+SUP459,Nova Specialty Chemicals 459,France,novaspecialty.chemicals.459@example.com,8812868150.0
+SUP460,Global Industrial Materials 460,Netherlands,globalindustrial.materials.460@example.com,8644206129.0
+SUP461,Vertex Materials 461,Japan,vertexmaterials.461@example.com,6140515379.0
+SUP462,Universal Chemical Products 462,Singapore,universalchemical.products.462@example.com,7904315855.0
+SUP463,GreenCore Chemicals 463,Singapore,greencorechemicals.463@example.com,9674130601.0
+SUP464,Universal Chemical Products 464,Germany,universalchemical.products.464@example.com,8944974316.0
+SUP465,Universal Chemical Products 465,Switzerland,universalchemical.products.465@example.com,9872755741.0
+SUP466,Universal Chemical Products 466,India,universalchemical.products.466@example.com,7709996749.0
+SUP467,Prime Industrial Supplies 467,Singapore,primeindustrial.supplies.467@example.com,6524671997.0
+SUP468,GreenCore Chemicals 468,Germany,greencorechemicals.468@example.com,8846570058.0
+SUP469,Zenith Chemical Industries 469,Belgium,zenithchemical.industries.469@example.com,6091729577.0
+SUP470,Apex Chemical Solutions 470,United Kingdom,apexchemical.solutions.470@example.com,7046120419.0
+SUP471,Nova Specialty Chemicals 471,Belgium,novaspecialty.chemicals.471@example.com,6881351238.0
+SUP472,Global Industrial Materials 472,Switzerland,globalindustrial.materials.472@example.com,6889734128.0
+SUP473,METRO CHEMICAL INDUSTRIES 473,Singapore,metrochemical.industries.473@example.com,9492035954.0
+SUP474,Zenith Chemical Industries 474,United Kingdom,zenithchemical.industries.474@example.com,9325887726.0
+SUP475,Nova Specialty Chemicals 475,Belgium,novaspecialty.chemicals.475@example.com,6012178595.0
+SUP476,Prime Industrial Supplies 476,United States,primeindustrial.supplies.476@example.com,6558311957.0
+SUP477,Pioneer Specialty Materials 477,Japan,pioneerspecialty.materials.477@example.com,9429590757.0
+SUP478,Nova Specialty Chemicals 478,Germany,novaspecialty.chemicals.478@example.com,8839220941.0
+SUP479,Apex Chemical Solutions 479,United States,apexchemical.solutions.479@example.com,6063824611.0
+SUP480,Universal Chemical Products 480,Singapore,universalchemical.products.480@example.com,8529104043.0
+SUP481,Universal Chemical Products 481,India,,6748381742.0
+SUP482,Prime Industrial Supplies 482,India,primeindustrial.supplies.482@example.com,6544423789.0
+SUP483,Vertex Materials 483,Switzerland,vertexmaterials.483@example.com,6488120041.0
+SUP484,Global Industrial Materials 484,Netherlands,,7925327382.0
+SUP485,Universal Chemical Products 485,Switzerland,universalchemical.products.485@example.com,8549776132.0
+SUP486,Global Industrial Materials 486,Netherlands,globalindustrial.materials.486@example.com,8163970710.0
+SUP487,Zenith Chemical Industries 487,Belgium,zenithchemical.industries.487@example.com,6186251406.0
+SUP488,Pioneer Specialty Materials 488,Japan,,7967277638.0
+SUP489,Apex Chemical Solutions 489,India,apexchemical.solutions.489@example.com,8057211631.0
+SUP490,Vertex Materials 490,France,vertexmaterials.490@example.com,8946766309.0
+SUP491,Global Industrial Materials 491,Netherlands,globalindustrial.materials.491@example.com,9059740329.0
+SUP492,GreenCore Chemicals 492 ,Germany,greencorechemicals.492@example.com,9862321353.0
+SUP493,Global Industrial Materials 493,United Kingdom,globalindustrial.materials.493@example.com,8612617557.0
+SUP494,nova specialty chemicals 494,Germany,novaspecialty.chemicals.494@example.com,6541988748.0
+SUP495,Prime Industrial Supplies 495,Belgium,primeindustrial.supplies.495@example.com,8719043833.0
+SUP496,Metro Chemical Industries 496,Switzerland,metrochemical.industries.496@example.com,9058672970.0
+SUP497,Universal Chemical Products 497,France,universalchemical.products.497@example.com,8565778475.0
+SUP498,Pioneer Specialty Materials 498,Japan,pioneerspecialty.materials.498@example.com,7948692883.0
+SUP499,Pioneer Specialty Materials 499,Belgium,pioneerspecialty.materials.499@example.com,7847692041.0
+SUP500,Global Industrial Materials 500,Germany,globalindustrial.materials.500@example.com,9662716909.0
+DUP328,nova specialty chemicals 328,Germany,novaspecialty.chemicals.328@example.com,6256143439.0
+DUP058,NOVA SPECIALTY CHEMICALS 58,Switzerland,novaspecialty.chemicals.58@example.com,9344175247.0
+DUP013,nova specialty chemicals 13,singapore,novaspecialty.chemicals.13@example.com,9279182318.0
+DUP380,Pioneer  Specialty  Materials  380,France,pioneerspecialty.materials.380@example.com,7955690228.0
+DUP141,vertex materials 141,Switzerland,invalid-email,6041531046.0
+DUP126,Nova  Specialty  Chemicals  126,Netherlands,novaspecialty.chemicals.126@example.com,9580907314.0
+DUP115,Metro Chemical Industries 115 ,Belgium,metrochemical.industries.115@example.com,8245334677.0
+DUP072,UNIVERSAL CHEMICAL PRODUCTS 72,Netherlands,universalchemical.products.72@example.com,9863813067.0
+DUP378,pioneer specialty materials 378,Netherlands,pioneerspecialty.materials.378@example.com,7482296058.0
+DUP053,Apex  Chemical  Solutions  53,Japan,apexchemical.solutions.53@example.com,8150000991.0
+DUP347,GreenCore Chemicals 347 ,Japan,greencorechemicals.347@example.com,8845774616.0
+DUP457,GreenCore Chemicals 457 ,United Kingdom,greencorechemicals.457@example.com,8879716355.0
+DUP280,apex chemical solutions 280,Germany ,apexchemical.solutions.280@example.com,7263732197.0
+DUP045,nova specialty chemicals 45,France,novaspecialty.chemicals.45@example.com,8561557300.0
+DUP303,Prime Industrial Supplies 303 ,Netherlands,primeindustrial.supplies.303@example.com,6490000526.0
+DUP217,APEX CHEMICAL SOLUTIONS 217,Singapore,apexchemical.solutions.217@example.com,9577240334.0
+DUP017,APEX CHEMICAL SOLUTIONS 17,Netherlands,apexchemical.solutions.17@example.com,8303082117.0
+DUP016,Universal  Chemical  Products  16,Belgium,invalid-email,7136108454.0
+DUP048,PRIME INDUSTRIAL SUPPLIES 48,Switzerland,primeindustrial.supplies.48@example.com,
+DUP112,Global Industrial Materials 112 ,Belgium,globalindustrial.materials.112@example.com,7057486868.0
