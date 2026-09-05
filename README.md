@@ -12,9 +12,7 @@ This project demonstrates a practical approach to identifying, validating, stand
 
 The project uses a simulated manufacturing company named **ChemCore Manufacturing**.
 
-> **Note:** This is an academic simulation using synthetic data. It is not connected to Clariant's actual systems, SAP systems, or real company data.
 
----
 
 ## 🎯 Objectives
 
